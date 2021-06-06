@@ -1,0 +1,6894 @@
+{
+  "type": true,
+  "data": [
+    {
+      "_id": "5c88f922cd9ba504dcf71e3a",
+      "stationId": 1,
+      "stationName": "Disp. Clăbucet",
+      "stationLat": 46.75144,
+      "stationLng": 23.54292,
+      "stationComments": "Disp. Clăbucet",
+      "__v": 0,
+      "updated_at": "2020-12-02T14:46:09.689Z"
+    },
+    {
+      "_id": "5c88f922cd9ba504dcf71e3c",
+      "stationId": 2,
+      "stationName": "Primăverii",
+      "stationLat": 46.75181,
+      "stationLng": 23.54553,
+      "stationComments": "Primăverii",
+      "__v": 0,
+      "updated_at": "2020-12-07T08:19:51.077Z"
+    },
+    {
+      "_id": "5c88f922cd9ba504dcf71e57",
+      "stationId": 3,
+      "stationName": "Minerva",
+      "stationLat": 46.7543,
+      "stationLng": 23.5541,
+      "stationComments": "Minerva",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f922cd9ba504dcf71e70",
+      "stationId": 4,
+      "stationName": "Izlazului",
+      "stationLat": 46.755388,
+      "stationLng": 23.561951,
+      "stationComments": "Izlazului",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f922cd9ba504dcf71e7a",
+      "stationId": 5,
+      "stationName": "Calea Mănăștur",
+      "stationLat": 46.760746,
+      "stationLng": 23.564436,
+      "stationComments": "Calea Mănăștur",
+      "__v": 0,
+      "updated_at": "2020-12-02T14:33:31.446Z"
+    },
+    {
+      "_id": "5c88f922cd9ba504dcf71e83",
+      "stationId": 6,
+      "stationName": "Agronomia",
+      "stationLat": 46.76307,
+      "stationLng": 23.57265,
+      "stationComments": "Agronomia",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f922cd9ba504dcf71e8d",
+      "stationId": 7,
+      "stationName": "Calea Moților",
+      "stationLat": 46.766114,
+      "stationLng": 23.579605,
+      "stationComments": "Calea Moților",
+      "__v": 0,
+      "updated_at": "2020-12-02T14:33:55.468Z"
+    },
+    {
+      "_id": "5c88f922cd9ba504dcf71e8e",
+      "stationId": 8,
+      "stationName": "Memorandumului Sud",
+      "stationLat": 46.769625,
+      "stationLng": 23.58712,
+      "stationComments": "Memorandumului Sud",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f922cd9ba504dcf71e90",
+      "stationId": 9,
+      "stationName": "Victoria",
+      "stationLat": 46.771278,
+      "stationLng": 23.59113,
+      "stationComments": "Victoria",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f922cd9ba504dcf71e99",
+      "stationId": 10,
+      "stationName": "Regionala CFR",
+      "stationLat": 46.772974,
+      "stationLng": 23.596942,
+      "stationComments": "Regionala CFR",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f922cd9ba504dcf71e9a",
+      "stationId": 11,
+      "stationName": "Ploiești",
+      "stationLat": 46.776683,
+      "stationLng": 23.597878,
+      "stationComments": "Ploiești",
+      "__v": 0,
+      "updated_at": "2020-12-02T14:34:15.024Z"
+    },
+    {
+      "_id": "5c88f922cd9ba504dcf71eae",
+      "stationId": 12,
+      "stationName": "Paris",
+      "stationLat": 46.782622,
+      "stationLng": 23.600072,
+      "stationComments": "Paris",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f922cd9ba504dcf71ec0",
+      "stationId": 13,
+      "stationName": "P-ța 1 Mai Sosire",
+      "stationLat": 46.786269,
+      "stationLng": 23.605687,
+      "stationComments": "P-ța 1 Mai Sosire",
+      "__v": 0,
+      "updated_at": "2020-12-09T13:05:49.424Z"
+    },
+    {
+      "_id": "5c88f922cd9ba504dcf71ec6",
+      "stationId": 14,
+      "stationName": "P-ța 1 Mai",
+      "stationLat": 46.786197,
+      "stationLng": 23.605345,
+      "stationComments": "P-ța 1 Mai",
+      "__v": 0,
+      "updated_at": "2020-12-02T14:34:41.721Z"
+    },
+    {
+      "_id": "5c88f922cd9ba504dcf71ec7",
+      "stationId": 15,
+      "stationName": "Barbu Patriciu",
+      "stationLat": 46.783819,
+      "stationLng": 23.601556,
+      "stationComments": "Barbu Patriciu",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f922cd9ba504dcf71ed8",
+      "stationId": 16,
+      "stationName": "Ploiești Vest",
+      "stationLat": 46.777331,
+      "stationLng": 23.597785,
+      "stationComments": "Ploiești Vest",
+      "__v": 0,
+      "updated_at": "2020-12-02T14:34:53.951Z"
+    },
+    {
+      "_id": "5c88f922cd9ba504dcf71ed9",
+      "stationId": 17,
+      "stationName": "Constanța",
+      "stationLat": 46.77331,
+      "stationLng": 23.5974,
+      "stationComments": "Constanța",
+      "__v": 0,
+      "updated_at": "2020-12-02T14:35:06.787Z"
+    },
+    {
+      "_id": "5c88f922cd9ba504dcf71eda",
+      "stationId": 18,
+      "stationName": "Memorandumului Nord",
+      "stationLat": 46.769761,
+      "stationLng": 23.586973,
+      "stationComments": "Memorandumului Nord",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f922cd9ba504dcf71ee9",
+      "stationId": 19,
+      "stationName": "Spitalul de Copii",
+      "stationLat": 46.766505,
+      "stationLng": 23.58018,
+      "stationComments": "Spitalul de Copii",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f923cd9ba504dcf71eeb",
+      "stationId": 20,
+      "stationName": "Fabrica de Bere",
+      "stationLat": 46.763764,
+      "stationLng": 23.573343,
+      "stationComments": "Fabrica de Bere",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f923cd9ba504dcf71ef2",
+      "stationId": 21,
+      "stationName": "Grădini Mănăștur",
+      "stationLat": 46.760893,
+      "stationLng": 23.564105,
+      "stationComments": "Grădini Mănăștur",
+      "__v": 0,
+      "updated_at": "2020-12-02T14:35:46.781Z"
+    },
+    {
+      "_id": "5c88f923cd9ba504dcf71ef9",
+      "stationId": 22,
+      "stationName": "Ion Meșter",
+      "stationLat": 46.757138,
+      "stationLng": 23.556415,
+      "stationComments": "Ion Meșter",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:18:41.302Z"
+    },
+    {
+      "_id": "5c88f923cd9ba504dcf71f01",
+      "stationId": 23,
+      "stationName": "Peana",
+      "stationLat": 46.754602,
+      "stationLng": 23.55472,
+      "stationComments": "Peana",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f923cd9ba504dcf71f0a",
+      "stationId": 24,
+      "stationName": "Gârbău",
+      "stationLat": 46.752349,
+      "stationLng": 23.546936,
+      "stationComments": "Gârbău",
+      "__v": 0,
+      "updated_at": "2020-12-02T14:36:30.888Z"
+    },
+    {
+      "_id": "5c88f923cd9ba504dcf71f0d",
+      "stationId": 25,
+      "stationName": "P-ța Gării Vechi",
+      "stationLat": 46.78427,
+      "stationLng": 23.588314,
+      "stationComments": "P-ța Gării Vechi",
+      "__v": 0,
+      "updated_at": "2020-12-02T14:36:53.635Z"
+    },
+    {
+      "_id": "5c88f923cd9ba504dcf71f0e",
+      "stationId": 26,
+      "stationName": "Libertatea Est Tram",
+      "stationLat": 46.788384,
+      "stationLng": 23.59675,
+      "stationComments": "Libertatea Est Tram",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f923cd9ba504dcf71f0f",
+      "stationId": 27,
+      "stationName": "Primăria IRIS",
+      "stationLat": 46.791846,
+      "stationLng": 23.599423,
+      "stationComments": "Primăria IRIS",
+      "__v": 0,
+      "updated_at": "2020-12-02T14:37:22.684Z"
+    },
+    {
+      "_id": "5c88f923cd9ba504dcf71f27",
+      "stationId": 28,
+      "stationName": "IRIS Sud Tram",
+      "stationLat": 46.795282,
+      "stationLng": 23.602329,
+      "stationComments": "IRIS Sud Tram",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f923cd9ba504dcf71f36",
+      "stationId": 29,
+      "stationName": "Oașului Sud Tram",
+      "stationLat": 46.798725,
+      "stationLng": 23.607031,
+      "stationComments": "Oașului Sud Tram",
+      "__v": 0,
+      "updated_at": "2020-12-02T14:37:47.752Z"
+    },
+    {
+      "_id": "5c88f923cd9ba504dcf71f37",
+      "stationId": 30,
+      "stationName": "TERAPIA Sud Tram",
+      "stationLat": 46.797473,
+      "stationLng": 23.613131,
+      "stationComments": "TERAPIA Sud Tram",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f923cd9ba504dcf71f42",
+      "stationId": 31,
+      "stationName": "SINTEROM Sud Tram",
+      "stationLat": 46.795651,
+      "stationLng": 23.623661,
+      "stationComments": "SINTEROM Sud Tram",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f923cd9ba504dcf71f5b",
+      "stationId": 32,
+      "stationName": "TERMOROM Sud Tram",
+      "stationLat": 46.795959,
+      "stationLng": 23.631978,
+      "stationComments": "TERMOROM Sud Tram",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f923cd9ba504dcf71f76",
+      "stationId": 33,
+      "stationName": "ERS CUG Sud",
+      "stationLat": 46.79605,
+      "stationLng": 23.63588,
+      "stationComments": "ERS CUG Sud",
+      "__v": 0,
+      "updated_at": "2021-04-19T05:46:54.899Z"
+    },
+    {
+      "_id": "5c88f923cd9ba504dcf71f8e",
+      "stationId": 34,
+      "stationName": "UNIMET Sud",
+      "stationLat": 46.796323,
+      "stationLng": 23.644686,
+      "stationComments": "UNIMET Sud",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f923cd9ba504dcf71f94",
+      "stationId": 35,
+      "stationName": "Disp. Tram CUG",
+      "stationLat": 46.796505,
+      "stationLng": 23.646548,
+      "stationComments": "Disp. Tram CUG",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f923cd9ba504dcf71f9d",
+      "stationId": 36,
+      "stationName": "UNIMET Nord",
+      "stationLat": 46.796411,
+      "stationLng": 23.644727,
+      "stationComments": "UNIMET Nord",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f923cd9ba504dcf71f9e",
+      "stationId": 37,
+      "stationName": "ERS CUG Nord Tram",
+      "stationLat": 46.796126,
+      "stationLng": 23.637238,
+      "stationComments": "ERS CUG Nord Tram",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f923cd9ba504dcf71fb5",
+      "stationId": 38,
+      "stationName": "TERMOROM Nord Tram",
+      "stationLat": 46.796003,
+      "stationLng": 23.630015,
+      "stationComments": "TERMOROM Nord Tram",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f923cd9ba504dcf71fb6",
+      "stationId": 39,
+      "stationName": "SINTEROM Nord Tram",
+      "stationLat": 46.796104,
+      "stationLng": 23.620705,
+      "stationComments": "SINTEROM Nord Tram",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f923cd9ba504dcf71fc2",
+      "stationId": 40,
+      "stationName": "TERAPIA Nord Tram",
+      "stationLat": 46.797571,
+      "stationLng": 23.613399,
+      "stationComments": "TERAPIA Nord Tram",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f923cd9ba504dcf71fd8",
+      "stationId": 41,
+      "stationName": "Oașului Nord Tram",
+      "stationLat": 46.798176,
+      "stationLng": 23.606105,
+      "stationComments": "Oașului Nord Tram",
+      "__v": 0,
+      "updated_at": "2020-12-02T14:39:35.244Z"
+    },
+    {
+      "_id": "5c88f924cd9ba504dcf71fda",
+      "stationId": 42,
+      "stationName": "IRIS Nord Tram",
+      "stationLat": 46.795242,
+      "stationLng": 23.601957,
+      "stationComments": "IRIS Nord Tram",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f924cd9ba504dcf71fdb",
+      "stationId": 43,
+      "stationName": "P-ța Liebknecht",
+      "stationLat": 46.79186,
+      "stationLng": 23.599357,
+      "stationComments": "P-ța Liebknecht",
+      "__v": 0,
+      "updated_at": "2020-12-02T14:40:03.686Z"
+    },
+    {
+      "_id": "5c88f924cd9ba504dcf71fe7",
+      "stationId": 44,
+      "stationName": "Libertatea Vest Tram",
+      "stationLat": 46.787476,
+      "stationLng": 23.596562,
+      "stationComments": "Libertatea Vest Tram",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f924cd9ba504dcf71ff7",
+      "stationId": 45,
+      "stationName": "P-ța Gării Noi",
+      "stationLat": 46.784092,
+      "stationLng": 23.586912,
+      "stationComments": "P-ța Gării Noi",
+      "__v": 0,
+      "updated_at": "2020-12-02T14:41:48.334Z"
+    },
+    {
+      "_id": "5c88f924cd9ba504dcf72002",
+      "stationId": 46,
+      "stationName": "Disp. Bucium",
+      "stationLat": 46.7517,
+      "stationLng": 23.54342,
+      "stationComments": "Disp. Bucium",
+      "__v": 0,
+      "updated_at": "2021-01-05T11:07:00.877Z"
+    },
+    {
+      "_id": "5c88f924cd9ba504dcf72003",
+      "stationId": 47,
+      "stationName": "Baza Unirea",
+      "stationLat": 46.751669,
+      "stationLng": 23.544786,
+      "stationComments": "Baza Unirea",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f924cd9ba504dcf7200b",
+      "stationId": 48,
+      "stationName": "Parâng",
+      "stationLat": 46.754351,
+      "stationLng": 23.554037,
+      "stationComments": "Parâng",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:19:22.472Z"
+    },
+    {
+      "_id": "5c88f924cd9ba504dcf7200e",
+      "stationId": 49,
+      "stationName": "Calvaria",
+      "stationLat": 46.759248,
+      "stationLng": 23.557351,
+      "stationComments": "Calvaria",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f924cd9ba504dcf7202c",
+      "stationId": 50,
+      "stationName": "Plopilor Sud",
+      "stationLat": 46.762801,
+      "stationLng": 23.560653,
+      "stationComments": "Plopilor Sud",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f924cd9ba504dcf72033",
+      "stationId": 51,
+      "stationName": "Uzinei Electrice",
+      "stationLat": 46.76717,
+      "stationLng": 23.568203,
+      "stationComments": "Uzinei Electrice",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f924cd9ba504dcf72041",
+      "stationId": 52,
+      "stationName": "Cluj Arena",
+      "stationLat": 46.768025,
+      "stationLng": 23.570274,
+      "stationComments": "Cluj Arena",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f924cd9ba504dcf72042",
+      "stationId": 53,
+      "stationName": "Parcul Central",
+      "stationLat": 46.772013,
+      "stationLng": 23.583535,
+      "stationComments": "Parcul Central",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f924cd9ba504dcf7205a",
+      "stationId": 54,
+      "stationName": "G. Barițiu",
+      "stationLat": 46.77347,
+      "stationLng": 23.587791,
+      "stationComments": "G. Barițiu",
+      "__v": 0,
+      "updated_at": "2020-12-02T14:43:07.332Z"
+    },
+    {
+      "_id": "5c88f924cd9ba504dcf72063",
+      "stationId": 55,
+      "stationName": "Facultatea de Litere",
+      "stationLat": 46.777704,
+      "stationLng": 23.587212,
+      "stationComments": "Facultatea de Litere",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f924cd9ba504dcf72067",
+      "stationId": 56,
+      "stationName": "P-ța Gării Nord",
+      "stationLat": 46.784078,
+      "stationLng": 23.586025,
+      "stationComments": "P-ța Gării Nord",
+      "__v": 0,
+      "updated_at": "2020-12-02T14:44:32.907Z"
+    },
+    {
+      "_id": "5c88f924cd9ba504dcf72084",
+      "stationId": 57,
+      "stationName": "Horea",
+      "stationLat": 46.777206,
+      "stationLng": 23.587097,
+      "stationComments": "Horea",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f924cd9ba504dcf72096",
+      "stationId": 58,
+      "stationName": "Opera Maghiară Est",
+      "stationLat": 46.772077,
+      "stationLng": 23.583626,
+      "stationComments": "Opera Maghiară Est",
+      "__v": 0,
+      "updated_at": "2020-12-02T14:44:45.971Z"
+    },
+    {
+      "_id": "5c88f924cd9ba504dcf7209b",
+      "stationId": 59,
+      "stationName": "Splaiul Independenței",
+      "stationLat": 46.768039,
+      "stationLng": 23.570164,
+      "stationComments": "Splaiul Independenței",
+      "__v": 0,
+      "updated_at": "2020-12-02T14:45:05.013Z"
+    },
+    {
+      "_id": "5c88f924cd9ba504dcf720b0",
+      "stationId": 60,
+      "stationName": "Sala Sporturilor",
+      "stationLat": 46.767102,
+      "stationLng": 23.567468,
+      "stationComments": "Sala Sporturilor",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f924cd9ba504dcf720be",
+      "stationId": 61,
+      "stationName": "Plopilor Nord",
+      "stationLat": 46.762847,
+      "stationLng": 23.560146,
+      "stationComments": "Plopilor Nord",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f924cd9ba504dcf720cb",
+      "stationId": 62,
+      "stationName": "Gr. Alexandrescu",
+      "stationLat": 46.758147,
+      "stationLng": 23.556769,
+      "stationComments": "Gr. Alexandrescu",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f924cd9ba504dcf720cc",
+      "stationId": 63,
+      "stationName": "Răvașului",
+      "stationLat": 46.753856,
+      "stationLng": 23.551061,
+      "stationComments": "Răvașului",
+      "__v": 0,
+      "updated_at": "2020-12-02T14:45:43.060Z"
+    },
+    {
+      "_id": "5c88f924cd9ba504dcf720cd",
+      "stationId": 64,
+      "stationName": "Clăbucet",
+      "stationLat": 46.751695,
+      "stationLng": 23.544688,
+      "stationComments": "Clăbucet",
+      "__v": 0,
+      "updated_at": "2020-12-02T14:46:24.298Z"
+    },
+    {
+      "_id": "5c88f925cd9ba504dcf720e4",
+      "stationId": 65,
+      "stationName": "Amberger Sud",
+      "stationLat": 46.796805,
+      "stationLng": 23.655544,
+      "stationComments": "Amberger Sud",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f925cd9ba504dcf720fa",
+      "stationId": 66,
+      "stationName": "DEPOU Vest",
+      "stationLat": 46.796204,
+      "stationLng": 23.658989,
+      "stationComments": "DEPOU Vest",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f925cd9ba504dcf720fe",
+      "stationId": 67,
+      "stationName": "DEPOU_Tram",
+      "stationLat": 46.795754,
+      "stationLng": 23.660279,
+      "stationComments": "DEPOU_Tram",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f925cd9ba504dcf720ff",
+      "stationId": 68,
+      "stationName": "DEPOU Est",
+      "stationLat": 46.796123,
+      "stationLng": 23.659184,
+      "stationComments": "DEPOU Est",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f925cd9ba504dcf72111",
+      "stationId": 69,
+      "stationName": "Amberger Nord",
+      "stationLat": 46.796894,
+      "stationLng": 23.655155,
+      "stationComments": "Amberger Nord",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f925cd9ba504dcf72125",
+      "stationId": 70,
+      "stationName": "P-ța M. Viteazul Sud",
+      "stationLat": 46.773948,
+      "stationLng": 23.589421,
+      "stationComments": "P-ța M. Viteazul Sud",
+      "__v": 0,
+      "updated_at": "2020-12-03T14:38:22.229Z"
+    },
+    {
+      "_id": "5c88f925cd9ba504dcf7213c",
+      "stationId": 71,
+      "stationName": "Sora",
+      "stationLat": 46.771728,
+      "stationLng": 23.592111,
+      "stationComments": "Sora",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f925cd9ba504dcf72149",
+      "stationId": 72,
+      "stationName": "Bâlea Vest",
+      "stationLat": 46.752366,
+      "stationLng": 23.564871,
+      "stationComments": "Bâlea Vest",
+      "__v": 0,
+      "updated_at": "2020-12-03T14:38:40.979Z"
+    },
+    {
+      "_id": "5c88f925cd9ba504dcf7214e",
+      "stationId": 73,
+      "stationName": "Dimitrie Gusti",
+      "stationLat": 46.748753,
+      "stationLng": 23.562796,
+      "stationComments": "Dimitrie Gusti",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f925cd9ba504dcf7214f",
+      "stationId": 74,
+      "stationName": "E.Quinet Vest",
+      "stationLat": 46.747346,
+      "stationLng": 23.564256,
+      "stationComments": "E.Quinet Vest",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f925cd9ba504dcf7216c",
+      "stationId": 75,
+      "stationName": "E.Quinet Sud",
+      "stationLat": 46.74273,
+      "stationLng": 23.565325,
+      "stationComments": "E.Quinet Sud",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f925cd9ba504dcf7217d",
+      "stationId": 76,
+      "stationName": "E. Quinet Nord",
+      "stationLat": 46.747922,
+      "stationLng": 23.56341,
+      "stationComments": "E. Quinet Nord",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f925cd9ba504dcf72184",
+      "stationId": 77,
+      "stationName": "A.N.L.",
+      "stationLat": 46.750165,
+      "stationLng": 23.557924,
+      "stationComments": "A.N.L.",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f925cd9ba504dcf72193",
+      "stationId": 78,
+      "stationName": "Grădinița Mehedinți",
+      "stationLat": 46.753344,
+      "stationLng": 23.558464,
+      "stationComments": "Grădinița Mehedinți",
+      "__v": 0,
+      "updated_at": "2020-12-03T14:39:07.958Z"
+    },
+    {
+      "_id": "5c88f925cd9ba504dcf721a0",
+      "stationId": 79,
+      "stationName": "Central",
+      "stationLat": 46.772883,
+      "stationLng": 23.58888,
+      "stationComments": "Central",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f925cd9ba504dcf721a1",
+      "stationId": 80,
+      "stationName": "P-ța M.Viteazu Sosire",
+      "stationLat": 46.773931,
+      "stationLng": 23.589312,
+      "stationComments": "P-ța M.Viteazu Sosire",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:19:54.279Z"
+    },
+    {
+      "_id": "5c88f925cd9ba504dcf721a2",
+      "stationId": 81,
+      "stationName": "Biserica Borhanci Est",
+      "stationLat": 46.743998,
+      "stationLng": 23.651126,
+      "stationComments": "Biserica Borhanci Est",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f925cd9ba504dcf721a5",
+      "stationId": 82,
+      "stationName": "Voievodul Menumorut Est",
+      "stationLat": 46.747068,
+      "stationLng": 23.647465,
+      "stationComments": "Voievodul Menumorut Est",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f925cd9ba504dcf721a6",
+      "stationId": 83,
+      "stationName": "Voievodul Gelu Est",
+      "stationLat": 46.750523,
+      "stationLng": 23.639048,
+      "stationComments": "Voievodul Gelu Est",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f925cd9ba504dcf721b3",
+      "stationId": 84,
+      "stationName": "Theodor Pallady",
+      "stationLat": 46.752671,
+      "stationLng": 23.634129,
+      "stationComments": "Theodor Pallady",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f925cd9ba504dcf721b7",
+      "stationId": 85,
+      "stationName": "Borhanciului",
+      "stationLat": 46.754861,
+      "stationLng": 23.627982,
+      "stationComments": "Borhanciului",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f925cd9ba504dcf721b8",
+      "stationId": 86,
+      "stationName": "Alverna Est",
+      "stationLat": 46.758496,
+      "stationLng": 23.617117,
+      "stationComments": "Alverna Est",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f926cd9ba504dcf721b9",
+      "stationId": 87,
+      "stationName": "Mălinului Est",
+      "stationLat": 46.760177,
+      "stationLng": 23.614318,
+      "stationComments": "Mălinului Est",
+      "__v": 0,
+      "updated_at": "2020-12-03T14:39:48.954Z"
+    },
+    {
+      "_id": "5c88f926cd9ba504dcf721ba",
+      "stationId": 88,
+      "stationName": "C-tin Brâncoveanu Est",
+      "stationLat": 46.76341,
+      "stationLng": 23.608802,
+      "stationComments": "C-tin Brâncoveanu Est",
+      "__v": 0,
+      "updated_at": "2020-12-03T14:40:03.733Z"
+    },
+    {
+      "_id": "5c88f926cd9ba504dcf721c4",
+      "stationId": 89,
+      "stationName": "P-ța Cipariu Nord",
+      "stationLat": 46.768366,
+      "stationLng": 23.599376,
+      "stationComments": "P-ța Cipariu Nord",
+      "__v": 0,
+      "updated_at": "2020-12-03T14:40:16.767Z"
+    },
+    {
+      "_id": "5c88f926cd9ba504dcf721d8",
+      "stationId": 90,
+      "stationName": "P-ța Avram Iancu",
+      "stationLat": 46.771364,
+      "stationLng": 23.597349,
+      "stationComments": "P-ța Avram Iancu",
+      "__v": 0,
+      "updated_at": "2020-12-03T14:40:51.183Z"
+    },
+    {
+      "_id": "5c88f926cd9ba504dcf721d9",
+      "stationId": 92,
+      "stationName": "Opera",
+      "stationLat": 46.76966,
+      "stationLng": 23.59709,
+      "stationComments": "Opera",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f926cd9ba504dcf721da",
+      "stationId": 93,
+      "stationName": "P-ța Cipariu Sud",
+      "stationLat": 46.76741,
+      "stationLng": 23.601408,
+      "stationComments": "P-ța Cipariu Sud",
+      "__v": 0,
+      "updated_at": "2020-12-03T14:41:55.712Z"
+    },
+    {
+      "_id": "5c88f926cd9ba504dcf721e3",
+      "stationId": 94,
+      "stationName": "C-tin Brâncoveanu Vest",
+      "stationLat": 46.763399,
+      "stationLng": 23.608518,
+      "stationComments": "C-tin Brâncoveanu Vest",
+      "__v": 0,
+      "updated_at": "2020-12-03T14:42:12.180Z"
+    },
+    {
+      "_id": "5c88f926cd9ba504dcf721f0",
+      "stationId": 95,
+      "stationName": "Mălinului Vest",
+      "stationLat": 46.760187,
+      "stationLng": 23.613899,
+      "stationComments": "Mălinului Vest",
+      "__v": 0,
+      "updated_at": "2020-12-03T14:42:32.223Z"
+    },
+    {
+      "_id": "5c88f926cd9ba504dcf721fc",
+      "stationId": 96,
+      "stationName": "Alverna Vest",
+      "stationLat": 46.758116,
+      "stationLng": 23.61752,
+      "stationComments": "Alverna Vest",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f926cd9ba504dcf72204",
+      "stationId": 97,
+      "stationName": "Antim Ivireanul",
+      "stationLat": 46.754623,
+      "stationLng": 23.62803,
+      "stationComments": "Antim Ivireanul",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f926cd9ba504dcf7221b",
+      "stationId": 98,
+      "stationName": "Violetelor",
+      "stationLat": 46.752529,
+      "stationLng": 23.634521,
+      "stationComments": "Violetelor",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f926cd9ba504dcf72224",
+      "stationId": 99,
+      "stationName": "Voievodul Gelu Vest",
+      "stationLat": 46.750304,
+      "stationLng": 23.639276,
+      "stationComments": "Voievodul Gelu Vest",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f926cd9ba504dcf72231",
+      "stationId": 100,
+      "stationName": "Voievodul Menumorut Vest",
+      "stationLat": 46.747192,
+      "stationLng": 23.647173,
+      "stationComments": "Voievodul Menumorut Vest",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f926cd9ba504dcf72232",
+      "stationId": 101,
+      "stationName": "Biserica Borhanci Vest",
+      "stationLat": 46.743789,
+      "stationLng": 23.6511,
+      "stationComments": "Biserica Borhanci Vest",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f926cd9ba504dcf72233",
+      "stationId": 102,
+      "stationName": "P-ța M. Viteazul Vest",
+      "stationLat": 46.77415,
+      "stationLng": 23.59032,
+      "stationComments": "P-ța M. Viteazul Vest",
+      "__v": 0,
+      "updated_at": "2021-04-08T09:36:45.515Z"
+    },
+    {
+      "_id": "5c88f926cd9ba504dcf72238",
+      "stationId": 103,
+      "stationName": "P-ța I Agârbiceanu Vest",
+      "stationLat": 46.761734,
+      "stationLng": 23.605711,
+      "stationComments": "P-ța I Agârbiceanu Vest",
+      "__v": 0,
+      "updated_at": "2020-12-03T14:43:20.043Z"
+    },
+    {
+      "_id": "5c88f926cd9ba504dcf72247",
+      "stationId": 104,
+      "stationName": "Drapelului Vest",
+      "stationLat": 46.757282,
+      "stationLng": 23.608267,
+      "stationComments": "Drapelului Vest",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f926cd9ba504dcf7224c",
+      "stationId": 105,
+      "stationName": "Becas Vest",
+      "stationLat": 46.754373,
+      "stationLng": 23.611265,
+      "stationComments": "Becas Vest",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f926cd9ba504dcf72257",
+      "stationId": 106,
+      "stationName": "Fagului",
+      "stationLat": 46.752844,
+      "stationLng": 23.610809,
+      "stationComments": "Fagului",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f926cd9ba504dcf72265",
+      "stationId": 107,
+      "stationName": "Trifoiului Nord",
+      "stationLat": 46.74977,
+      "stationLng": 23.60451,
+      "stationComments": "Trifoiului Nord",
+      "__v": 0,
+      "updated_at": "2020-04-30T07:25:23.086Z"
+    },
+    {
+      "_id": "5c88f926cd9ba504dcf72266",
+      "stationId": 108,
+      "stationName": "Vitacom Nord",
+      "stationLat": 46.74893,
+      "stationLng": 23.60102,
+      "stationComments": "Vitacom Nord",
+      "__v": 0,
+      "updated_at": "2020-04-30T07:22:01.088Z"
+    },
+    {
+      "_id": "5c88f926cd9ba504dcf72279",
+      "stationId": 109,
+      "stationName": "Compl. Tempus Nord",
+      "stationLat": 46.74789,
+      "stationLng": 23.59653,
+      "stationComments": "Compl. Tempus Nord",
+      "__v": 0,
+      "updated_at": "2020-04-30T07:23:58.295Z"
+    },
+    {
+      "_id": "5c88f927cd9ba504dcf72285",
+      "stationId": 110,
+      "stationName": "Centrul Medical",
+      "stationLat": 46.745514,
+      "stationLng": 23.592468,
+      "stationComments": "Centrul Medical",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f927cd9ba504dcf7229b",
+      "stationId": 111,
+      "stationName": "Drum Făget",
+      "stationLat": 46.740004,
+      "stationLng": 23.591305,
+      "stationComments": "Drum Făget",
+      "__v": 0,
+      "updated_at": "2020-12-03T14:43:59.458Z"
+    },
+    {
+      "_id": "5c88f927cd9ba504dcf7229c",
+      "stationId": 112,
+      "stationName": "Dacia Service Sosire",
+      "stationLat": 46.741098,
+      "stationLng": 23.591828,
+      "stationComments": "Dacia Service Sosire",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:49:28.272Z"
+    },
+    {
+      "_id": "5c88f927cd9ba504dcf7229d",
+      "stationId": 113,
+      "stationName": "Dacia Service",
+      "stationLat": 46.741158,
+      "stationLng": 23.591863,
+      "stationComments": "Dacia Service",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f927cd9ba504dcf722b9",
+      "stationId": 114,
+      "stationName": "Compexit",
+      "stationLat": 46.74627,
+      "stationLng": 23.59276,
+      "stationComments": "Compexit",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f927cd9ba504dcf722bc",
+      "stationId": 115,
+      "stationName": "Compl. Tempus Sud",
+      "stationLat": 46.74794,
+      "stationLng": 23.59709,
+      "stationComments": "Compl. Tempus Sud",
+      "__v": 0,
+      "updated_at": "2020-04-30T07:24:41.279Z"
+    },
+    {
+      "_id": "5c88f927cd9ba504dcf722cf",
+      "stationId": 116,
+      "stationName": "Vitacom Sud",
+      "stationLat": 46.74895,
+      "stationLng": 23.60143,
+      "stationComments": "Vitacom",
+      "__v": 0,
+      "updated_at": "2020-04-30T07:26:06.188Z"
+    },
+    {
+      "_id": "5c88f927cd9ba504dcf722f0",
+      "stationId": 117,
+      "stationName": "Trifoiului Sud",
+      "stationLat": 46.750124,
+      "stationLng": 23.6064,
+      "stationComments": "Trifoiului Sud",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f927cd9ba504dcf72309",
+      "stationId": 118,
+      "stationName": "Becas Est",
+      "stationLat": 46.754674,
+      "stationLng": 23.611266,
+      "stationComments": "Becas Est",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f927cd9ba504dcf7231c",
+      "stationId": 119,
+      "stationName": "Drapelului Est",
+      "stationLat": 46.757181,
+      "stationLng": 23.608643,
+      "stationComments": "Drapelului Est",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f927cd9ba504dcf72329",
+      "stationId": 120,
+      "stationName": "P-ța I Agârbiceanu Est",
+      "stationLat": 46.760554,
+      "stationLng": 23.606599,
+      "stationComments": "P-ța I Agârbiceanu Est",
+      "__v": 0,
+      "updated_at": "2020-12-03T14:44:28.914Z"
+    },
+    {
+      "_id": "5c88f927cd9ba504dcf72347",
+      "stationId": 121,
+      "stationName": "Andrei Mureșanu",
+      "stationLat": 46.764205,
+      "stationLng": 23.602114,
+      "stationComments": "Andrei Mureșanu",
+      "__v": 0,
+      "updated_at": "2020-12-03T14:44:42.297Z"
+    },
+    {
+      "_id": "5c88f927cd9ba504dcf72356",
+      "stationId": 122,
+      "stationName": "PMV 2 Sosire",
+      "stationLat": 46.77473,
+      "stationLng": 23.589816,
+      "stationComments": "PMV 2 Sosire",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:24:55.496Z"
+    },
+    {
+      "_id": "5c88f927cd9ba504dcf72357",
+      "stationId": 123,
+      "stationName": "P-ța Gării Sud",
+      "stationLat": 46.784159,
+      "stationLng": 23.588321,
+      "stationComments": "P-ța Gării Sud",
+      "__v": 0,
+      "updated_at": "2020-12-03T14:45:16.363Z"
+    },
+    {
+      "_id": "5c88f927cd9ba504dcf72368",
+      "stationId": 124,
+      "stationName": "Traian",
+      "stationLat": 46.780757,
+      "stationLng": 23.591662,
+      "stationComments": "Traian",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f927cd9ba504dcf7236e",
+      "stationId": 125,
+      "stationName": "Dacia",
+      "stationLat": 46.775678,
+      "stationLng": 23.589194,
+      "stationComments": "Dacia",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f927cd9ba504dcf7236f",
+      "stationId": 126,
+      "stationName": "Ion Creangă",
+      "stationLat": 46.763827,
+      "stationLng": 23.587554,
+      "stationComments": "Ion Creangă",
+      "__v": 0,
+      "updated_at": "2020-12-03T14:45:29.246Z"
+    },
+    {
+      "_id": "5c88f927cd9ba504dcf72370",
+      "stationId": 127,
+      "stationName": "Hașdeu",
+      "stationLat": 46.763148,
+      "stationLng": 23.583673,
+      "stationComments": "Hașdeu",
+      "__v": 0,
+      "updated_at": "2020-12-03T14:45:43.717Z"
+    },
+    {
+      "_id": "5c88f927cd9ba504dcf72371",
+      "stationId": 128,
+      "stationName": "C. Porumbescu",
+      "stationLat": 46.761169,
+      "stationLng": 23.581086,
+      "stationComments": "C. Porumbescu",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f927cd9ba504dcf7237b",
+      "stationId": 129,
+      "stationName": "Boli Infecțioase Sosire",
+      "stationLat": 46.760168,
+      "stationLng": 23.58321,
+      "stationComments": "Boli Infecțioase Sosire",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:30:02.355Z"
+    },
+    {
+      "_id": "5c88f927cd9ba504dcf72387",
+      "stationId": 130,
+      "stationName": "Sp. de Boli Infecțioase",
+      "stationLat": 46.760282,
+      "stationLng": 23.58355,
+      "stationComments": "Sp. de Boli Infecțioase",
+      "__v": 0,
+      "updated_at": "2020-12-03T14:46:22.686Z"
+    },
+    {
+      "_id": "5c88f927cd9ba504dcf72391",
+      "stationId": 131,
+      "stationName": "V. Babeș",
+      "stationLat": 46.763785,
+      "stationLng": 23.58488,
+      "stationComments": "V. Babeș",
+      "__v": 0,
+      "updated_at": "2020-12-03T14:46:34.634Z"
+    },
+    {
+      "_id": "5c88f927cd9ba504dcf723a1",
+      "stationId": 132,
+      "stationName": "Cloșca",
+      "stationLat": 46.777272,
+      "stationLng": 23.5873,
+      "stationComments": "Cloșca",
+      "__v": 0,
+      "updated_at": "2020-12-03T14:46:47.680Z"
+    },
+    {
+      "_id": "5c88f928cd9ba504dcf723b7",
+      "stationId": 133,
+      "stationName": "P-ța Gării Sosire",
+      "stationLat": 46.78419,
+      "stationLng": 23.58805,
+      "stationComments": "P-ța Gării Sosire",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:49:42.612Z"
+    },
+    {
+      "_id": "5c88f928cd9ba504dcf723ca",
+      "stationId": 134,
+      "stationName": "Cuza Vodă",
+      "stationLat": 46.774092,
+      "stationLng": 23.591412,
+      "stationComments": "Cuza Vodă",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:25:35.628Z"
+    },
+    {
+      "_id": "5c88f928cd9ba504dcf723d1",
+      "stationId": 135,
+      "stationName": "Răsăritului",
+      "stationLat": 46.785624,
+      "stationLng": 23.605608,
+      "stationComments": "Răsăritului",
+      "__v": 0,
+      "updated_at": "2020-12-03T14:47:26.115Z"
+    },
+    {
+      "_id": "5c88f928cd9ba504dcf723d3",
+      "stationId": 136,
+      "stationName": "Haltă Mărăști",
+      "stationLat": 46.785321,
+      "stationLng": 23.61182,
+      "stationComments": "Haltă Mărăști",
+      "__v": 0,
+      "updated_at": "2020-12-03T14:47:46.376Z"
+    },
+    {
+      "_id": "5c88f928cd9ba504dcf723f7",
+      "stationId": 137,
+      "stationName": "Bobâlnei Est",
+      "stationLat": 46.787973,
+      "stationLng": 23.615308,
+      "stationComments": "Bobâlnei Est",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:30:26.327Z"
+    },
+    {
+      "_id": "5c88f928cd9ba504dcf72404",
+      "stationId": 138,
+      "stationName": "Terapia Est",
+      "stationLat": 46.796106,
+      "stationLng": 23.613441,
+      "stationComments": "Terapia Est",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f928cd9ba504dcf72415",
+      "stationId": 139,
+      "stationName": "SINTEROM Sud",
+      "stationLat": 46.795774,
+      "stationLng": 23.621411,
+      "stationComments": "SINTEROM Sud",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f928cd9ba504dcf72424",
+      "stationId": 140,
+      "stationName": "SIETA",
+      "stationLat": 46.795401,
+      "stationLng": 23.627704,
+      "stationComments": "SIETA",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f928cd9ba504dcf7243a",
+      "stationId": 141,
+      "stationName": "TERMOROM Sud",
+      "stationLat": 46.795899,
+      "stationLng": 23.630945,
+      "stationComments": "TERMOROM Sud",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f928cd9ba504dcf72440",
+      "stationId": 142,
+      "stationName": "ERS CUG S.",
+      "stationLat": 46.795851,
+      "stationLng": 23.635392,
+      "stationComments": "ERS CUG S.",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f928cd9ba504dcf7244d",
+      "stationId": 143,
+      "stationName": "Disp. ERS CUG",
+      "stationLat": 46.795839,
+      "stationLng": 23.635481,
+      "stationComments": "Disp. ERS CUG",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f928cd9ba504dcf7244e",
+      "stationId": 144,
+      "stationName": "ERS CUG Nord",
+      "stationLat": 46.7961,
+      "stationLng": 23.63452,
+      "stationComments": "ERS CUG Nord",
+      "__v": 0,
+      "updated_at": "2021-04-16T13:38:46.053Z"
+    },
+    {
+      "_id": "5c88f928cd9ba504dcf72452",
+      "stationId": 145,
+      "stationName": "TERMOROM Nord",
+      "stationLat": 46.796027,
+      "stationLng": 23.630385,
+      "stationComments": "TERMOROM Nord",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f928cd9ba504dcf72467",
+      "stationId": 146,
+      "stationName": "SINTEROM Nord",
+      "stationLat": 46.796248,
+      "stationLng": 23.620074,
+      "stationComments": "SINTEROM Nord",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f928cd9ba504dcf72469",
+      "stationId": 147,
+      "stationName": "Terapia Vest",
+      "stationLat": 46.796562,
+      "stationLng": 23.612796,
+      "stationComments": "Terapia Vest",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f928cd9ba504dcf7247e",
+      "stationId": 148,
+      "stationName": "Bobalnei Vest",
+      "stationLat": 46.787301,
+      "stationLng": 23.614705,
+      "stationComments": "Bobalnei Vest",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f928cd9ba504dcf7248d",
+      "stationId": 149,
+      "stationName": "Anton Pann",
+      "stationLat": 46.779989,
+      "stationLng": 23.595073,
+      "stationComments": "Anton Pann",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f928cd9ba504dcf7248e",
+      "stationId": 150,
+      "stationName": "DEPOU Tram Sud",
+      "stationLat": 46.797033,
+      "stationLng": 23.660562,
+      "stationComments": "DEPOU Tram Sud",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f928cd9ba504dcf7249b",
+      "stationId": 151,
+      "stationName": "Emerson Sosire",
+      "stationLat": 46.79553,
+      "stationLng": 23.66477,
+      "stationComments": "Emerson Sosire",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:37:32.190Z"
+    },
+    {
+      "_id": "5c88f928cd9ba504dcf7249c",
+      "stationId": 152,
+      "stationName": "EMERSON",
+      "stationLat": 46.79447,
+      "stationLng": 23.6648,
+      "stationComments": "EMERSON",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f928cd9ba504dcf724b2",
+      "stationId": 153,
+      "stationName": "DEPOU Tram Nord",
+      "stationLat": 46.797153,
+      "stationLng": 23.660452,
+      "stationComments": "DEPOU Tram Nord",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f928cd9ba504dcf724b3",
+      "stationId": 154,
+      "stationName": "Disp. Unirii",
+      "stationLat": 46.768139,
+      "stationLng": 23.630001,
+      "stationComments": "Disp. Unirii",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f929cd9ba504dcf724b4",
+      "stationId": 155,
+      "stationName": "Unirii",
+      "stationLat": 46.768646,
+      "stationLng": 23.630178,
+      "stationComments": "Unirii",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f929cd9ba504dcf724be",
+      "stationId": 156,
+      "stationName": "Colegiul Pedagogic",
+      "stationLat": 46.769986,
+      "stationLng": 23.628161,
+      "stationComments": "Colegiul Pedagogic",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f929cd9ba504dcf724c2",
+      "stationId": 157,
+      "stationName": "Iulius Mall Est",
+      "stationLat": 46.771181,
+      "stationLng": 23.626202,
+      "stationComments": "Iulius Mall Est",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f929cd9ba504dcf724c3",
+      "stationId": 158,
+      "stationName": "Campus Universitar Est",
+      "stationLat": 46.77404,
+      "stationLng": 23.621928,
+      "stationComments": "Campus Universitar Est",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f929cd9ba504dcf724c8",
+      "stationId": 159,
+      "stationName": "Arte Plastice",
+      "stationLat": 46.778912,
+      "stationLng": 23.617318,
+      "stationComments": "Arte Plastice",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f929cd9ba504dcf724c9",
+      "stationId": 160,
+      "stationName": "Crinului",
+      "stationLat": 46.777896,
+      "stationLng": 23.611691,
+      "stationComments": "Crinului",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f929cd9ba504dcf724d1",
+      "stationId": 161,
+      "stationName": "Someș",
+      "stationLat": 46.776001,
+      "stationLng": 23.604771,
+      "stationComments": "Someș",
+      "__v": 0,
+      "updated_at": "2020-12-03T14:48:12.163Z"
+    },
+    {
+      "_id": "5c88f929cd9ba504dcf724f6",
+      "stationId": 162,
+      "stationName": "Taberei",
+      "stationLat": 46.758873,
+      "stationLng": 23.550973,
+      "stationComments": "Taberei",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f929cd9ba504dcf724f8",
+      "stationId": 163,
+      "stationName": "Calea Florești",
+      "stationLat": 46.757718,
+      "stationLng": 23.545813,
+      "stationComments": "Calea Florești",
+      "__v": 0,
+      "updated_at": "2020-12-03T14:48:36.519Z"
+    },
+    {
+      "_id": "5c88f929cd9ba504dcf724f9",
+      "stationId": 164,
+      "stationName": "Colina",
+      "stationLat": 46.752803,
+      "stationLng": 23.543384,
+      "stationComments": "Colina",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f929cd9ba504dcf724fe",
+      "stationId": 165,
+      "stationName": "Bucium",
+      "stationLat": 46.752778,
+      "stationLng": 23.543685,
+      "stationComments": "Bucium",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f929cd9ba504dcf72529",
+      "stationId": 166,
+      "stationName": "Ciobanului",
+      "stationLat": 46.75767,
+      "stationLng": 23.546532,
+      "stationComments": "Ciobanului",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f929cd9ba504dcf72535",
+      "stationId": 167,
+      "stationName": "P-ța Flora",
+      "stationLat": 46.758616,
+      "stationLng": 23.550912,
+      "stationComments": "P-ța Flora",
+      "__v": 0,
+      "updated_at": "2020-12-03T14:49:01.582Z"
+    },
+    {
+      "_id": "5c88f929cd9ba504dcf72536",
+      "stationId": 168,
+      "stationName": "Biserica Sf. Petru",
+      "stationLat": 46.775881,
+      "stationLng": 23.605046,
+      "stationComments": "Biserica Sf. Petru",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f929cd9ba504dcf72543",
+      "stationId": 169,
+      "stationName": "P-ța Mărăști",
+      "stationLat": 46.777569,
+      "stationLng": 23.611278,
+      "stationComments": "P-ța Mărăști",
+      "__v": 0,
+      "updated_at": "2020-12-03T14:49:29.608Z"
+    },
+    {
+      "_id": "5c88f929cd9ba504dcf7255d",
+      "stationId": 170,
+      "stationName": "Mareșal C-tin Prezan",
+      "stationLat": 46.778392,
+      "stationLng": 23.615791,
+      "stationComments": "Mareșal C-tin Prezan",
+      "__v": 0,
+      "updated_at": "2020-12-03T14:49:49.232Z"
+    },
+    {
+      "_id": "5c88f929cd9ba504dcf72582",
+      "stationId": 171,
+      "stationName": "Dorobanților",
+      "stationLat": 46.777332,
+      "stationLng": 23.620178,
+      "stationComments": "Dorobanților",
+      "__v": 0,
+      "updated_at": "2020-12-03T14:50:03.783Z"
+    },
+    {
+      "_id": "5c88f929cd9ba504dcf72588",
+      "stationId": 172,
+      "stationName": "Campus Universitar Vest",
+      "stationLat": 46.774108,
+      "stationLng": 23.621661,
+      "stationComments": "Campus Universitar Vest",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f929cd9ba504dcf7258e",
+      "stationId": 173,
+      "stationName": "Iulius Mall Vest",
+      "stationLat": 46.771454,
+      "stationLng": 23.625208,
+      "stationComments": "Iulius Mall Vest",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f929cd9ba504dcf72595",
+      "stationId": 174,
+      "stationName": "Valeriu Bologa",
+      "stationLat": 46.769819,
+      "stationLng": 23.628204,
+      "stationComments": "Valeriu Bologa",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f929cd9ba504dcf72596",
+      "stationId": 175,
+      "stationName": "Nodul N Nord",
+      "stationLat": 46.756427,
+      "stationLng": 23.539941,
+      "stationComments": "Nodul N Nord",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f929cd9ba504dcf7259c",
+      "stationId": 176,
+      "stationName": "POLUS Sosire",
+      "stationLat": 46.752679,
+      "stationLng": 23.533082,
+      "stationComments": "POLUS Sosire",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:49:54.577Z"
+    },
+    {
+      "_id": "5c88f92acd9ba504dcf7259d",
+      "stationId": 177,
+      "stationName": "POLUS",
+      "stationLat": 46.753078,
+      "stationLng": 23.533027,
+      "stationComments": "POLUS",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92acd9ba504dcf725ac",
+      "stationId": 178,
+      "stationName": "Snagov Nord",
+      "stationLat": 46.767956,
+      "stationLng": 23.628429,
+      "stationComments": "Snagov Nord",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92acd9ba504dcf725b5",
+      "stationId": 179,
+      "stationName": "Borsec Nord",
+      "stationLat": 46.768385,
+      "stationLng": 23.622399,
+      "stationComments": "Borsec Nord",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92acd9ba504dcf725bb",
+      "stationId": 180,
+      "stationName": "Bistriței",
+      "stationLat": 46.769125,
+      "stationLng": 23.616744,
+      "stationComments": "Bistriței",
+      "__v": 0,
+      "updated_at": "2020-12-03T14:50:20.592Z"
+    },
+    {
+      "_id": "5c88f92acd9ba504dcf725be",
+      "stationId": 181,
+      "stationName": "Septimiu Albini Nord",
+      "stationLat": 46.769257,
+      "stationLng": 23.608112,
+      "stationComments": "Septimiu Albini Nord",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92acd9ba504dcf725d1",
+      "stationId": 182,
+      "stationName": "Disp. Grigorescu",
+      "stationLat": 46.764756,
+      "stationLng": 23.548668,
+      "stationComments": "Disp. Grigorescu",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92acd9ba504dcf725da",
+      "stationId": 183,
+      "stationName": "Radio România Cluj",
+      "stationLat": 46.765554,
+      "stationLng": 23.549114,
+      "stationComments": "Radio România Cluj",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:31:09.955Z"
+    },
+    {
+      "_id": "5c88f92acd9ba504dcf725db",
+      "stationId": 184,
+      "stationName": "Petuniei",
+      "stationLat": 46.769625,
+      "stationLng": 23.555579,
+      "stationComments": "Petuniei",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92acd9ba504dcf725e0",
+      "stationId": 185,
+      "stationName": "Iancu de Hunedoara",
+      "stationLat": 46.770317,
+      "stationLng": 23.562296,
+      "stationComments": "Iancu de Hunedoara",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92acd9ba504dcf725e1",
+      "stationId": 186,
+      "stationName": "P-ța 14 Iulie Sud",
+      "stationLat": 46.770739,
+      "stationLng": 23.566356,
+      "stationComments": "P-ța 14 Iulie Sud",
+      "__v": 0,
+      "updated_at": "2020-12-03T14:50:40.403Z"
+    },
+    {
+      "_id": "5c88f92acd9ba504dcf725ef",
+      "stationId": 187,
+      "stationName": "Hotel Napoca",
+      "stationLat": 46.771709,
+      "stationLng": 23.575812,
+      "stationComments": "Hotel Napoca",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92acd9ba504dcf725fb",
+      "stationId": 188,
+      "stationName": "Dragalina Sud",
+      "stationLat": 46.772555,
+      "stationLng": 23.582338,
+      "stationComments": "Dragalina Sud",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92acd9ba504dcf72610",
+      "stationId": 189,
+      "stationName": "Libertatea Est",
+      "stationLat": 46.787334,
+      "stationLng": 23.596808,
+      "stationComments": "Libertatea Est",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92acd9ba504dcf72611",
+      "stationId": 190,
+      "stationName": "Gh. Asachi",
+      "stationLat": 46.791379,
+      "stationLng": 23.599237,
+      "stationComments": "Gh. Asachi",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92acd9ba504dcf72618",
+      "stationId": 191,
+      "stationName": "IRIS Sud",
+      "stationLat": 46.795601,
+      "stationLng": 23.602924,
+      "stationComments": "IRIS Sud",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92acd9ba504dcf72619",
+      "stationId": 192,
+      "stationName": "Oașului Sud",
+      "stationLat": 46.798262,
+      "stationLng": 23.606476,
+      "stationComments": "Oașului Sud",
+      "__v": 0,
+      "updated_at": "2020-12-03T14:51:06.847Z"
+    },
+    {
+      "_id": "5c88f92acd9ba504dcf72633",
+      "stationId": 193,
+      "stationName": "TERAPIA Sud",
+      "stationLat": 46.797524,
+      "stationLng": 23.612878,
+      "stationComments": "TERAPIA Sud",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92acd9ba504dcf7265c",
+      "stationId": 194,
+      "stationName": "TERAPIA Nord",
+      "stationLat": 46.797442,
+      "stationLng": 23.614097,
+      "stationComments": "TERAPIA Nord",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92acd9ba504dcf72667",
+      "stationId": 195,
+      "stationName": "Oașului Nord",
+      "stationLat": 46.798388,
+      "stationLng": 23.606363,
+      "stationComments": "Oașului Nord",
+      "__v": 0,
+      "updated_at": "2020-12-03T14:51:23.895Z"
+    },
+    {
+      "_id": "5c88f92acd9ba504dcf72679",
+      "stationId": 196,
+      "stationName": "IRIS Nord",
+      "stationLat": 46.795726,
+      "stationLng": 23.602794,
+      "stationComments": "IRIS Nord",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92acd9ba504dcf7268d",
+      "stationId": 197,
+      "stationName": "Puieților",
+      "stationLat": 46.79206,
+      "stationLng": 23.599398,
+      "stationComments": "Puieților",
+      "__v": 0,
+      "updated_at": "2020-12-04T13:51:53.562Z"
+    },
+    {
+      "_id": "5c88f92acd9ba504dcf7269b",
+      "stationId": 198,
+      "stationName": "Libertatea Vest",
+      "stationLat": 46.788342,
+      "stationLng": 23.596593,
+      "stationComments": "Libertatea Vest",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92acd9ba504dcf726a7",
+      "stationId": 199,
+      "stationName": "P-ța Gării Vest",
+      "stationLat": 46.782488,
+      "stationLng": 23.587407,
+      "stationComments": "P-ța Gării Vest",
+      "__v": 0,
+      "updated_at": "2020-12-04T13:52:17.464Z"
+    },
+    {
+      "_id": "5c88f92bcd9ba504dcf726ac",
+      "stationId": 200,
+      "stationName": "Școala Horea",
+      "stationLat": 46.776683,
+      "stationLng": 23.58698,
+      "stationComments": "Școala Horea",
+      "__v": 0,
+      "updated_at": "2020-12-04T13:52:36.238Z"
+    },
+    {
+      "_id": "5c88f92bcd9ba504dcf726bd",
+      "stationId": 201,
+      "stationName": "Dragalina Nord",
+      "stationLat": 46.772711,
+      "stationLng": 23.582387,
+      "stationComments": "Dragalina Nord",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:29:45.424Z"
+    },
+    {
+      "_id": "5c88f92bcd9ba504dcf726cb",
+      "stationId": 202,
+      "stationName": "Octavian Goga",
+      "stationLat": 46.771743,
+      "stationLng": 23.574949,
+      "stationComments": "Octavian Goga",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92bcd9ba504dcf726cc",
+      "stationId": 203,
+      "stationName": "P-ța 14 Iulie Nord",
+      "stationLat": 46.771027,
+      "stationLng": 23.567771,
+      "stationComments": "P-ța 14 Iulie Nord",
+      "__v": 0,
+      "updated_at": "2020-12-04T13:53:09.676Z"
+    },
+    {
+      "_id": "5c88f92bcd9ba504dcf726d3",
+      "stationId": 204,
+      "stationName": "Al. Vlahuță",
+      "stationLat": 46.770176,
+      "stationLng": 23.559804,
+      "stationComments": "Al. Vlahuță",
+      "__v": 0,
+      "updated_at": "2020-12-04T13:53:29.146Z"
+    },
+    {
+      "_id": "5c88f92bcd9ba504dcf726e2",
+      "stationId": 205,
+      "stationName": "Buzău",
+      "stationLat": 46.769347,
+      "stationLng": 23.554584,
+      "stationComments": "Buzău",
+      "__v": 0,
+      "updated_at": "2020-12-04T13:53:45.693Z"
+    },
+    {
+      "_id": "5c88f92bcd9ba504dcf726f3",
+      "stationId": 206,
+      "stationName": "Miraslău",
+      "stationLat": 46.7673,
+      "stationLng": 23.550468,
+      "stationComments": "Miraslău",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:29:18.462Z"
+    },
+    {
+      "_id": "5c88f92bcd9ba504dcf72700",
+      "stationId": 207,
+      "stationName": "Fântanele",
+      "stationLat": 46.76582,
+      "stationLng": 23.549634,
+      "stationComments": "Fântanele",
+      "__v": 0,
+      "updated_at": "2020-12-04T13:54:43.093Z"
+    },
+    {
+      "_id": "5c88f92bcd9ba504dcf72719",
+      "stationId": 208,
+      "stationName": "Pod Traian",
+      "stationLat": 46.775468,
+      "stationLng": 23.590305,
+      "stationComments": "Pod Traian",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92bcd9ba504dcf7271a",
+      "stationId": 209,
+      "stationName": "CORA Sud",
+      "stationLat": 46.761894,
+      "stationLng": 23.545207,
+      "stationComments": "CORA Sud",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92bcd9ba504dcf7271c",
+      "stationId": 210,
+      "stationName": "Bdul 1 Decembrie 1918",
+      "stationLat": 46.765409,
+      "stationLng": 23.549493,
+      "stationComments": "Bdul 1 Decembrie 1918",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92bcd9ba504dcf7272a",
+      "stationId": 211,
+      "stationName": "CORA Nord",
+      "stationLat": 46.761907,
+      "stationLng": 23.544942,
+      "stationComments": "CORA Nord",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92bcd9ba504dcf72735",
+      "stationId": 212,
+      "stationName": "P-ța Cipariu Est",
+      "stationLat": 46.767866,
+      "stationLng": 23.601986,
+      "stationComments": "P-ța Cipariu Est",
+      "__v": 0,
+      "updated_at": "2020-12-04T13:55:15.329Z"
+    },
+    {
+      "_id": "5c88f92bcd9ba504dcf72746",
+      "stationId": 213,
+      "stationName": "Septimiu Albini Sud",
+      "stationLat": 46.769205,
+      "stationLng": 23.61016,
+      "stationComments": "Septimiu Albini Sud",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92bcd9ba504dcf72756",
+      "stationId": 214,
+      "stationName": "N. Titulescu",
+      "stationLat": 46.769087,
+      "stationLng": 23.615772,
+      "stationComments": "N. Titulescu",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92bcd9ba504dcf72757",
+      "stationId": 215,
+      "stationName": "Herculane",
+      "stationLat": 46.768455,
+      "stationLng": 23.619699,
+      "stationComments": "Herculane",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92bcd9ba504dcf7275d",
+      "stationId": 216,
+      "stationName": "Borsec Sud",
+      "stationLat": 46.76809,
+      "stationLng": 23.62371,
+      "stationComments": "Borsec Sud",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92bcd9ba504dcf7275f",
+      "stationId": 217,
+      "stationName": "Snagov Sud",
+      "stationLat": 46.767819,
+      "stationLng": 23.627977,
+      "stationComments": "Snagov Sud",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92bcd9ba504dcf7277f",
+      "stationId": 218,
+      "stationName": "14 Iulie Vest",
+      "stationLat": 46.770078,
+      "stationLng": 23.565938,
+      "stationComments": "14 Iulie Vest",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92bcd9ba504dcf72790",
+      "stationId": 219,
+      "stationName": "Aleea Stadionului",
+      "stationLat": 46.766857,
+      "stationLng": 23.569427,
+      "stationComments": "Aleea Stadionului",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92bcd9ba504dcf7279d",
+      "stationId": 220,
+      "stationName": "Hotel Sport",
+      "stationLat": 46.767871,
+      "stationLng": 23.574963,
+      "stationComments": "Hotel Sport",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92ccd9ba504dcf727b5",
+      "stationId": 221,
+      "stationName": "Siretului",
+      "stationLat": 46.780522,
+      "stationLng": 23.62709,
+      "stationComments": "Siretului",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92ccd9ba504dcf727ba",
+      "stationId": 222,
+      "stationName": "Pod Someșeni",
+      "stationLat": 46.78163,
+      "stationLng": 23.63641,
+      "stationComments": "Pod Someșeni",
+      "__v": 0,
+      "updated_at": "2020-12-04T13:55:38.636Z"
+    },
+    {
+      "_id": "5c88f92ccd9ba504dcf727c8",
+      "stationId": 223,
+      "stationName": "Disp. IRA",
+      "stationLat": 46.782295,
+      "stationLng": 23.637582,
+      "stationComments": "Disp. IRA",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92ccd9ba504dcf727d1",
+      "stationId": 224,
+      "stationName": "EXPO Transilvania",
+      "stationLat": 46.781832,
+      "stationLng": 23.636355,
+      "stationComments": "EXPO Transilvania",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92ccd9ba504dcf727d2",
+      "stationId": 225,
+      "stationName": "A. Vlaicu",
+      "stationLat": 46.780775,
+      "stationLng": 23.627826,
+      "stationComments": "A. Vlaicu",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92ccd9ba504dcf727e7",
+      "stationId": 226,
+      "stationName": "Chios",
+      "stationLat": 46.768049,
+      "stationLng": 23.57509,
+      "stationComments": "Chios",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92ccd9ba504dcf727f1",
+      "stationId": 227,
+      "stationName": "Sala Polivalentă",
+      "stationLat": 46.766875,
+      "stationLng": 23.569601,
+      "stationComments": "Sala Polivalentă",
+      "__v": 0,
+      "updated_at": "2020-12-04T13:56:01.188Z"
+    },
+    {
+      "_id": "5c88f92ccd9ba504dcf727fc",
+      "stationId": 228,
+      "stationName": "Sigismund Toduță",
+      "stationLat": 46.77027,
+      "stationLng": 23.567095,
+      "stationComments": "Sigismund Toduță",
+      "__v": 0,
+      "updated_at": "2020-12-04T13:56:31.192Z"
+    },
+    {
+      "_id": "5c88f92ccd9ba504dcf72805",
+      "stationId": 229,
+      "stationName": "P-ța M. Viteazul Est",
+      "stationLat": 46.77556,
+      "stationLng": 23.59073,
+      "stationComments": "P-ța M. Viteazul Est",
+      "__v": 0,
+      "updated_at": "2021-04-22T09:04:39.258Z"
+    },
+    {
+      "_id": "5c88f92ccd9ba504dcf72810",
+      "stationId": 230,
+      "stationName": "Giordano Bruno",
+      "stationLat": 46.786646,
+      "stationLng": 23.58127,
+      "stationComments": "Giordano Bruno",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92ccd9ba504dcf72812",
+      "stationId": 231,
+      "stationName": "Făgăraș",
+      "stationLat": 46.786407,
+      "stationLng": 23.571948,
+      "stationComments": "Făgăraș",
+      "__v": 0,
+      "updated_at": "2020-12-04T13:57:20.829Z"
+    },
+    {
+      "_id": "5c88f92ccd9ba504dcf7281a",
+      "stationId": 232,
+      "stationName": "Livezeni",
+      "stationLat": 46.785214,
+      "stationLng": 23.565243,
+      "stationComments": "Livezeni",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92ccd9ba504dcf72823",
+      "stationId": 233,
+      "stationName": "T.Vladimirescu Nord",
+      "stationLat": 46.784488,
+      "stationLng": 23.555878,
+      "stationComments": "T.Vladimirescu Nord",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92ccd9ba504dcf72824",
+      "stationId": 234,
+      "stationName": "Valea Seacă",
+      "stationLat": 46.785624,
+      "stationLng": 23.548476,
+      "stationComments": "Valea Seacă",
+      "__v": 0,
+      "updated_at": "2020-12-04T13:58:47.378Z"
+    },
+    {
+      "_id": "5c88f92ccd9ba504dcf72825",
+      "stationId": 235,
+      "stationName": "Cartier Baciu",
+      "stationLat": 46.78515,
+      "stationLng": 23.544653,
+      "stationComments": "Cartier Baciu",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92ccd9ba504dcf72838",
+      "stationId": 236,
+      "stationName": "Fabrica de Pâine Nord",
+      "stationLat": 46.784057,
+      "stationLng": 23.540392,
+      "stationComments": "Fabrica de Pâine Nord",
+      "__v": 0,
+      "updated_at": "2020-12-04T13:58:13.705Z"
+    },
+    {
+      "_id": "5c88f92ccd9ba504dcf7283b",
+      "stationId": 237,
+      "stationName": "Napolact Sosire",
+      "stationLat": 46.785501,
+      "stationLng": 23.53581,
+      "stationComments": "Napolact Sosire",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:32:17.716Z"
+    },
+    {
+      "_id": "5c88f92ccd9ba504dcf72843",
+      "stationId": 238,
+      "stationName": "Napolact",
+      "stationLat": 46.78546,
+      "stationLng": 23.535983,
+      "stationComments": "Napolact",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92ccd9ba504dcf72847",
+      "stationId": 239,
+      "stationName": "Fabrica de Pâine Sud",
+      "stationLat": 46.783854,
+      "stationLng": 23.540556,
+      "stationComments": "Fabrica de Pâine Sud",
+      "__v": 0,
+      "updated_at": "2020-12-04T13:59:06.550Z"
+    },
+    {
+      "_id": "5c88f92ccd9ba504dcf7285c",
+      "stationId": 240,
+      "stationName": "Calea Baciului",
+      "stationLat": 46.785348,
+      "stationLng": 23.547248,
+      "stationComments": "Calea Baciului",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92ccd9ba504dcf72878",
+      "stationId": 241,
+      "stationName": "T.Vladimirescu Sud",
+      "stationLat": 46.783983,
+      "stationLng": 23.55649,
+      "stationComments": "T.Vladimirescu Sud",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92ccd9ba504dcf7288c",
+      "stationId": 242,
+      "stationName": "Soarelui",
+      "stationLat": 46.785057,
+      "stationLng": 23.565597,
+      "stationComments": "Soarelui",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92dcd9ba504dcf728ad",
+      "stationId": 243,
+      "stationName": "Trandafirilor",
+      "stationLat": 46.786446,
+      "stationLng": 23.573506,
+      "stationComments": "Trandafirilor",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92dcd9ba504dcf728bc",
+      "stationId": 244,
+      "stationName": "Autogară",
+      "stationLat": 46.786838,
+      "stationLng": 23.580976,
+      "stationComments": "Autogară",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:34:23.216Z"
+    },
+    {
+      "_id": "5c88f92dcd9ba504dcf728ca",
+      "stationId": 245,
+      "stationName": "PMV 1 Sosire",
+      "stationLat": 46.77434,
+      "stationLng": 23.5922,
+      "stationComments": "PMV 1 Sosire",
+      "__v": 0,
+      "updated_at": "2021-04-22T08:49:37.597Z"
+    },
+    {
+      "_id": "5c88f92dcd9ba504dcf728d6",
+      "stationId": 246,
+      "stationName": "Disp. Alverna",
+      "stationLat": 46.756938,
+      "stationLng": 23.618867,
+      "stationComments": "Disp. Alverna",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92dcd9ba504dcf728e0",
+      "stationId": 247,
+      "stationName": "Băișoara",
+      "stationLat": 46.762581,
+      "stationLng": 23.622377,
+      "stationComments": "Băișoara",
+      "__v": 0,
+      "updated_at": "2020-12-04T13:59:40.883Z"
+    },
+    {
+      "_id": "5c88f92dcd9ba504dcf728ea",
+      "stationId": 248,
+      "stationName": "Băița",
+      "stationLat": 46.764793,
+      "stationLng": 23.620381,
+      "stationComments": "Băița",
+      "__v": 0,
+      "updated_at": "2020-12-04T14:00:00.609Z"
+    },
+    {
+      "_id": "5c88f92dcd9ba504dcf72901",
+      "stationId": 249,
+      "stationName": "Albac",
+      "stationLat": 46.763831,
+      "stationLng": 23.620591,
+      "stationComments": "Albac",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92dcd9ba504dcf7290b",
+      "stationId": 250,
+      "stationName": "Băișoara Sosire",
+      "stationLat": 46.762602,
+      "stationLng": 23.622462,
+      "stationComments": "Băișoara Sosire",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:50:18.278Z"
+    },
+    {
+      "_id": "5c88f92dcd9ba504dcf72915",
+      "stationId": 251,
+      "stationName": "Mareșal Al. Averescu",
+      "stationLat": 46.78214,
+      "stationLng": 23.61325,
+      "stationComments": "Mareșal Al. Averescu",
+      "__v": 0,
+      "updated_at": "2020-12-04T14:00:31.243Z"
+    },
+    {
+      "_id": "5c88f92dcd9ba504dcf7292c",
+      "stationId": 252,
+      "stationName": "Câmpul Pâinii",
+      "stationLat": 46.785405,
+      "stationLng": 23.611816,
+      "stationComments": "Câmpul Pâinii",
+      "__v": 0,
+      "updated_at": "2020-12-04T14:00:50.311Z"
+    },
+    {
+      "_id": "5c88f92dcd9ba504dcf72939",
+      "stationId": 253,
+      "stationName": "Fabricii",
+      "stationLat": 46.780388,
+      "stationLng": 23.613743,
+      "stationComments": "Fabricii",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92dcd9ba504dcf72941",
+      "stationId": 254,
+      "stationName": "Disp. Zorilor",
+      "stationLat": 46.75258,
+      "stationLng": 23.57755,
+      "stationComments": "Disp. Zorilor",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92dcd9ba504dcf72942",
+      "stationId": 255,
+      "stationName": "Zorilor",
+      "stationLat": 46.75291,
+      "stationLng": 23.57872,
+      "stationComments": "Zorilor",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92dcd9ba504dcf72947",
+      "stationId": 256,
+      "stationName": "Spitalul Recuperare Sud",
+      "stationLat": 46.754377,
+      "stationLng": 23.584507,
+      "stationComments": "Spitalul Recuperare Sud",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92dcd9ba504dcf7294e",
+      "stationId": 257,
+      "stationName": "Observatorului Sud",
+      "stationLat": 46.755619,
+      "stationLng": 23.592981,
+      "stationComments": "Observatorului Sud",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92dcd9ba504dcf72951",
+      "stationId": 258,
+      "stationName": "Gheorghe Doja",
+      "stationLat": 46.760284,
+      "stationLng": 23.598112,
+      "stationComments": "Gheorghe Doja",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92dcd9ba504dcf7295d",
+      "stationId": 259,
+      "stationName": "Silviu Dragomir",
+      "stationLat": 46.761787,
+      "stationLng": 23.597454,
+      "stationComments": "Silviu Dragomir",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92dcd9ba504dcf72972",
+      "stationId": 260,
+      "stationName": "Observatorului Nord",
+      "stationLat": 46.755834,
+      "stationLng": 23.593557,
+      "stationComments": "Observatorului Nord",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92dcd9ba504dcf72976",
+      "stationId": 261,
+      "stationName": "Spitalul Recuperare Nord",
+      "stationLat": 46.754385,
+      "stationLng": 23.583637,
+      "stationComments": "Spitalul Recuperare Nord",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92dcd9ba504dcf72977",
+      "stationId": 262,
+      "stationName": "Ghe. Dima",
+      "stationLat": 46.752919,
+      "stationLng": 23.57805,
+      "stationComments": "Ghe. Dima",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92dcd9ba504dcf72991",
+      "stationId": 263,
+      "stationName": "P-ța Abator",
+      "stationLat": 46.779814,
+      "stationLng": 23.594961,
+      "stationComments": "P-ța Abator",
+      "__v": 0,
+      "updated_at": "2020-12-04T14:01:12.162Z"
+    },
+    {
+      "_id": "5c88f92dcd9ba504dcf72992",
+      "stationId": 264,
+      "stationName": "Parcul Farmec",
+      "stationLat": 46.780796,
+      "stationLng": 23.605974,
+      "stationComments": "Parcul Farmec",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92ecd9ba504dcf7299c",
+      "stationId": 265,
+      "stationName": "Teilor",
+      "stationLat": 46.788128,
+      "stationLng": 23.62048,
+      "stationComments": "Teilor",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92ecd9ba504dcf7299f",
+      "stationId": 266,
+      "stationName": "Câmpina Sud",
+      "stationLat": 46.78788,
+      "stationLng": 23.623883,
+      "stationComments": "Câmpina Sud",
+      "__v": 0,
+      "updated_at": "2020-12-04T14:04:32.796Z"
+    },
+    {
+      "_id": "5c88f92ecd9ba504dcf729a0",
+      "stationId": 267,
+      "stationName": "Plevnei Sud",
+      "stationLat": 46.787609,
+      "stationLng": 23.628754,
+      "stationComments": "Plevnei Sud",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92ecd9ba504dcf729b3",
+      "stationId": 268,
+      "stationName": "CET",
+      "stationLat": 46.787275,
+      "stationLng": 23.633629,
+      "stationComments": "CET",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92ecd9ba504dcf729c5",
+      "stationId": 269,
+      "stationName": "Timișului",
+      "stationLat": 46.786799,
+      "stationLng": 23.640119,
+      "stationComments": "Timișului",
+      "__v": 0,
+      "updated_at": "2020-12-04T14:05:18.478Z"
+    },
+    {
+      "_id": "5c88f92ecd9ba504dcf729e0",
+      "stationId": 270,
+      "stationName": "Branului Sud",
+      "stationLat": 46.786464,
+      "stationLng": 23.644813,
+      "stationComments": "Branului Sud",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92ecd9ba504dcf729f4",
+      "stationId": 271,
+      "stationName": "Înfrățirii Sud",
+      "stationLat": 46.788706,
+      "stationLng": 23.646314,
+      "stationComments": "Înfrățirii Sud",
+      "__v": 0,
+      "updated_at": "2020-12-04T14:05:41.509Z"
+    },
+    {
+      "_id": "5c88f92ecd9ba504dcf729f9",
+      "stationId": 272,
+      "stationName": "Pintea Viteazul Sud",
+      "stationLat": 46.790847,
+      "stationLng": 23.649351,
+      "stationComments": "Pintea Viteazul Sud",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92ecd9ba504dcf72a04",
+      "stationId": 273,
+      "stationName": "Barc I",
+      "stationLat": 46.79138,
+      "stationLng": 23.655659,
+      "stationComments": "Barc I",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92ecd9ba504dcf72a24",
+      "stationId": 274,
+      "stationName": "I. Ionescu Sosire",
+      "stationLat": 46.790606,
+      "stationLng": 23.655828,
+      "stationComments": "I. Ionescu Sosire",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:33:25.527Z"
+    },
+    {
+      "_id": "5c88f92ecd9ba504dcf72a34",
+      "stationId": 275,
+      "stationName": "I. Ionescu",
+      "stationLat": 46.79051,
+      "stationLng": 23.655742,
+      "stationComments": "I. Ionescu",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92ecd9ba504dcf72a35",
+      "stationId": 276,
+      "stationName": "Frumoasa",
+      "stationLat": 46.787791,
+      "stationLng": 23.652596,
+      "stationComments": "Frumoasa",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92ecd9ba504dcf72a36",
+      "stationId": 277,
+      "stationName": "Morii",
+      "stationLat": 46.786493,
+      "stationLng": 23.648224,
+      "stationComments": "Morii",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92ecd9ba504dcf72a38",
+      "stationId": 278,
+      "stationName": "Înfrățirii Nord",
+      "stationLat": 46.78889,
+      "stationLng": 23.646173,
+      "stationComments": "Înfrățirii Nord",
+      "__v": 0,
+      "updated_at": "2020-12-04T14:06:02.411Z"
+    },
+    {
+      "_id": "5c88f92ecd9ba504dcf72a39",
+      "stationId": 279,
+      "stationName": "Rodnei",
+      "stationLat": 46.78667,
+      "stationLng": 23.645255,
+      "stationComments": "Rodnei",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92ecd9ba504dcf72a60",
+      "stationId": 280,
+      "stationName": "Blajului",
+      "stationLat": 46.786791,
+      "stationLng": 23.641792,
+      "stationComments": "Blajului",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92ecd9ba504dcf72a61",
+      "stationId": 281,
+      "stationName": "Broda",
+      "stationLat": 46.787363,
+      "stationLng": 23.633646,
+      "stationComments": "Broda",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92ecd9ba504dcf72a68",
+      "stationId": 282,
+      "stationName": "Plevnei Nord",
+      "stationLat": 46.787736,
+      "stationLng": 23.628507,
+      "stationComments": "Plevnei Nord",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92ecd9ba504dcf72a69",
+      "stationId": 283,
+      "stationName": "Câmpina Nord",
+      "stationLat": 46.788073,
+      "stationLng": 23.623714,
+      "stationComments": "Câmpina Nord",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:33:57.242Z"
+    },
+    {
+      "_id": "5c88f92ecd9ba504dcf72a6a",
+      "stationId": 284,
+      "stationName": "Piața Oser",
+      "stationLat": 46.788226,
+      "stationLng": 23.620857,
+      "stationComments": "Piața Oser",
+      "__v": 0,
+      "updated_at": "2020-12-04T14:06:40.056Z"
+    },
+    {
+      "_id": "5c88f92ecd9ba504dcf72a6b",
+      "stationId": 285,
+      "stationName": "București",
+      "stationLat": 46.781775,
+      "stationLng": 23.611753,
+      "stationComments": "București",
+      "__v": 0,
+      "updated_at": "2020-12-04T14:06:57.403Z"
+    },
+    {
+      "_id": "5c88f92ecd9ba504dcf72a6c",
+      "stationId": 286,
+      "stationName": "Farmec",
+      "stationLat": 46.781146,
+      "stationLng": 23.607396,
+      "stationComments": "Farmec",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92ecd9ba504dcf72a89",
+      "stationId": 287,
+      "stationName": "Emil Racoviță Nord",
+      "stationLat": 46.779977,
+      "stationLng": 23.581779,
+      "stationComments": "Emil Racoviță Nord",
+      "__v": 0,
+      "updated_at": "2020-12-08T14:48:36.874Z"
+    },
+    {
+      "_id": "5c88f92fcd9ba504dcf72a95",
+      "stationId": 288,
+      "stationName": "Arena CFR Nord",
+      "stationLat": 46.780369,
+      "stationLng": 23.576185,
+      "stationComments": "Arena CFR Nord",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92fcd9ba504dcf72a98",
+      "stationId": 289,
+      "stationName": "Rădăuți Nord",
+      "stationLat": 46.780279,
+      "stationLng": 23.571926,
+      "stationComments": "Rădăuți Nord",
+      "__v": 0,
+      "updated_at": "2020-12-04T14:07:17.280Z"
+    },
+    {
+      "_id": "5c88f92fcd9ba504dcf72ab5",
+      "stationId": 290,
+      "stationName": "Tiberiu Brediceanu",
+      "stationLat": 46.780152,
+      "stationLng": 23.566116,
+      "stationComments": "Tiberiu Brediceanu",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92fcd9ba504dcf72ad4",
+      "stationId": 291,
+      "stationName": "Bariera CFR Nord",
+      "stationLat": 46.780437,
+      "stationLng": 23.562753,
+      "stationComments": "Bariera CFR Nord",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92fcd9ba504dcf72ae7",
+      "stationId": 292,
+      "stationName": "Electrogrup",
+      "stationLat": 46.780535,
+      "stationLng": 23.558759,
+      "stationComments": "Electrogrup",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92fcd9ba504dcf72aec",
+      "stationId": 293,
+      "stationName": "TETAROM Sosire",
+      "stationLat": 46.779353,
+      "stationLng": 23.55852,
+      "stationComments": "TETAROM Sosire",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:38:37.606Z"
+    },
+    {
+      "_id": "5c88f92fcd9ba504dcf72af9",
+      "stationId": 294,
+      "stationName": "TETAROM",
+      "stationLat": 46.779408,
+      "stationLng": 23.558769,
+      "stationComments": "TETAROM",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92fcd9ba504dcf72afa",
+      "stationId": 295,
+      "stationName": "Barieră CFR Sud",
+      "stationLat": 46.780421,
+      "stationLng": 23.562501,
+      "stationComments": "Barieră CFR Sud",
+      "__v": 0,
+      "updated_at": "2020-12-04T14:07:39.178Z"
+    },
+    {
+      "_id": "5c88f92fcd9ba504dcf72b04",
+      "stationId": 296,
+      "stationName": "Vasile Carlova",
+      "stationLat": 46.78013,
+      "stationLng": 23.565615,
+      "stationComments": "Vasile Carlova",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92fcd9ba504dcf72b15",
+      "stationId": 297,
+      "stationName": "Rădăuți Sud",
+      "stationLat": 46.780233,
+      "stationLng": 23.572714,
+      "stationComments": "Rădăuți Sud",
+      "__v": 0,
+      "updated_at": "2020-12-04T14:08:04.412Z"
+    },
+    {
+      "_id": "5c88f92fcd9ba504dcf72b30",
+      "stationId": 298,
+      "stationName": "Stadionul CFR",
+      "stationLat": 46.780319,
+      "stationLng": 23.576683,
+      "stationComments": "Stadionul CFR",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92fcd9ba504dcf72b38",
+      "stationId": 299,
+      "stationName": "Crișan",
+      "stationLat": 46.779675,
+      "stationLng": 23.582748,
+      "stationComments": "Crișan",
+      "__v": 0,
+      "updated_at": "2020-12-04T14:08:27.719Z"
+    },
+    {
+      "_id": "5c88f92fcd9ba504dcf72b39",
+      "stationId": 300,
+      "stationName": "Emil Racoviță Sud",
+      "stationLat": 46.779621,
+      "stationLng": 23.58138,
+      "stationComments": "Emil Racoviță Sud",
+      "__v": 0,
+      "updated_at": "2020-12-04T14:08:41.548Z"
+    },
+    {
+      "_id": "5c88f92fcd9ba504dcf72b42",
+      "stationId": 301,
+      "stationName": "Trâmbițașului",
+      "stationLat": 46.777856,
+      "stationLng": 23.57732,
+      "stationComments": "Trâmbițașului",
+      "__v": 0,
+      "updated_at": "2020-12-04T14:09:04.152Z"
+    },
+    {
+      "_id": "5c88f92fcd9ba504dcf72b54",
+      "stationId": 302,
+      "stationName": "Vânătorului Sosire",
+      "stationLat": 46.777461,
+      "stationLng": 23.572816,
+      "stationComments": "Vânătorului Sosire",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:50:32.714Z"
+    },
+    {
+      "_id": "5c88f92fcd9ba504dcf72b59",
+      "stationId": 303,
+      "stationName": "Vânătorului",
+      "stationLat": 46.777333,
+      "stationLng": 23.572831,
+      "stationComments": "Vânătorului",
+      "__v": 0,
+      "updated_at": "2020-12-04T14:21:09.351Z"
+    },
+    {
+      "_id": "5c88f92fcd9ba504dcf72b5f",
+      "stationId": 304,
+      "stationName": "Gruia",
+      "stationLat": 46.776215,
+      "stationLng": 23.574374,
+      "stationComments": "Gruia",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92fcd9ba504dcf72b62",
+      "stationId": 305,
+      "stationName": "Baia Mare",
+      "stationLat": 46.777316,
+      "stationLng": 23.576372,
+      "stationComments": "Baia Mare",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92fcd9ba504dcf72b79",
+      "stationId": 306,
+      "stationName": "Senina Sud",
+      "stationLat": 46.789552,
+      "stationLng": 23.582257,
+      "stationComments": "Senina Sud",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92fcd9ba504dcf72b8b",
+      "stationId": 307,
+      "stationName": "Dragoș Vodă Sud",
+      "stationLat": 46.790765,
+      "stationLng": 23.586387,
+      "stationComments": "Dragoș Vodă Sud",
+      "__v": 0,
+      "updated_at": "2020-12-04T14:21:44.669Z"
+    },
+    {
+      "_id": "5c88f92fcd9ba504dcf72b9e",
+      "stationId": 308,
+      "stationName": "Vrancea",
+      "stationLat": 46.791517,
+      "stationLng": 23.590431,
+      "stationComments": "Vrancea",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f92fcd9ba504dcf72ba5",
+      "stationId": 309,
+      "stationName": "Călugăreni Sud",
+      "stationLat": 46.792915,
+      "stationLng": 23.596559,
+      "stationComments": "Căugăreni Sud",
+      "__v": 0,
+      "updated_at": "2020-12-04T14:22:20.898Z"
+    },
+    {
+      "_id": "5c88f930cd9ba504dcf72bab",
+      "stationId": 310,
+      "stationName": "Vama Chinteni",
+      "stationLat": 46.799567,
+      "stationLng": 23.607739,
+      "stationComments": "Vama Chinteni",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f930cd9ba504dcf72bad",
+      "stationId": 311,
+      "stationName": "Intermediara Est",
+      "stationLat": 46.802768,
+      "stationLng": 23.607532,
+      "stationComments": "Intermediara Est",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f930cd9ba504dcf72bb7",
+      "stationId": 312,
+      "stationName": "Pometului Est",
+      "stationLat": 46.807304,
+      "stationLng": 23.606229,
+      "stationComments": "Pometului Est",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f930cd9ba504dcf72bb8",
+      "stationId": 313,
+      "stationName": "Școala Est",
+      "stationLat": 46.810895,
+      "stationLng": 23.604777,
+      "stationComments": "Școala Est",
+      "__v": 0,
+      "updated_at": "2020-12-04T14:22:41.053Z"
+    },
+    {
+      "_id": "5c88f930cd9ba504dcf72bb9",
+      "stationId": 314,
+      "stationName": "IAS Est",
+      "stationLat": 46.814041,
+      "stationLng": 23.602683,
+      "stationComments": "IAS Est",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f930cd9ba504dcf72bba",
+      "stationId": 315,
+      "stationName": "POD Est",
+      "stationLat": 46.817753,
+      "stationLng": 23.600113,
+      "stationComments": "POD Est",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f930cd9ba504dcf72bd9",
+      "stationId": 316,
+      "stationName": "Drum Feiurd Est",
+      "stationLat": 46.820869,
+      "stationLng": 23.595451,
+      "stationComments": "Drum Feiurd Est",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f930cd9ba504dcf72be1",
+      "stationId": 317,
+      "stationName": "Podul Fetei Est",
+      "stationLat": 46.825274,
+      "stationLng": 23.586627,
+      "stationComments": "Podul Fetei Est",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f930cd9ba504dcf72be2",
+      "stationId": 318,
+      "stationName": "Terra",
+      "stationLat": 46.828469,
+      "stationLng": 23.58251,
+      "stationComments": "Terra",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f930cd9ba504dcf72c01",
+      "stationId": 319,
+      "stationName": "Valea Chintăului",
+      "stationLat": 46.82844,
+      "stationLng": 23.582384,
+      "stationComments": "Valea Chintăului",
+      "__v": 0,
+      "updated_at": "2020-12-04T14:23:08.323Z"
+    },
+    {
+      "_id": "5c88f930cd9ba504dcf72c12",
+      "stationId": 320,
+      "stationName": "Podul Fetei Vest",
+      "stationLat": 46.825399,
+      "stationLng": 23.586273,
+      "stationComments": "Podul Fetei Vest",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f930cd9ba504dcf72c28",
+      "stationId": 321,
+      "stationName": "Drum Feiurd Vest",
+      "stationLat": 46.82076,
+      "stationLng": 23.595363,
+      "stationComments": "Drum Feiurd Vest",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f930cd9ba504dcf72c3a",
+      "stationId": 322,
+      "stationName": "POD Vest",
+      "stationLat": 46.817657,
+      "stationLng": 23.600004,
+      "stationComments": "POD Vest",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f930cd9ba504dcf72c3b",
+      "stationId": 323,
+      "stationName": "IAS Vest",
+      "stationLat": 46.81406,
+      "stationLng": 23.602468,
+      "stationComments": "IAS Vest",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f930cd9ba504dcf72c52",
+      "stationId": 324,
+      "stationName": "Școala Vest",
+      "stationLat": 46.810958,
+      "stationLng": 23.604509,
+      "stationComments": "Școala Vest",
+      "__v": 0,
+      "updated_at": "2020-12-04T14:31:43.311Z"
+    },
+    {
+      "_id": "5c88f930cd9ba504dcf72c56",
+      "stationId": 325,
+      "stationName": "Pometului Vest",
+      "stationLat": 46.807315,
+      "stationLng": 23.606004,
+      "stationComments": "Pometului Vest",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f930cd9ba504dcf72c60",
+      "stationId": 326,
+      "stationName": "Intermediara Vest",
+      "stationLat": 46.803006,
+      "stationLng": 23.607428,
+      "stationComments": "Intermediara Vest",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f930cd9ba504dcf72c6e",
+      "stationId": 327,
+      "stationName": "Călugareni Nord",
+      "stationLat": 46.793152,
+      "stationLng": 23.596794,
+      "stationComments": "Călugareni Nord",
+      "__v": 0,
+      "updated_at": "2020-12-04T14:44:43.246Z"
+    },
+    {
+      "_id": "5c88f930cd9ba504dcf72c6f",
+      "stationId": 328,
+      "stationName": "Spătaru Milescu",
+      "stationLat": 46.791631,
+      "stationLng": 23.590444,
+      "stationComments": "Spătaru Milescu",
+      "__v": 0,
+      "updated_at": "2020-12-04T14:47:27.127Z"
+    },
+    {
+      "_id": "5c88f930cd9ba504dcf72c73",
+      "stationId": 329,
+      "stationName": "Dragoș Vodă Nord",
+      "stationLat": 46.790974,
+      "stationLng": 23.586843,
+      "stationComments": "Dragoș Vodă Nord",
+      "__v": 0,
+      "updated_at": "2020-12-04T14:49:48.250Z"
+    },
+    {
+      "_id": "5c88f930cd9ba504dcf72c81",
+      "stationId": 330,
+      "stationName": "Senina Nord",
+      "stationLat": 46.789625,
+      "stationLng": 23.58214,
+      "stationComments": "Senina Nord",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f930cd9ba504dcf72c87",
+      "stationId": 331,
+      "stationName": "Cluj Due Est",
+      "stationLat": 46.83616,
+      "stationLng": 23.570856,
+      "stationComments": "Cluj Due Est",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f931cd9ba504dcf72c8e",
+      "stationId": 332,
+      "stationName": "Lombul Mic",
+      "stationLat": 46.840526,
+      "stationLng": 23.563818,
+      "stationComments": "Lombul Mic",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f931cd9ba504dcf72c93",
+      "stationId": 333,
+      "stationName": "Cătun Est",
+      "stationLat": 46.843612,
+      "stationLng": 23.557922,
+      "stationComments": "Cătun  Est",
+      "__v": 0,
+      "updated_at": "2020-12-04T14:50:05.943Z"
+    },
+    {
+      "_id": "5c88f931cd9ba504dcf72ca9",
+      "stationId": 334,
+      "stationName": "Cătun Vest",
+      "stationLat": 46.843554,
+      "stationLng": 23.557812,
+      "stationComments": "Cătun Vest",
+      "__v": 0,
+      "updated_at": "2020-12-04T14:50:19.978Z"
+    },
+    {
+      "_id": "5c88f931cd9ba504dcf72caa",
+      "stationId": 335,
+      "stationName": "Cluj Due Vest",
+      "stationLat": 46.835954,
+      "stationLng": 23.57103,
+      "stationComments": "Cluj Due Vest",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f931cd9ba504dcf72cb4",
+      "stationId": 336,
+      "stationName": "Meteor",
+      "stationLat": 46.754696,
+      "stationLng": 23.595988,
+      "stationComments": "Meteor",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f931cd9ba504dcf72cc5",
+      "stationId": 337,
+      "stationName": "Constantin Noica",
+      "stationLat": 46.750922,
+      "stationLng": 23.594497,
+      "stationComments": "Constantin Noica",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f931cd9ba504dcf72cc6",
+      "stationId": 338,
+      "stationName": "Hotel Stil Vest",
+      "stationLat": 46.733792,
+      "stationLng": 23.587612,
+      "stationComments": "Hotel Stil Vest",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f931cd9ba504dcf72ced",
+      "stationId": 339,
+      "stationName": "Dianei Vest",
+      "stationLat": 46.727844,
+      "stationLng": 23.585183,
+      "stationComments": "Dianei Vest",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f931cd9ba504dcf72cf2",
+      "stationId": 340,
+      "stationName": "D.D. Roșca Vest",
+      "stationLat": 46.723895,
+      "stationLng": 23.579206,
+      "stationComments": "D.D. Roșca Vest",
+      "__v": 0,
+      "updated_at": "2020-12-04T14:50:52.488Z"
+    },
+    {
+      "_id": "5c88f931cd9ba504dcf72d0a",
+      "stationId": 341,
+      "stationName": "Vila Tusa Sosire",
+      "stationLat": 46.716993,
+      "stationLng": 23.575201,
+      "stationComments": "Vila Tusa Sosire",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:38:21.552Z"
+    },
+    {
+      "_id": "5c88f931cd9ba504dcf72d15",
+      "stationId": 342,
+      "stationName": "Vila Tusa",
+      "stationLat": 46.717325,
+      "stationLng": 23.575379,
+      "stationComments": "Vila Tusa",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f931cd9ba504dcf72d19",
+      "stationId": 343,
+      "stationName": "D.D. Roșca Est",
+      "stationLat": 46.724025,
+      "stationLng": 23.579461,
+      "stationComments": "D.D. Roșca Est",
+      "__v": 0,
+      "updated_at": "2020-12-04T14:51:19.046Z"
+    },
+    {
+      "_id": "5c88f931cd9ba504dcf72d2f",
+      "stationId": 344,
+      "stationName": "Dianei Est",
+      "stationLat": 46.727839,
+      "stationLng": 23.585579,
+      "stationComments": "Dianei Est",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f931cd9ba504dcf72d38",
+      "stationId": 345,
+      "stationName": "Hotel Stil Est",
+      "stationLat": 46.733849,
+      "stationLng": 23.587779,
+      "stationComments": "Hotel Stil Est",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f931cd9ba504dcf72d39",
+      "stationId": 346,
+      "stationName": "Electrogroup",
+      "stationLat": 46.748915,
+      "stationLng": 23.59374,
+      "stationComments": "Electrogroup",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f931cd9ba504dcf72d3a",
+      "stationId": 347,
+      "stationName": "W.A. Mozart",
+      "stationLat": 46.752188,
+      "stationLng": 23.595369,
+      "stationComments": "W.A. Mozart",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f931cd9ba504dcf72d45",
+      "stationId": 348,
+      "stationName": "Calea Turzii",
+      "stationLat": 46.755314,
+      "stationLng": 23.596356,
+      "stationComments": "Calea Turzii",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f931cd9ba504dcf72d46",
+      "stationId": 349,
+      "stationName": "Eugen Lovinescu Vest",
+      "stationLat": 46.747765,
+      "stationLng": 23.568113,
+      "stationComments": "Eugen Lovinescu Vest",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f931cd9ba504dcf72d4f",
+      "stationId": 350,
+      "stationName": "Grigore Antipa Vest",
+      "stationLat": 46.744182,
+      "stationLng": 23.570384,
+      "stationComments": "Grigore Antipa Vest",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f931cd9ba504dcf72d53",
+      "stationId": 351,
+      "stationName": "Biserica Câmpului",
+      "stationLat": 46.738839,
+      "stationLng": 23.571183,
+      "stationComments": "Biserica Câmpului",
+      "__v": 0,
+      "updated_at": "2020-12-04T14:51:41.951Z"
+    },
+    {
+      "_id": "5c88f931cd9ba504dcf72d60",
+      "stationId": 352,
+      "stationName": "Grigore Antipa Est",
+      "stationLat": 46.744277,
+      "stationLng": 23.570384,
+      "stationComments": "Grigore Antipa Est",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f931cd9ba504dcf72d61",
+      "stationId": 353,
+      "stationName": "Eugen Lovinescu Est",
+      "stationLat": 46.747604,
+      "stationLng": 23.568442,
+      "stationComments": "Eugen Lovinescu Est",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f932cd9ba504dcf72d66",
+      "stationId": 354,
+      "stationName": "Bâlea Est",
+      "stationLat": 46.75175,
+      "stationLng": 23.565467,
+      "stationComments": "Bâlea Est",
+      "__v": 0,
+      "updated_at": "2020-12-04T14:51:58.798Z"
+    },
+    {
+      "_id": "5c88f932cd9ba504dcf72d75",
+      "stationId": 355,
+      "stationName": "Frunzișului Vest",
+      "stationLat": 46.75386,
+      "stationLng": 23.567519,
+      "stationComments": "Frunzișului Vest",
+      "__v": 0,
+      "updated_at": "2020-12-04T14:52:15.225Z"
+    },
+    {
+      "_id": "5c88f932cd9ba504dcf72d84",
+      "stationId": 356,
+      "stationName": "Varianta Zorilor",
+      "stationLat": 46.748779,
+      "stationLng": 23.573668,
+      "stationComments": "Varianta Zorilor",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f932cd9ba504dcf72d89",
+      "stationId": 357,
+      "stationName": "Frunzișului",
+      "stationLat": 46.75345,
+      "stationLng": 23.567948,
+      "stationComments": "Frunzișului",
+      "__v": 0,
+      "updated_at": "2020-12-04T14:52:33.444Z"
+    },
+    {
+      "_id": "5c88f932cd9ba504dcf72dba",
+      "stationId": 358,
+      "stationName": "Cocoșul de Aur",
+      "stationLat": 46.755576,
+      "stationLng": 23.561966,
+      "stationComments": "Cocoșul de Aur",
+      "__v": 0,
+      "updated_at": "2020-12-04T14:52:48.432Z"
+    },
+    {
+      "_id": "5c88f932cd9ba504dcf72dd2",
+      "stationId": 359,
+      "stationName": "Girație Drum Făget",
+      "stationLat": 46.738229,
+      "stationLng": 23.590309,
+      "stationComments": "Girație Drum Făget",
+      "__v": 0,
+      "updated_at": "2020-12-04T14:53:40.655Z"
+    },
+    {
+      "_id": "5c88f932cd9ba504dcf72dde",
+      "stationId": 360,
+      "stationName": "E. Ionesco",
+      "stationLat": 46.740199,
+      "stationLng": 23.586552,
+      "stationComments": "E. Ionesco",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f932cd9ba504dcf72ddf",
+      "stationId": 361,
+      "stationName": "N. Steinhardt",
+      "stationLat": 46.744448,
+      "stationLng": 23.584846,
+      "stationComments": "N. Steinhardt",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f932cd9ba504dcf72df2",
+      "stationId": 362,
+      "stationName": "V. Stoica",
+      "stationLat": 46.748356,
+      "stationLng": 23.581947,
+      "stationComments": "V. Stoica",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f932cd9ba504dcf72dfb",
+      "stationId": 363,
+      "stationName": "Picasso",
+      "stationLat": 46.749006,
+      "stationLng": 23.58129,
+      "stationComments": "Picasso",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f932cd9ba504dcf72e0e",
+      "stationId": 364,
+      "stationName": "L. Matis",
+      "stationLat": 46.743893,
+      "stationLng": 23.585018,
+      "stationComments": "L. Matis",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f932cd9ba504dcf72e1b",
+      "stationId": 365,
+      "stationName": "Luminii",
+      "stationLat": 46.739805,
+      "stationLng": 23.586375,
+      "stationComments": "Luminii",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f932cd9ba504dcf72e3f",
+      "stationId": 366,
+      "stationName": "Tribunal",
+      "stationLat": 46.771072,
+      "stationLng": 23.598627,
+      "stationComments": "Tribunal",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f932cd9ba504dcf72e4d",
+      "stationId": 367,
+      "stationName": "S.Barnuțiu",
+      "stationLat": 46.773409,
+      "stationLng": 23.607221,
+      "stationComments": "Sc. S.Barnuțiu",
+      "__v": 0,
+      "updated_at": "2020-12-04T14:54:09.095Z"
+    },
+    {
+      "_id": "5c88f932cd9ba504dcf72e51",
+      "stationId": 368,
+      "stationName": "Biblioteca Județeană",
+      "stationLat": 46.776569,
+      "stationLng": 23.613844,
+      "stationComments": "Biblioteca Județeană",
+      "__v": 0,
+      "updated_at": "2020-12-04T14:54:30.256Z"
+    },
+    {
+      "_id": "5c88f932cd9ba504dcf72e56",
+      "stationId": 369,
+      "stationName": "Între Lacuri",
+      "stationLat": 46.777277,
+      "stationLng": 23.62318,
+      "stationComments": "Între Lacuri",
+      "__v": 0,
+      "updated_at": "2020-12-04T14:55:03.507Z"
+    },
+    {
+      "_id": "5c88f932cd9ba504dcf72e76",
+      "stationId": 370,
+      "stationName": "Complex Dunării Sud",
+      "stationLat": 46.776363,
+      "stationLng": 23.629126,
+      "stationComments": "Complex Dunării Sud",
+      "__v": 0,
+      "updated_at": "2020-12-04T14:56:30.998Z"
+    },
+    {
+      "_id": "5c88f932cd9ba504dcf72e7b",
+      "stationId": 371,
+      "stationName": "Tulcea",
+      "stationLat": 46.776764,
+      "stationLng": 23.631636,
+      "stationComments": "Tulcea",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f932cd9ba504dcf72e88",
+      "stationId": 372,
+      "stationName": "Dunării Sud",
+      "stationLat": 46.77752,
+      "stationLng": 23.636418,
+      "stationComments": "Dunării Sud",
+      "__v": 0,
+      "updated_at": "2020-12-04T15:00:52.843Z"
+    },
+    {
+      "_id": "5c88f932cd9ba504dcf72ea1",
+      "stationId": 373,
+      "stationName": "Meșterul Manole",
+      "stationLat": 46.77931,
+      "stationLng": 23.64168,
+      "stationComments": "Meșterul Manole",
+      "__v": 0,
+      "updated_at": "2020-12-04T15:03:14.510Z"
+    },
+    {
+      "_id": "5c88f932cd9ba504dcf72eab",
+      "stationId": 374,
+      "stationName": "Jiului",
+      "stationLat": 46.77904,
+      "stationLng": 23.63931,
+      "stationComments": "Jiului",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f933cd9ba504dcf72eba",
+      "stationId": 375,
+      "stationName": "Dunării Nord",
+      "stationLat": 46.777566,
+      "stationLng": 23.636169,
+      "stationComments": "Dunării Nord",
+      "__v": 0,
+      "updated_at": "2020-12-04T15:03:35.687Z"
+    },
+    {
+      "_id": "5c88f933cd9ba504dcf72ec5",
+      "stationId": 376,
+      "stationName": "Streiului",
+      "stationLat": 46.777233,
+      "stationLng": 23.633764,
+      "stationComments": "Streiului",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f933cd9ba504dcf72ed3",
+      "stationId": 377,
+      "stationName": "Complex Dunării Nord",
+      "stationLat": 46.776382,
+      "stationLng": 23.628632,
+      "stationComments": "Complex Dunării Nord",
+      "__v": 0,
+      "updated_at": "2020-12-04T15:03:49.809Z"
+    },
+    {
+      "_id": "5c88f933cd9ba504dcf72ed4",
+      "stationId": 378,
+      "stationName": "Mureșului",
+      "stationLat": 46.776983,
+      "stationLng": 23.62363,
+      "stationComments": "Mureșului",
+      "__v": 0,
+      "updated_at": "2020-12-04T15:04:01.715Z"
+    },
+    {
+      "_id": "5c88f933cd9ba504dcf72ee4",
+      "stationId": 379,
+      "stationName": "Aiudului",
+      "stationLat": 46.78371,
+      "stationLng": 23.64411,
+      "stationComments": "Aiudului",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f933cd9ba504dcf72efd",
+      "stationId": 380,
+      "stationName": "Școala Someșeni",
+      "stationLat": 46.78412,
+      "stationLng": 23.65428,
+      "stationComments": "Școala Someșeni",
+      "__v": 0,
+      "updated_at": "2020-12-04T15:04:21.038Z"
+    },
+    {
+      "_id": "5c88f933cd9ba504dcf72f09",
+      "stationId": 381,
+      "stationName": "Orăștie",
+      "stationLat": 46.782892,
+      "stationLng": 23.661857,
+      "stationComments": "Orăștie",
+      "__v": 0,
+      "updated_at": "2020-12-04T15:04:43.335Z"
+    },
+    {
+      "_id": "5c88f933cd9ba504dcf72f18",
+      "stationId": 382,
+      "stationName": "Ambient",
+      "stationLat": 46.780653,
+      "stationLng": 23.665591,
+      "stationComments": "Ambient",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f933cd9ba504dcf72f23",
+      "stationId": 383,
+      "stationName": "Moș Ion Roată",
+      "stationLat": 46.780346,
+      "stationLng": 23.670275,
+      "stationComments": "Moș Ion Roată",
+      "__v": 0,
+      "updated_at": "2020-12-04T15:05:04.762Z"
+    },
+    {
+      "_id": "5c88f933cd9ba504dcf72f24",
+      "stationId": 384,
+      "stationName": "Traian Vuia Sud",
+      "stationLat": 46.7807,
+      "stationLng": 23.676734,
+      "stationComments": "Traian Vuia Sud",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f933cd9ba504dcf72f25",
+      "stationId": 385,
+      "stationName": "Aeroport Sud",
+      "stationLat": 46.781174,
+      "stationLng": 23.685342,
+      "stationComments": "Aeroport Sud",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f933cd9ba504dcf72f39",
+      "stationId": 386,
+      "stationName": "Aeroport Nord",
+      "stationLat": 46.781393,
+      "stationLng": 23.686324,
+      "stationComments": "Aeroport Nord",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f933cd9ba504dcf72f4c",
+      "stationId": 387,
+      "stationName": "Traian Vuia Nord",
+      "stationLat": 46.781058,
+      "stationLng": 23.680227,
+      "stationComments": "Traian Vuia Nord",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f933cd9ba504dcf72f52",
+      "stationId": 388,
+      "stationName": "Planoarelor",
+      "stationLat": 46.780442,
+      "stationLng": 23.669262,
+      "stationComments": "Planoarelor",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f933cd9ba504dcf72f53",
+      "stationId": 389,
+      "stationName": "Vlad Țepeș",
+      "stationLat": 46.78315,
+      "stationLng": 23.661767,
+      "stationComments": "Vlad Țepeș",
+      "__v": 0,
+      "updated_at": "2020-12-04T15:05:31.049Z"
+    },
+    {
+      "_id": "5c88f933cd9ba504dcf72f54",
+      "stationId": 390,
+      "stationName": "Cămin Someșeni",
+      "stationLat": 46.784224,
+      "stationLng": 23.6537,
+      "stationComments": "Cămin Someșeni",
+      "__v": 0,
+      "updated_at": "2020-12-04T15:05:54.133Z"
+    },
+    {
+      "_id": "5c88f933cd9ba504dcf72f6a",
+      "stationId": 391,
+      "stationName": "Branului",
+      "stationLat": 46.784172,
+      "stationLng": 23.645715,
+      "stationComments": "Branului",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f933cd9ba504dcf72f76",
+      "stationId": 392,
+      "stationName": "Timișului Sosire",
+      "stationLat": 46.786567,
+      "stationLng": 23.642239,
+      "stationComments": "Timișului Sosire",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:50:47.164Z"
+    },
+    {
+      "_id": "5c88f933cd9ba504dcf72f8b",
+      "stationId": 393,
+      "stationName": "Izlazului I Sosire",
+      "stationLat": 46.755389,
+      "stationLng": 23.561798,
+      "stationComments": "Izlazului I Sosire",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:50:59.514Z"
+    },
+    {
+      "_id": "5c88f933cd9ba504dcf72f8e",
+      "stationId": 394,
+      "stationName": "Cantonului",
+      "stationLat": 46.781542,
+      "stationLng": 23.691748,
+      "stationComments": "Cantonului",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f933cd9ba504dcf72f9a",
+      "stationId": 395,
+      "stationName": "Electromontaj Sud",
+      "stationLat": 46.782,
+      "stationLng": 23.70062,
+      "stationComments": "Electromontaj Sud",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f933cd9ba504dcf72fb4",
+      "stationId": 396,
+      "stationName": "Electromontaj Nord",
+      "stationLat": 46.782008,
+      "stationLng": 23.69711,
+      "stationComments": "Electromontaj Nord",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f934cd9ba504dcf72fc0",
+      "stationId": 397,
+      "stationName": "Aviația Utilitară",
+      "stationLat": 46.78171,
+      "stationLng": 23.692376,
+      "stationComments": "Aviația Utilitară",
+      "__v": 0,
+      "updated_at": "2020-12-04T15:06:36.161Z"
+    },
+    {
+      "_id": "5c88f934cd9ba504dcf72fc1",
+      "stationId": 398,
+      "stationName": "Selgros",
+      "stationLat": 46.778982,
+      "stationLng": 23.648321,
+      "stationComments": "Selgros",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f934cd9ba504dcf72fc6",
+      "stationId": 399,
+      "stationName": "U.M. Someșeni",
+      "stationLat": 46.778012,
+      "stationLng": 23.658579,
+      "stationComments": "U.M. Someșeni",
+      "__v": 0,
+      "updated_at": "2020-12-04T15:06:53.902Z"
+    },
+    {
+      "_id": "5c88f934cd9ba504dcf72fd3",
+      "stationId": 400,
+      "stationName": "Dealul Borzaș",
+      "stationLat": 46.778615,
+      "stationLng": 23.671083,
+      "stationComments": "Dealul Borzaș",
+      "__v": 0,
+      "updated_at": "2020-12-04T15:07:12.439Z"
+    },
+    {
+      "_id": "5c88f934cd9ba504dcf72fde",
+      "stationId": 401,
+      "stationName": "Platanilor",
+      "stationLat": 46.777787,
+      "stationLng": 23.683206,
+      "stationComments": "Platanilor",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f934cd9ba504dcf72fef",
+      "stationId": 402,
+      "stationName": "Henri Coandă",
+      "stationLat": 46.779304,
+      "stationLng": 23.693863,
+      "stationComments": "Henri Coandă",
+      "__v": 0,
+      "updated_at": "2020-12-08T14:49:40.805Z"
+    },
+    {
+      "_id": "5c88f934cd9ba504dcf72ff2",
+      "stationId": 403,
+      "stationName": "Halta Dezmir",
+      "stationLat": 46.780387,
+      "stationLng": 23.704623,
+      "stationComments": "Halta Dezmir",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f934cd9ba504dcf72ff3",
+      "stationId": 404,
+      "stationName": "Piața AGRO Sosire",
+      "stationLat": 46.781376,
+      "stationLng": 23.710586,
+      "stationComments": "Piața AGRO Sosire",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:51:12.546Z"
+    },
+    {
+      "_id": "5c88f934cd9ba504dcf73000",
+      "stationId": 405,
+      "stationName": "AGRO Transilvania",
+      "stationLat": 46.781554,
+      "stationLng": 23.71058,
+      "stationComments": "AGRO Transilvania",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f934cd9ba504dcf73008",
+      "stationId": 406,
+      "stationName": "Halta AGRO",
+      "stationLat": 46.780432,
+      "stationLng": 23.704454,
+      "stationComments": "Halta AGRO",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f934cd9ba504dcf73009",
+      "stationId": 407,
+      "stationName": "R.A.D.P.",
+      "stationLat": 46.779364,
+      "stationLng": 23.693591,
+      "stationComments": "R.A.D.P.",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f934cd9ba504dcf73020",
+      "stationId": 408,
+      "stationName": "Poșta Română",
+      "stationLat": 46.777808,
+      "stationLng": 23.682992,
+      "stationComments": "Poșta Română",
+      "__v": 0,
+      "updated_at": "2020-12-08T14:53:01.616Z"
+    },
+    {
+      "_id": "5c88f934cd9ba504dcf73021",
+      "stationId": 409,
+      "stationName": "Gara Someșeni",
+      "stationLat": 46.778633,
+      "stationLng": 23.67058,
+      "stationComments": "Gara Someșeni",
+      "__v": 0,
+      "updated_at": "2020-12-08T14:53:15.797Z"
+    },
+    {
+      "_id": "5c88f934cd9ba504dcf73022",
+      "stationId": 410,
+      "stationName": "Mentenanței",
+      "stationLat": 46.778108,
+      "stationLng": 23.658451,
+      "stationComments": "Mentenanței",
+      "__v": 0,
+      "updated_at": "2020-12-08T14:53:35.265Z"
+    },
+    {
+      "_id": "5c88f934cd9ba504dcf7302f",
+      "stationId": 411,
+      "stationName": "Băi Someșeni",
+      "stationLat": 46.779227,
+      "stationLng": 23.648146,
+      "stationComments": "Băi Someșeni",
+      "__v": 0,
+      "updated_at": "2020-12-08T14:53:54.963Z"
+    },
+    {
+      "_id": "5c88f934cd9ba504dcf73030",
+      "stationId": 412,
+      "stationName": "M-Aroma",
+      "stationLat": 46.735699,
+      "stationLng": 23.594121,
+      "stationComments": "M-Aroma",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f934cd9ba504dcf7305d",
+      "stationId": 413,
+      "stationName": "M-DJ 71",
+      "stationLat": 46.720641,
+      "stationLng": 23.616169,
+      "stationComments": "M-DJ 71",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f934cd9ba504dcf7305e",
+      "stationId": 414,
+      "stationName": "M-Școala Feleacu V",
+      "stationLat": 46.717995,
+      "stationLng": 23.624653,
+      "stationComments": "M-Școala Feleacu V",
+      "__v": 0,
+      "updated_at": "2020-12-08T14:54:11.534Z"
+    },
+    {
+      "_id": "5c88f934cd9ba504dcf7305f",
+      "stationId": 415,
+      "stationName": "M-Releu Sosire",
+      "stationLat": 46.71613,
+      "stationLng": 23.629917,
+      "stationComments": "M-Releu Sosire",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:51:27.981Z"
+    },
+    {
+      "_id": "5c88f934cd9ba504dcf73060",
+      "stationId": 416,
+      "stationName": "M-Releu Plecare",
+      "stationLat": 46.716187,
+      "stationLng": 23.630138,
+      "stationComments": "M-Releu Plecare",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:43:16.301Z"
+    },
+    {
+      "_id": "5c88f934cd9ba504dcf7307e",
+      "stationId": 417,
+      "stationName": "M-Școala Feleacu E",
+      "stationLat": 46.717815,
+      "stationLng": 23.625114,
+      "stationComments": "M-Școala Feleacu E",
+      "__v": 0,
+      "updated_at": "2020-12-08T14:54:33.766Z"
+    },
+    {
+      "_id": "5c88f934cd9ba504dcf7308e",
+      "stationId": 418,
+      "stationName": "M-Post Control",
+      "stationLat": 46.720771,
+      "stationLng": 23.616522,
+      "stationComments": "M-Post Control",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f935cd9ba504dcf73092",
+      "stationId": 419,
+      "stationName": "M-Dinu Lipatti",
+      "stationLat": 46.731042,
+      "stationLng": 23.59763,
+      "stationComments": "M-Dinu Lipatti",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f935cd9ba504dcf7309f",
+      "stationId": 420,
+      "stationName": "M-Gradiniță",
+      "stationLat": 46.715029,
+      "stationLng": 23.615418,
+      "stationComments": "M-Gradiniță",
+      "__v": 0,
+      "updated_at": "2020-12-08T14:54:59.943Z"
+    },
+    {
+      "_id": "5c88f935cd9ba504dcf730a1",
+      "stationId": 421,
+      "stationName": "M-Feleacu",
+      "stationLat": 46.710561,
+      "stationLng": 23.614506,
+      "stationComments": "M-Feleacu",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f935cd9ba504dcf730b8",
+      "stationId": 422,
+      "stationName": "M-Feleacu Depozit V",
+      "stationLat": 46.707584,
+      "stationLng": 23.614667,
+      "stationComments": "M-Feleacu Depozit V",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f935cd9ba504dcf730d5",
+      "stationId": 423,
+      "stationName": "M-Valea Căpriorii",
+      "stationLat": 46.704056,
+      "stationLng": 23.615346,
+      "stationComments": "M-Valea Căpriorii",
+      "__v": 0,
+      "updated_at": "2020-12-08T14:55:21.568Z"
+    },
+    {
+      "_id": "5c88f935cd9ba504dcf730d6",
+      "stationId": 424,
+      "stationName": "M-Lukoil Vâlcele S",
+      "stationLat": 46.691825,
+      "stationLng": 23.627231,
+      "stationComments": "M-Lukoil Vâlcele S",
+      "__v": 0,
+      "updated_at": "2020-12-08T14:55:39.095Z"
+    },
+    {
+      "_id": "5c88f935cd9ba504dcf730d7",
+      "stationId": 425,
+      "stationName": "M-Vâlcele DN1 S",
+      "stationLat": 46.680106,
+      "stationLng": 23.638976,
+      "stationComments": "M-Vâlcele DN1 S",
+      "__v": 0,
+      "updated_at": "2020-12-08T14:56:09.676Z"
+    },
+    {
+      "_id": "5c88f935cd9ba504dcf730e0",
+      "stationId": 426,
+      "stationName": "M-Ramificație Vâlcele S",
+      "stationLat": 46.674767,
+      "stationLng": 23.646907,
+      "stationComments": "M-Ramificație Vâlcele S",
+      "__v": 0,
+      "updated_at": "2020-12-08T14:56:39.788Z"
+    },
+    {
+      "_id": "5c88f935cd9ba504dcf73112",
+      "stationId": 427,
+      "stationName": "M-Ramificație Rediu E",
+      "stationLat": 46.677136,
+      "stationLng": 23.650228,
+      "stationComments": "M-Ramificație Rediu E",
+      "__v": 0,
+      "updated_at": "2020-12-08T14:57:40.783Z"
+    },
+    {
+      "_id": "5c88f935cd9ba504dcf73121",
+      "stationId": 428,
+      "stationName": "M-Pogaceanu E",
+      "stationLat": 46.682373,
+      "stationLng": 23.65011,
+      "stationComments": "M-Pogaceanu E",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f935cd9ba504dcf73122",
+      "stationId": 429,
+      "stationName": "M-Monument E",
+      "stationLat": 46.68588,
+      "stationLng": 23.651601,
+      "stationComments": "M-Monument E",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f935cd9ba504dcf73130",
+      "stationId": 430,
+      "stationName": "M-Biserica Vâlcele Sos",
+      "stationLat": 46.687542,
+      "stationLng": 23.654291,
+      "stationComments": "M-Biserica Vâlcele Sos",
+      "__v": 0,
+      "updated_at": "2020-12-08T14:58:03.271Z"
+    },
+    {
+      "_id": "5c88f935cd9ba504dcf7313a",
+      "stationId": 431,
+      "stationName": "M-Biserica Vâlcele Plecare",
+      "stationLat": 46.687672,
+      "stationLng": 23.654058,
+      "stationComments": "M-Biserica Vâlcele Plecare",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:44:29.949Z"
+    },
+    {
+      "_id": "5c88f935cd9ba504dcf73144",
+      "stationId": 432,
+      "stationName": "M-Monument",
+      "stationLat": 46.685836,
+      "stationLng": 23.651456,
+      "stationComments": "M-Monument",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f935cd9ba504dcf73145",
+      "stationId": 433,
+      "stationName": "M-Pogaceanu",
+      "stationLat": 46.682645,
+      "stationLng": 23.650142,
+      "stationComments": "M-Pogaceanu",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f935cd9ba504dcf7314c",
+      "stationId": 434,
+      "stationName": "M-Ramificație Rediu",
+      "stationLat": 46.677419,
+      "stationLng": 23.650163,
+      "stationComments": "M-Ramificație Rediu",
+      "__v": 0,
+      "updated_at": "2020-12-08T14:59:53.545Z"
+    },
+    {
+      "_id": "5c88f935cd9ba504dcf73157",
+      "stationId": 435,
+      "stationName": "M-Ramificație Vâlcele",
+      "stationLat": 46.674898,
+      "stationLng": 23.64706,
+      "stationComments": "M-Ramificație Vâlcele",
+      "__v": 0,
+      "updated_at": "2020-12-08T15:00:28.816Z"
+    },
+    {
+      "_id": "5c88f935cd9ba504dcf73158",
+      "stationId": 436,
+      "stationName": "M-Vâlcele DN 1",
+      "stationLat": 46.680259,
+      "stationLng": 23.63911,
+      "stationComments": "M-Vâlcele DN 1",
+      "__v": 0,
+      "updated_at": "2020-12-08T15:00:49.347Z"
+    },
+    {
+      "_id": "5c88f935cd9ba504dcf73159",
+      "stationId": 437,
+      "stationName": "M-Lukoil Vâlcele",
+      "stationLat": 46.691122,
+      "stationLng": 23.628121,
+      "stationComments": "M-Lukoil Vâlcele",
+      "__v": 0,
+      "updated_at": "2020-12-08T15:01:12.484Z"
+    },
+    {
+      "_id": "5c88f935cd9ba504dcf7315a",
+      "stationId": 438,
+      "stationName": "M-Restaurant Cortez",
+      "stationLat": 46.701665,
+      "stationLng": 23.61611,
+      "stationComments": "M-Restaurant Cortez",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f935cd9ba504dcf7315b",
+      "stationId": 439,
+      "stationName": "M-Feleacu Depozit E",
+      "stationLat": 46.707788,
+      "stationLng": 23.614815,
+      "stationComments": "M-Feleacu Depozit E",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f935cd9ba504dcf73185",
+      "stationId": 440,
+      "stationName": "M-Feleacu V",
+      "stationLat": 46.71093,
+      "stationLng": 23.614414,
+      "stationComments": "M-Feleacu V",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f936cd9ba504dcf731a4",
+      "stationId": 441,
+      "stationName": "M-Primăria Feleacu",
+      "stationLat": 46.716007,
+      "stationLng": 23.616212,
+      "stationComments": "M-Primăria Feleacu",
+      "__v": 0,
+      "updated_at": "2020-12-08T15:01:34.466Z"
+    },
+    {
+      "_id": "5c88f936cd9ba504dcf731a5",
+      "stationId": 442,
+      "stationName": "M-Borhanci V",
+      "stationLat": 46.738916,
+      "stationLng": 23.650273,
+      "stationComments": "M-Borhanci V",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f936cd9ba504dcf731b4",
+      "stationId": 443,
+      "stationName": "M-Popas V",
+      "stationLat": 46.72107,
+      "stationLng": 23.666304,
+      "stationComments": "M-Popas V",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f936cd9ba504dcf731c6",
+      "stationId": 444,
+      "stationName": "M-Gheorgheni S",
+      "stationLat": 46.719582,
+      "stationLng": 23.67138,
+      "stationComments": "M-Gheorgheni S",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f936cd9ba504dcf731e3",
+      "stationId": 445,
+      "stationName": "M-Dispensar S",
+      "stationLat": 46.717898,
+      "stationLng": 23.679276,
+      "stationComments": "M-Dispensar S",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f936cd9ba504dcf731f4",
+      "stationId": 446,
+      "stationName": "M-Școala Gheorgheni S",
+      "stationLat": 46.715058,
+      "stationLng": 23.684933,
+      "stationComments": "M-Școala Gheorgheni S",
+      "__v": 0,
+      "updated_at": "2020-12-08T15:02:05.245Z"
+    },
+    {
+      "_id": "5c88f936cd9ba504dcf731f8",
+      "stationId": 447,
+      "stationName": "M-Capăt Gheorgheni",
+      "stationLat": 46.712202,
+      "stationLng": 23.691593,
+      "stationComments": "M-Capăt Gheorgheni",
+      "__v": 0,
+      "updated_at": "2020-12-08T15:02:31.119Z"
+    },
+    {
+      "_id": "5c88f936cd9ba504dcf73210",
+      "stationId": 448,
+      "stationName": "M-Școala Gheorgheni N",
+      "stationLat": 46.715158,
+      "stationLng": 23.684946,
+      "stationComments": "M-Școala Gheorgheni N",
+      "__v": 0,
+      "updated_at": "2020-12-08T15:02:49.867Z"
+    },
+    {
+      "_id": "5c88f936cd9ba504dcf7321d",
+      "stationId": 449,
+      "stationName": "M-Dispensar N",
+      "stationLat": 46.717843,
+      "stationLng": 23.679802,
+      "stationComments": "M-Dispensar N",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f936cd9ba504dcf7323a",
+      "stationId": 450,
+      "stationName": "M-Gheorgheni",
+      "stationLat": 46.719586,
+      "stationLng": 23.671777,
+      "stationComments": "M-Gheorgheni",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f936cd9ba504dcf73243",
+      "stationId": 451,
+      "stationName": "M-Popas",
+      "stationLat": 46.72107,
+      "stationLng": 23.666662,
+      "stationComments": "M-Popas",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f936cd9ba504dcf73244",
+      "stationId": 452,
+      "stationName": "M-Borhanci E",
+      "stationLat": 46.739361,
+      "stationLng": 23.650239,
+      "stationComments": "M-Borhanci E",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f936cd9ba504dcf7324e",
+      "stationId": 453,
+      "stationName": "M-Centru Vârstnici N",
+      "stationLat": 46.679744,
+      "stationLng": 23.532793,
+      "stationComments": "M-Centru Vârstnici N",
+      "__v": 0,
+      "updated_at": "2020-12-08T15:03:09.774Z"
+    },
+    {
+      "_id": "5c88f936cd9ba504dcf73255",
+      "stationId": 454,
+      "stationName": "M-Salicea V",
+      "stationLat": 46.67377,
+      "stationLng": 23.524888,
+      "stationComments": "M-Salicea V",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f936cd9ba504dcf73264",
+      "stationId": 455,
+      "stationName": "M-Ciurila V",
+      "stationLat": 46.656134,
+      "stationLng": 23.532179,
+      "stationComments": "M-Ciurila V",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f936cd9ba504dcf73265",
+      "stationId": 456,
+      "stationName": "M-Primăria Ciurila",
+      "stationLat": 46.648661,
+      "stationLng": 23.542309,
+      "stationComments": "M-Primăria Ciurila",
+      "__v": 0,
+      "updated_at": "2020-12-08T15:03:33.373Z"
+    },
+    {
+      "_id": "5c88f936cd9ba504dcf73266",
+      "stationId": 457,
+      "stationName": "M-Primăria Ciurila Plecare",
+      "stationLat": 46.64881,
+      "stationLng": 23.542369,
+      "stationComments": "M-Primăria Ciurila Plecare",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:44:42.235Z"
+    },
+    {
+      "_id": "5c88f936cd9ba504dcf73282",
+      "stationId": 458,
+      "stationName": "M-Ciurila E",
+      "stationLat": 46.656064,
+      "stationLng": 23.532383,
+      "stationComments": "M-Ciurila E",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f936cd9ba504dcf732a2",
+      "stationId": 459,
+      "stationName": "M-Sălicea E",
+      "stationLat": 46.673923,
+      "stationLng": 23.525017,
+      "stationComments": "M-Sălicea E",
+      "__v": 0,
+      "updated_at": "2020-12-10T14:32:15.774Z"
+    },
+    {
+      "_id": "5c88f936cd9ba504dcf732a3",
+      "stationId": 460,
+      "stationName": "M-Centru Vârstnici S",
+      "stationLat": 46.679628,
+      "stationLng": 23.532731,
+      "stationComments": "M-Centru Vârstnici S",
+      "__v": 0,
+      "updated_at": "2020-12-08T15:04:07.104Z"
+    },
+    {
+      "_id": "5c88f936cd9ba504dcf732bc",
+      "stationId": 461,
+      "stationName": "Metro Nord",
+      "stationLat": 46.752134,
+      "stationLng": 23.523733,
+      "stationComments": "Metro Nord",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f936cd9ba504dcf732d4",
+      "stationId": 462,
+      "stationName": "M-Oncos N (Florești)",
+      "stationLat": 46.747762,
+      "stationLng": 23.505353,
+      "stationComments": "M-Oncos N (Florești)",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:39:50.198Z"
+    },
+    {
+      "_id": "5c88f937cd9ba504dcf732d5",
+      "stationId": 463,
+      "stationName": "M-Poligonului V (Florești)",
+      "stationLat": 46.745596,
+      "stationLng": 23.499219,
+      "stationComments": "M-Poligonului V (Florești)",
+      "__v": 0,
+      "updated_at": "2020-12-08T15:05:05.610Z"
+    },
+    {
+      "_id": "5c88f937cd9ba504dcf732e4",
+      "stationId": 464,
+      "stationName": "M-Tăutului N (Florești)",
+      "stationLat": 46.742844,
+      "stationLng": 23.49961,
+      "stationComments": "M-Tăutului N (Florești)",
+      "__v": 0,
+      "updated_at": "2020-12-08T15:05:30.534Z"
+    },
+    {
+      "_id": "5c88f937cd9ba504dcf732ec",
+      "stationId": 465,
+      "stationName": "M-Sub Cetate V (Florești)",
+      "stationLat": 46.739472,
+      "stationLng": 23.496001,
+      "stationComments": "M-Sub Cetate V (Florești)",
+      "__v": 0,
+      "updated_at": "2020-12-08T15:05:54.426Z"
+    },
+    {
+      "_id": "5c88f937cd9ba504dcf732ed",
+      "stationId": 466,
+      "stationName": "M-Luxor N (Florești)",
+      "stationLat": 46.736596,
+      "stationLng": 23.490762,
+      "stationComments": "M-Luxor N (Florești)",
+      "__v": 0,
+      "updated_at": "2020-12-08T15:07:19.048Z"
+    },
+    {
+      "_id": "5c88f937cd9ba504dcf732f6",
+      "stationId": 467,
+      "stationName": "M-Eroilor V (Florești)",
+      "stationLat": 46.735668,
+      "stationLng": 23.483832,
+      "stationComments": "M-Eroilor V (Florești)",
+      "__v": 0,
+      "updated_at": "2020-12-08T15:07:38.172Z"
+    },
+    {
+      "_id": "5c88f937cd9ba504dcf73300",
+      "stationId": 468,
+      "stationName": "M-Teilor (Florești)",
+      "stationLat": 46.732548,
+      "stationLng": 23.4834,
+      "stationComments": "M-Teilor (Florești)",
+      "__v": 0,
+      "updated_at": "2020-12-08T15:07:56.136Z"
+    },
+    {
+      "_id": "5c88f937cd9ba504dcf73313",
+      "stationId": 469,
+      "stationName": "M-Florești Cetate Sos",
+      "stationLat": 46.72811,
+      "stationLng": 23.484913,
+      "stationComments": "M-Florești Cetate Sos",
+      "__v": 0,
+      "updated_at": "2020-12-08T15:08:18.429Z"
+    },
+    {
+      "_id": "5c88f937cd9ba504dcf73314",
+      "stationId": 470,
+      "stationName": "M-Florești Cetate Plecare",
+      "stationLat": 46.7295,
+      "stationLng": 23.48404,
+      "stationComments": "M-Florești Cetate Plecare",
+      "__v": 0,
+      "updated_at": "2021-05-05T09:19:59.462Z"
+    },
+    {
+      "_id": "5c88f937cd9ba504dcf73315",
+      "stationId": 471,
+      "stationName": "M-Stejarului (Florești)",
+      "stationLat": 46.733156,
+      "stationLng": 23.483684,
+      "stationComments": "M-Stejarului (Florești)",
+      "__v": 0,
+      "updated_at": "2020-12-08T15:08:50.734Z"
+    },
+    {
+      "_id": "5c88f937cd9ba504dcf7331b",
+      "stationId": 472,
+      "stationName": "M-Eroilor E (Florești)",
+      "stationLat": 46.734804,
+      "stationLng": 23.483893,
+      "stationComments": "M-Eroilor E (Florești)",
+      "__v": 0,
+      "updated_at": "2020-12-08T15:09:12.045Z"
+    },
+    {
+      "_id": "5c88f937cd9ba504dcf7332f",
+      "stationId": 473,
+      "stationName": "M-Luxor S (Florești)",
+      "stationLat": 46.736451,
+      "stationLng": 23.489435,
+      "stationComments": "M-Luxor S (Florești)",
+      "__v": 0,
+      "updated_at": "2020-12-08T15:09:27.350Z"
+    },
+    {
+      "_id": "5c88f937cd9ba504dcf7333e",
+      "stationId": 474,
+      "stationName": "M-Sub Cetate E (Florești)",
+      "stationLat": 46.739039,
+      "stationLng": 23.496054,
+      "stationComments": "M-Sub Cetate E (Florești)",
+      "__v": 0,
+      "updated_at": "2020-12-08T15:09:40.729Z"
+    },
+    {
+      "_id": "5c88f937cd9ba504dcf73349",
+      "stationId": 475,
+      "stationName": "M-Tăutului S (Florești)",
+      "stationLat": 46.742731,
+      "stationLng": 23.499588,
+      "stationComments": "M-Tăutului S (Florești)",
+      "__v": 0,
+      "updated_at": "2020-12-08T15:10:01.391Z"
+    },
+    {
+      "_id": "5c88f937cd9ba504dcf73355",
+      "stationId": 476,
+      "stationName": "M-Poligonului E (Florești)",
+      "stationLat": 46.746207,
+      "stationLng": 23.499454,
+      "stationComments": "M-Poligonului E (Florești)",
+      "__v": 0,
+      "updated_at": "2020-12-08T15:10:15.876Z"
+    },
+    {
+      "_id": "5c88f937cd9ba504dcf73358",
+      "stationId": 477,
+      "stationName": "M-Oncos S (Florești)",
+      "stationLat": 46.747649,
+      "stationLng": 23.50547,
+      "stationComments": "M-Oncos S (Florești)",
+      "__v": 0,
+      "updated_at": "2020-12-08T15:10:37.135Z"
+    },
+    {
+      "_id": "5c88f937cd9ba504dcf73370",
+      "stationId": 478,
+      "stationName": "AutoTransilvania",
+      "stationLat": 46.750515,
+      "stationLng": 23.517739,
+      "stationComments": "AutoTransilvania",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f937cd9ba504dcf7337f",
+      "stationId": 479,
+      "stationName": "Metro Sud",
+      "stationLat": 46.752477,
+      "stationLng": 23.526178,
+      "stationComments": "Metro Sud",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f937cd9ba504dcf7338a",
+      "stationId": 480,
+      "stationName": "Polus Center",
+      "stationLat": 46.75403,
+      "stationLng": 23.532688,
+      "stationComments": "Polus Center",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f937cd9ba504dcf7338c",
+      "stationId": 481,
+      "stationName": "M-Someșului (Florești)",
+      "stationLat": 46.746308,
+      "stationLng": 23.499373,
+      "stationComments": "M-Someșului (Florești)",
+      "__v": 0,
+      "updated_at": "2020-12-08T15:11:04.704Z"
+    },
+    {
+      "_id": "5c88f937cd9ba504dcf73397",
+      "stationId": 482,
+      "stationName": "M-Iuliu Hossu (Florești)",
+      "stationLat": 46.745212,
+      "stationLng": 23.49299,
+      "stationComments": "M-Iuliu Hossu (Florești)",
+      "__v": 0,
+      "updated_at": "2020-12-08T15:11:29.978Z"
+    },
+    {
+      "_id": "5c88f937cd9ba504dcf7339f",
+      "stationId": 483,
+      "stationName": "M-Primăria Florești N",
+      "stationLat": 46.744373,
+      "stationLng": 23.485902,
+      "stationComments": "M-Primăria Florești N",
+      "__v": 0,
+      "updated_at": "2020-12-08T15:06:25.168Z"
+    },
+    {
+      "_id": "5c88f937cd9ba504dcf733a0",
+      "stationId": 484,
+      "stationName": "M-Il Milanese (Florești)",
+      "stationLat": 46.743945,
+      "stationLng": 23.474614,
+      "stationComments": "M-Il Milanese (Florești)",
+      "__v": 0,
+      "updated_at": "2020-12-08T15:06:57.747Z"
+    },
+    {
+      "_id": "5c88f938cd9ba504dcf733af",
+      "stationId": 485,
+      "stationName": "M-Prof. Dumitru Mocanu V",
+      "stationLat": 46.742346,
+      "stationLng": 23.473245,
+      "stationComments": "M-Prof. Dumitru Mocanu V",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f938cd9ba504dcf733b0",
+      "stationId": 486,
+      "stationName": "M-Dumitru Tautan",
+      "stationLat": 46.741317,
+      "stationLng": 23.469914,
+      "stationComments": "M-Dumitru Tautan",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f938cd9ba504dcf733b1",
+      "stationId": 487,
+      "stationName": "M-Sesu de Sus Sosire",
+      "stationLat": 46.741375,
+      "stationLng": 23.466003,
+      "stationComments": "M-Sesu de Sus Sosire",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:51:47.094Z"
+    },
+    {
+      "_id": "5c88f938cd9ba504dcf733d6",
+      "stationId": 488,
+      "stationName": "M-Sesu de Sus Plecare",
+      "stationLat": 46.74128,
+      "stationLng": 23.465847,
+      "stationComments": "M-Sesu de Sus Plecare",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:45:10.668Z"
+    },
+    {
+      "_id": "5c88f938cd9ba504dcf733db",
+      "stationId": 489,
+      "stationName": "M-Cartier Terra",
+      "stationLat": 46.741226,
+      "stationLng": 23.469726,
+      "stationComments": "M-Cartier Terra",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f938cd9ba504dcf733e0",
+      "stationId": 490,
+      "stationName": "M-Prof. Dumitru Mocanu E",
+      "stationLat": 46.742467,
+      "stationLng": 23.473352,
+      "stationComments": "M-Prof. Dumitru Mocanu E",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f938cd9ba504dcf733e5",
+      "stationId": 491,
+      "stationName": "M-Cuza Vodă (Florești)",
+      "stationLat": 46.743666,
+      "stationLng": 23.476744,
+      "stationComments": "M-Cuza Vodă (Florești)",
+      "__v": 0,
+      "updated_at": "2020-12-08T15:11:51.748Z"
+    },
+    {
+      "_id": "5c88f938cd9ba504dcf733ea",
+      "stationId": 492,
+      "stationName": "M-Primăria Florești S",
+      "stationLat": 46.744139,
+      "stationLng": 23.485283,
+      "stationComments": "M-Primăria Florești S",
+      "__v": 0,
+      "updated_at": "2020-12-08T15:12:12.397Z"
+    },
+    {
+      "_id": "5c88f938cd9ba504dcf733fa",
+      "stationId": 493,
+      "stationName": "M-Complex Florești",
+      "stationLat": 46.745321,
+      "stationLng": 23.495816,
+      "stationComments": "M-Complex Florești",
+      "__v": 0,
+      "updated_at": "2020-12-08T15:12:41.409Z"
+    },
+    {
+      "_id": "5c88f938cd9ba504dcf733fb",
+      "stationId": 494,
+      "stationName": "Calvaria Auto Plecare",
+      "stationLat": 46.759707,
+      "stationLng": 23.557426,
+      "stationComments": "Calvaria Auto Plecare",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:46:00.488Z"
+    },
+    {
+      "_id": "5c88f938cd9ba504dcf7340b",
+      "stationId": 495,
+      "stationName": "M-Iazului (Florești)",
+      "stationLat": 46.744094,
+      "stationLng": 23.467738,
+      "stationComments": "M-Iazului (Florești)",
+      "__v": 0,
+      "updated_at": "2020-12-08T15:12:27.094Z"
+    },
+    {
+      "_id": "5c88f938cd9ba504dcf73418",
+      "stationId": 496,
+      "stationName": "M-Luna 2 Nord",
+      "stationLat": 46.744794,
+      "stationLng": 23.448595,
+      "stationComments": "M-Luna 2 Nord",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f938cd9ba504dcf7342e",
+      "stationId": 497,
+      "stationName": "M-Luna 1 Nord",
+      "stationLat": 46.744279,
+      "stationLng": 23.440822,
+      "stationComments": "M-Luna 1 Nord",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f938cd9ba504dcf7342f",
+      "stationId": 498,
+      "stationName": "M-Școala Luna N",
+      "stationLat": 46.742987,
+      "stationLng": 23.433299,
+      "stationComments": "M-Școala Luna N",
+      "__v": 0,
+      "updated_at": "2020-12-08T15:13:13.245Z"
+    },
+    {
+      "_id": "5c88f938cd9ba504dcf73439",
+      "stationId": 499,
+      "stationName": "M-Bis. Ortodoxă Sos (Luna)",
+      "stationLat": 46.740188,
+      "stationLng": 23.429713,
+      "stationComments": "M-Bis. Ortodoxă Sos (Luna)",
+      "__v": 0,
+      "updated_at": "2020-12-08T15:13:32.187Z"
+    },
+    {
+      "_id": "5c88f938cd9ba504dcf73448",
+      "stationId": 500,
+      "stationName": "M-Bis. Ortodoxă (Luna)",
+      "stationLat": 46.740155,
+      "stationLng": 23.429723,
+      "stationComments": "M-Bis. Ortodoxă (Luna)",
+      "__v": 0,
+      "updated_at": "2020-12-08T15:13:48.224Z"
+    },
+    {
+      "_id": "5c88f938cd9ba504dcf7344d",
+      "stationId": 501,
+      "stationName": "M-Școala Luna S",
+      "stationLat": 46.74286,
+      "stationLng": 23.433189,
+      "stationComments": "M-Școala Luna S",
+      "__v": 0,
+      "updated_at": "2020-12-08T15:14:00.658Z"
+    },
+    {
+      "_id": "5c88f938cd9ba504dcf73459",
+      "stationId": 502,
+      "stationName": "M-Luna 1 Sud",
+      "stationLat": 46.744198,
+      "stationLng": 23.44108,
+      "stationComments": "M-Luna 1 Sud",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f938cd9ba504dcf7345f",
+      "stationId": 503,
+      "stationName": "M-Luna 2 Sud",
+      "stationLat": 46.744743,
+      "stationLng": 23.448858,
+      "stationComments": "M-Luna 2 Sud",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f938cd9ba504dcf7346c",
+      "stationId": 504,
+      "stationName": "M-Ferma 9 Nord",
+      "stationLat": 46.744366,
+      "stationLng": 23.455596,
+      "stationComments": "M-Ferma 9 Nord",
+      "__v": 0,
+      "updated_at": "2020-12-22T07:11:23.645Z"
+    },
+    {
+      "_id": "5c88f938cd9ba504dcf73471",
+      "stationId": 505,
+      "stationName": "M-Zambilelor (Florești)",
+      "stationLat": 46.743963,
+      "stationLng": 23.467781,
+      "stationComments": "M-Zambilelor (Florești)",
+      "__v": 0,
+      "updated_at": "2020-12-09T12:16:54.776Z"
+    },
+    {
+      "_id": "5c88f938cd9ba504dcf7347b",
+      "stationId": 506,
+      "stationName": "Calvaria Auto Sosire",
+      "stationLat": 46.759714,
+      "stationLng": 23.55728,
+      "stationComments": "Calvaria Auto Sosire",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:51:58.348Z"
+    },
+    {
+      "_id": "5c88f939cd9ba504dcf73485",
+      "stationId": 507,
+      "stationName": "M-Horea (Florești)",
+      "stationLat": 46.747142,
+      "stationLng": 23.494982,
+      "stationComments": "M-Horea (Florești)",
+      "__v": 0,
+      "updated_at": "2020-12-09T12:17:15.287Z"
+    },
+    {
+      "_id": "5c88f939cd9ba504dcf734b7",
+      "stationId": 508,
+      "stationName": "M-Gh. Doja (Florești)",
+      "stationLat": 46.746303,
+      "stationLng": 23.488183,
+      "stationComments": "M-Gh. Doja (Florești)",
+      "__v": 0,
+      "updated_at": "2020-12-09T12:17:42.935Z"
+    },
+    {
+      "_id": "5c88f939cd9ba504dcf734c6",
+      "stationId": 509,
+      "stationName": "M-Simion Bărnuțiu",
+      "stationLat": 46.74489,
+      "stationLng": 23.484824,
+      "stationComments": "M-Simion Bărnuțiu",
+      "__v": 0,
+      "updated_at": "2020-12-09T12:24:26.704Z"
+    },
+    {
+      "_id": "5c88f939cd9ba504dcf734d6",
+      "stationId": 510,
+      "stationName": "M-Ferma 9 Sos (Florești)",
+      "stationLat": 46.74439,
+      "stationLng": 23.455263,
+      "stationComments": "M-Ferma 9 Sos (Florești)",
+      "__v": 0,
+      "updated_at": "2020-12-09T12:24:44.426Z"
+    },
+    {
+      "_id": "5c88f939cd9ba504dcf734e9",
+      "stationId": 511,
+      "stationName": "M-Tăuțiului Vest",
+      "stationLat": 46.740625,
+      "stationLng": 23.505975,
+      "stationComments": "M-Tăuțiului Vest",
+      "__v": 0,
+      "updated_at": "2020-12-09T12:25:28.448Z"
+    },
+    {
+      "_id": "5c88f939cd9ba504dcf734f0",
+      "stationId": 512,
+      "stationName": "M-Mănăstirea Florești V",
+      "stationLat": 46.7264,
+      "stationLng": 23.507293,
+      "stationComments": "M-Mănăstirea Florești V",
+      "__v": 0,
+      "updated_at": "2020-12-09T12:26:00.710Z"
+    },
+    {
+      "_id": "5c88f939cd9ba504dcf734f1",
+      "stationId": 513,
+      "stationName": "M-Cămin Vârstnici V",
+      "stationLat": 46.721053,
+      "stationLng": 23.50537,
+      "stationComments": "M-Cămin Vârstnici V",
+      "__v": 0,
+      "updated_at": "2020-12-09T12:26:22.654Z"
+    },
+    {
+      "_id": "5c88f939cd9ba504dcf734f3",
+      "stationId": 514,
+      "stationName": "M-Izvor V",
+      "stationLat": 46.716237,
+      "stationLng": 23.50324,
+      "stationComments": "M-Izvor V",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f939cd9ba504dcf73509",
+      "stationId": 515,
+      "stationName": "M-Tăuți Sosire",
+      "stationLat": 46.709271,
+      "stationLng": 23.510241,
+      "stationComments": "M-Tăuți Sosire",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:52:08.589Z"
+    },
+    {
+      "_id": "5c88f939cd9ba504dcf7351b",
+      "stationId": 516,
+      "stationName": "M-Tăuți Plecare",
+      "stationLat": 46.709326,
+      "stationLng": 23.510367,
+      "stationComments": "M-Tăuți Plecare",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:45:32.443Z"
+    },
+    {
+      "_id": "5c88f939cd9ba504dcf73526",
+      "stationId": 517,
+      "stationName": "M-Izvor E",
+      "stationLat": 46.71631,
+      "stationLng": 23.503315,
+      "stationComments": "M-Izvor E",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f939cd9ba504dcf7353d",
+      "stationId": 518,
+      "stationName": "M-Cămin Vârstnici E",
+      "stationLat": 46.721035,
+      "stationLng": 23.505448,
+      "stationComments": "M-Cămin Vârstnici E",
+      "__v": 0,
+      "updated_at": "2020-12-09T12:27:41.657Z"
+    },
+    {
+      "_id": "5c88f939cd9ba504dcf7354c",
+      "stationId": 519,
+      "stationName": "M-Mănăstirea Florești E",
+      "stationLat": 46.726659,
+      "stationLng": 23.507537,
+      "stationComments": "M-Mănăstirea Florești E",
+      "__v": 0,
+      "updated_at": "2020-12-09T12:28:03.420Z"
+    },
+    {
+      "_id": "5c88f939cd9ba504dcf73551",
+      "stationId": 520,
+      "stationName": "M-Tăuțiului Est",
+      "stationLat": 46.740343,
+      "stationLng": 23.50672,
+      "stationComments": "M-Tăuțiului Est",
+      "__v": 0,
+      "updated_at": "2020-12-09T12:28:25.041Z"
+    },
+    {
+      "_id": "5c88f939cd9ba504dcf73561",
+      "stationId": 521,
+      "stationName": "Hotel Sport Plecare",
+      "stationLat": 46.767707,
+      "stationLng": 23.575062,
+      "stationComments": "Hotel Sport Plecare",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:46:14.227Z"
+    },
+    {
+      "_id": "5c88f939cd9ba504dcf7356e",
+      "stationId": 522,
+      "stationName": "M-Profi V (Florești)",
+      "stationLat": 46.738372,
+      "stationLng": 23.483993,
+      "stationComments": "M-Profi V (Florești)",
+      "__v": 0,
+      "updated_at": "2020-12-09T12:29:34.453Z"
+    },
+    {
+      "_id": "5c88f939cd9ba504dcf73575",
+      "stationId": 523,
+      "stationName": "M-Profi E (Florești)",
+      "stationLat": 46.738769,
+      "stationLng": 23.48414,
+      "stationComments": "M-Profi E (Florești)",
+      "__v": 0,
+      "updated_at": "2020-12-09T12:29:53.469Z"
+    },
+    {
+      "_id": "5c88f939cd9ba504dcf7357f",
+      "stationId": 524,
+      "stationName": "Mihai Eminescu",
+      "stationLat": 46.768361,
+      "stationLng": 23.579251,
+      "stationComments": "Mihai Eminescu",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f939cd9ba504dcf73580",
+      "stationId": 525,
+      "stationName": "Emil Isac",
+      "stationLat": 46.771304,
+      "stationLng": 23.584117,
+      "stationComments": "Emil Isac",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f939cd9ba504dcf7358f",
+      "stationId": 526,
+      "stationName": "Hotel Sport Sosire",
+      "stationLat": 46.768045,
+      "stationLng": 23.574919,
+      "stationComments": "Hotel Sport Sosire",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:52:20.384Z"
+    },
+    {
+      "_id": "5c88f939cd9ba504dcf73590",
+      "stationId": 527,
+      "stationName": "Napolact Nord",
+      "stationLat": 46.785784,
+      "stationLng": 23.53546,
+      "stationComments": "Napolact Nord",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f939cd9ba504dcf735ac",
+      "stationId": 528,
+      "stationName": "M-Transilvaniei N",
+      "stationLat": 46.789573,
+      "stationLng": 23.52801,
+      "stationComments": "M-Transilvaniei N",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f93acd9ba504dcf735bd",
+      "stationId": 529,
+      "stationName": "M-Regina",
+      "stationLat": 46.793283,
+      "stationLng": 23.52417,
+      "stationComments": "M-Regina",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f93acd9ba504dcf735c6",
+      "stationId": 530,
+      "stationName": "M-Poliția Baciu N",
+      "stationLat": 46.795994,
+      "stationLng": 23.519962,
+      "stationComments": "M-Poliția Baciu N",
+      "__v": 0,
+      "updated_at": "2020-12-09T12:30:17.612Z"
+    },
+    {
+      "_id": "5c88f93acd9ba504dcf735ce",
+      "stationId": 531,
+      "stationName": "M-Complex Baciu Sos",
+      "stationLat": 46.79718,
+      "stationLng": 23.514492,
+      "stationComments": "M-Complex Baciu Sos",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f93acd9ba504dcf735cf",
+      "stationId": 532,
+      "stationName": "M-Complex Baciu",
+      "stationLat": 46.797206,
+      "stationLng": 23.514301,
+      "stationComments": "M-Complex Baciu",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f93acd9ba504dcf735ef",
+      "stationId": 533,
+      "stationName": "M-Poliția Baciu S",
+      "stationLat": 46.796277,
+      "stationLng": 23.519104,
+      "stationComments": "M-Poliția Baciu S",
+      "__v": 0,
+      "updated_at": "2020-12-09T12:30:34.277Z"
+    },
+    {
+      "_id": "5c88f93acd9ba504dcf735f0",
+      "stationId": 534,
+      "stationName": "M-Cart. Blocuri Baciu",
+      "stationLat": 46.796455,
+      "stationLng": 23.521566,
+      "stationComments": "M-Cart. Blocuri Baciu",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f93acd9ba504dcf735fb",
+      "stationId": 535,
+      "stationName": "M-Crinului",
+      "stationLat": 46.794394,
+      "stationLng": 23.524539,
+      "stationComments": "M-Crinului",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f93acd9ba504dcf735fe",
+      "stationId": 536,
+      "stationName": "M-Regal",
+      "stationLat": 46.791571,
+      "stationLng": 23.528246,
+      "stationComments": "M-Regal",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f93acd9ba504dcf73617",
+      "stationId": 537,
+      "stationName": "M-Transilvaniei S",
+      "stationLat": 46.789214,
+      "stationLng": 23.528267,
+      "stationComments": "M-Transilvaniei S",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f93acd9ba504dcf73623",
+      "stationId": 538,
+      "stationName": "Gara Mică",
+      "stationLat": 46.78451,
+      "stationLng": 23.588981,
+      "stationComments": "Gara Mică",
+      "__v": 0,
+      "updated_at": "2020-12-09T12:30:57.319Z"
+    },
+    {
+      "_id": "5c88f93acd9ba504dcf7362d",
+      "stationId": 539,
+      "stationName": "M-Pasaj Baciu N",
+      "stationLat": 46.797911,
+      "stationLng": 23.484273,
+      "stationComments": "M-Pasaj Baciu N",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f93acd9ba504dcf73632",
+      "stationId": 540,
+      "stationName": "M-Magazin Suceagu V",
+      "stationLat": 46.79339,
+      "stationLng": 23.479065,
+      "stationComments": "M-Magazin Suceagu V",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f93acd9ba504dcf73633",
+      "stationId": 541,
+      "stationName": "M-Suceagu V",
+      "stationLat": 46.787966,
+      "stationLng": 23.476354,
+      "stationComments": "M-Suceagu V",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f93acd9ba504dcf73634",
+      "stationId": 542,
+      "stationName": "M-Transformator N",
+      "stationLat": 46.785263,
+      "stationLng": 23.469805,
+      "stationComments": "M-Transformator N",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f93acd9ba504dcf73636",
+      "stationId": 543,
+      "stationName": "M-Cămin Suceagu N",
+      "stationLat": 46.784452,
+      "stationLng": 23.464801,
+      "stationComments": "M-Cămin Suceagu N",
+      "__v": 0,
+      "updated_at": "2020-12-09T12:31:17.893Z"
+    },
+    {
+      "_id": "5c88f93acd9ba504dcf7365b",
+      "stationId": 544,
+      "stationName": "M-Școala Suceagu Sos",
+      "stationLat": 46.784483,
+      "stationLng": 23.461341,
+      "stationComments": "M-Școala Suceagu Sos",
+      "__v": 0,
+      "updated_at": "2020-12-09T12:32:15.270Z"
+    },
+    {
+      "_id": "5c88f93acd9ba504dcf73670",
+      "stationId": 545,
+      "stationName": "M-Școala Suceagu Plecare",
+      "stationLat": 46.784417,
+      "stationLng": 23.461438,
+      "stationComments": "M-Școala Suceagu Plecare",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:47:06.291Z"
+    },
+    {
+      "_id": "5c88f93acd9ba504dcf73671",
+      "stationId": 546,
+      "stationName": "M-Cămin Suceagu S",
+      "stationLat": 46.78434,
+      "stationLng": 23.46507,
+      "stationComments": "M-Cămin Suceagu S",
+      "__v": 0,
+      "updated_at": "2020-12-09T12:33:34.817Z"
+    },
+    {
+      "_id": "5c88f93acd9ba504dcf73679",
+      "stationId": 547,
+      "stationName": "M-Transformator S",
+      "stationLat": 46.785207,
+      "stationLng": 23.469863,
+      "stationComments": "M-Transformator S",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f93acd9ba504dcf7367d",
+      "stationId": 548,
+      "stationName": "M-Suceagu E",
+      "stationLat": 46.788202,
+      "stationLng": 23.476844,
+      "stationComments": "M-Suceagu E",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f93acd9ba504dcf73692",
+      "stationId": 549,
+      "stationName": "M-Magazin Suceagu E",
+      "stationLat": 46.793666,
+      "stationLng": 23.47936,
+      "stationComments": "M-Magazin Suceagu E",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f93acd9ba504dcf736a0",
+      "stationId": 550,
+      "stationName": "M-Pasaj Baciu S",
+      "stationLat": 46.79804,
+      "stationLng": 23.483754,
+      "stationComments": "M-Pasaj Baciu S",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f93bcd9ba504dcf736b8",
+      "stationId": 551,
+      "stationName": "M-Regina Sud",
+      "stationLat": 46.792424,
+      "stationLng": 23.524826,
+      "stationComments": "M-Regina Sud",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f93bcd9ba504dcf736ce",
+      "stationId": 552,
+      "stationName": "Dedeman",
+      "stationLat": 46.785077,
+      "stationLng": 23.585633,
+      "stationComments": "Dedeman",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f93bcd9ba504dcf736cf",
+      "stationId": 553,
+      "stationName": "Liberty",
+      "stationLat": 46.787231,
+      "stationLng": 23.592704,
+      "stationComments": "Liberty",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f93bcd9ba504dcf736d0",
+      "stationId": 554,
+      "stationName": "Gara Mică Sosire",
+      "stationLat": 46.784524,
+      "stationLng": 23.589181,
+      "stationComments": "Gara Mică Sosire",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:52:32.435Z"
+    },
+    {
+      "_id": "5c88f93bcd9ba504dcf736d1",
+      "stationId": 555,
+      "stationName": "M-Măracineanu E",
+      "stationLat": 46.79075,
+      "stationLng": 23.543033,
+      "stationComments": "M-Măracineanu E",
+      "__v": 0,
+      "updated_at": "2020-12-09T12:34:35.747Z"
+    },
+    {
+      "_id": "5c88f93bcd9ba504dcf736d2",
+      "stationId": 556,
+      "stationName": "M-Terasa E",
+      "stationLat": 46.816556,
+      "stationLng": 23.523842,
+      "stationComments": "M-Terasa E",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f93bcd9ba504dcf736d4",
+      "stationId": 557,
+      "stationName": "M-Popești Ramificație E",
+      "stationLat": 46.825535,
+      "stationLng": 23.522565,
+      "stationComments": "M-Popești Ramificație E",
+      "__v": 0,
+      "updated_at": "2020-12-09T12:35:08.037Z"
+    },
+    {
+      "_id": "5c88f93bcd9ba504dcf736f1",
+      "stationId": 558,
+      "stationName": "M-Comlact E",
+      "stationLat": 46.842119,
+      "stationLng": 23.509626,
+      "stationComments": "M-Comlact E",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f93bcd9ba504dcf736f7",
+      "stationId": 559,
+      "stationName": "M-Monument Coruș",
+      "stationLat": 46.847902,
+      "stationLng": 23.50637,
+      "stationComments": "M-Monument Coruș",
+      "__v": 0,
+      "updated_at": "2020-12-09T12:39:05.629Z"
+    },
+    {
+      "_id": "5c88f93bcd9ba504dcf736f8",
+      "stationId": 560,
+      "stationName": "M-Situl Fosilier E",
+      "stationLat": 46.852073,
+      "stationLng": 23.502615,
+      "stationComments": "M-Situl Fosilier E",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f93bcd9ba504dcf7370c",
+      "stationId": 561,
+      "stationName": "M-Săliștea Noua Sosire",
+      "stationLat": 46.872892,
+      "stationLng": 23.490159,
+      "stationComments": "M-Săliștea Noua Sosire",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:40:38.961Z"
+    },
+    {
+      "_id": "5c88f93bcd9ba504dcf73717",
+      "stationId": 562,
+      "stationName": "M-Săliștea Noua Plecare",
+      "stationLat": 46.872833,
+      "stationLng": 23.489995,
+      "stationComments": "M-Săliștea Noua Plecare",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:47:19.416Z"
+    },
+    {
+      "_id": "5c88f93bcd9ba504dcf73721",
+      "stationId": 563,
+      "stationName": "M-Situl Fosilier V",
+      "stationLat": 46.851897,
+      "stationLng": 23.502599,
+      "stationComments": "M-Situl Fosilier V",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f93bcd9ba504dcf73733",
+      "stationId": 564,
+      "stationName": "M-Biserica Coruș",
+      "stationLat": 46.847806,
+      "stationLng": 23.506215,
+      "stationComments": "M-Biserica Coruș",
+      "__v": 0,
+      "updated_at": "2020-12-09T12:38:35.269Z"
+    },
+    {
+      "_id": "5c88f93bcd9ba504dcf73740",
+      "stationId": 565,
+      "stationName": "M-Comlact V",
+      "stationLat": 46.842301,
+      "stationLng": 23.509364,
+      "stationComments": "M-Comlact V",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f93bcd9ba504dcf73750",
+      "stationId": 566,
+      "stationName": "M-Popești Ramificație V",
+      "stationLat": 46.825513,
+      "stationLng": 23.522399,
+      "stationComments": "M-Popești Ramificație V",
+      "__v": 0,
+      "updated_at": "2020-12-09T12:40:02.304Z"
+    },
+    {
+      "_id": "5c88f93bcd9ba504dcf7375c",
+      "stationId": 567,
+      "stationName": "M-Terasă V",
+      "stationLat": 46.816178,
+      "stationLng": 23.523869,
+      "stationComments": "M-Terasă V",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:41:12.851Z"
+    },
+    {
+      "_id": "5c88f93bcd9ba504dcf73761",
+      "stationId": 568,
+      "stationName": "M-Mărăcineanu V",
+      "stationLat": 46.790522,
+      "stationLng": 23.54313,
+      "stationComments": "M-Mărăcineanu V",
+      "__v": 0,
+      "updated_at": "2020-12-09T12:41:47.953Z"
+    },
+    {
+      "_id": "5c88f93bcd9ba504dcf73777",
+      "stationId": 569,
+      "stationName": "M-ADRNV",
+      "stationLat": 46.800414,
+      "stationLng": 23.468987,
+      "stationComments": "M-ADRNV",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f93bcd9ba504dcf7378d",
+      "stationId": 570,
+      "stationName": "M-Rădaia N",
+      "stationLat": 46.800906,
+      "stationLng": 23.463852,
+      "stationComments": "M-Rădaia N",
+      "__v": 0,
+      "updated_at": "2020-12-09T12:44:28.097Z"
+    },
+    {
+      "_id": "5c88f93bcd9ba504dcf73794",
+      "stationId": 571,
+      "stationName": "M-Mera 1 E",
+      "stationLat": 46.806658,
+      "stationLng": 23.455805,
+      "stationComments": "M-Mera 1 E",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f93bcd9ba504dcf737a2",
+      "stationId": 572,
+      "stationName": "M-Mera 2 E ",
+      "stationLat": 46.8099,
+      "stationLng": 23.4576,
+      "stationComments": "M-Mera 2 E ",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f93ccd9ba504dcf737a3",
+      "stationId": 573,
+      "stationName": "M-Biserica Mera Sosire",
+      "stationLat": 46.815121,
+      "stationLng": 23.453048,
+      "stationComments": "M-Biserica Mera Sosire",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:41:28.344Z"
+    },
+    {
+      "_id": "5c88f93ccd9ba504dcf737bb",
+      "stationId": 574,
+      "stationName": "M-Biserica Mera Plecare",
+      "stationLat": 46.815121,
+      "stationLng": 23.452919,
+      "stationComments": "M-Biserica Mera Plecare",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:47:32.884Z"
+    },
+    {
+      "_id": "5c88f93ccd9ba504dcf737c0",
+      "stationId": 575,
+      "stationName": "M-Mera 2 V",
+      "stationLat": 46.809839,
+      "stationLng": 23.457549,
+      "stationComments": "M-Mera 2 V",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f93ccd9ba504dcf737c4",
+      "stationId": 576,
+      "stationName": "M-Mera 1 V",
+      "stationLat": 46.806364,
+      "stationLng": 23.455341,
+      "stationComments": "M-Mera 1 V",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f93ccd9ba504dcf737cf",
+      "stationId": 577,
+      "stationName": "M-Rădaia S",
+      "stationLat": 46.800805,
+      "stationLng": 23.464179,
+      "stationComments": "M-Rădaia S",
+      "__v": 0,
+      "updated_at": "2020-12-09T12:45:34.261Z"
+    },
+    {
+      "_id": "5c88f93ccd9ba504dcf737e2",
+      "stationId": 578,
+      "stationName": "M-Plant Extract S",
+      "stationLat": 46.798205,
+      "stationLng": 23.472534,
+      "stationComments": "M-Plant Extract S",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f93ccd9ba504dcf737fc",
+      "stationId": 579,
+      "stationName": "M-Spicului Est",
+      "stationLat": 46.80167,
+      "stationLng": 23.555315,
+      "stationComments": "M-Spicului Est",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f93ccd9ba504dcf737fe",
+      "stationId": 580,
+      "stationName": "M-Popești Est",
+      "stationLat": 46.818883,
+      "stationLng": 23.535335,
+      "stationComments": "M-Popești Est",
+      "__v": 0,
+      "updated_at": "2020-12-09T12:46:23.148Z"
+    },
+    {
+      "_id": "5c88f93ccd9ba504dcf73818",
+      "stationId": 581,
+      "stationName": "M-Monument Popești Sos",
+      "stationLat": 46.823252,
+      "stationLng": 23.534083,
+      "stationComments": "M-Monument Popești Sos",
+      "__v": 0,
+      "updated_at": "2020-12-09T12:46:45.946Z"
+    },
+    {
+      "_id": "5c88f93ccd9ba504dcf73829",
+      "stationId": 582,
+      "stationName": "M-Monument Popești Plecare",
+      "stationLat": 46.823338,
+      "stationLng": 23.53397,
+      "stationComments": "M-Monument Popești Plecare",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:48:46.291Z"
+    },
+    {
+      "_id": "5c88f93ccd9ba504dcf7382a",
+      "stationId": 583,
+      "stationName": "M-Popești Vest",
+      "stationLat": 46.818819,
+      "stationLng": 23.535263,
+      "stationComments": "M-Popești Vest",
+      "__v": 0,
+      "updated_at": "2020-12-09T13:06:27.010Z"
+    },
+    {
+      "_id": "5c88f93ccd9ba504dcf73830",
+      "stationId": 584,
+      "stationName": "M-Spicului Vest",
+      "stationLat": 46.801672,
+      "stationLng": 23.555087,
+      "stationComments": "M-Spicului Vest",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f93ccd9ba504dcf73831",
+      "stationId": 585,
+      "stationName": "M-Dealu Fânatelor E",
+      "stationLat": 46.840637,
+      "stationLng": 23.607994,
+      "stationComments": "M-Dealu Fânatelor E",
+      "__v": 0,
+      "updated_at": "2020-12-09T13:06:46.442Z"
+    },
+    {
+      "_id": "5c88f93ccd9ba504dcf73832",
+      "stationId": 586,
+      "stationName": "M-Ferma Fânate E",
+      "stationLat": 46.848687,
+      "stationLng": 23.60676,
+      "stationComments": "M-Ferma Fânate E",
+      "__v": 0,
+      "updated_at": "2020-12-09T13:07:02.606Z"
+    },
+    {
+      "_id": "5c88f93ccd9ba504dcf73849",
+      "stationId": 587,
+      "stationName": "M-Biserica Pădureni E",
+      "stationLat": 46.867692,
+      "stationLng": 23.593124,
+      "stationComments": "M-Biserica Pădureni E",
+      "__v": 0,
+      "updated_at": "2020-12-09T13:07:19.671Z"
+    },
+    {
+      "_id": "5c88f93ccd9ba504dcf7385d",
+      "stationId": 588,
+      "stationName": "M-Pădureni E",
+      "stationLat": 46.870602,
+      "stationLng": 23.594341,
+      "stationComments": "M-Pădureni E",
+      "__v": 0,
+      "updated_at": "2020-12-09T13:07:35.857Z"
+    },
+    {
+      "_id": "5c88f93ccd9ba504dcf7386f",
+      "stationId": 589,
+      "stationName": "M-Feiurdeni Sosire",
+      "stationLat": 46.880094,
+      "stationLng": 23.626064,
+      "stationComments": "M-Feiurdeni Sosire",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:53:31.673Z"
+    },
+    {
+      "_id": "5c88f93ccd9ba504dcf73871",
+      "stationId": 590,
+      "stationName": "M-Feiurdeni Plecare",
+      "stationLat": 46.880085,
+      "stationLng": 23.625887,
+      "stationComments": "M-Feiurdeni Plecare",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:48:08.290Z"
+    },
+    {
+      "_id": "5c88f93ccd9ba504dcf73883",
+      "stationId": 591,
+      "stationName": "M-Pădureni V",
+      "stationLat": 46.870631,
+      "stationLng": 23.594226,
+      "stationComments": "M-Pădureni V",
+      "__v": 0,
+      "updated_at": "2020-12-09T13:07:49.931Z"
+    },
+    {
+      "_id": "5c88f93ccd9ba504dcf7388b",
+      "stationId": 592,
+      "stationName": "M-Biserica Pădureni V",
+      "stationLat": 46.867435,
+      "stationLng": 23.59285,
+      "stationComments": "M-Biserica Pădureni V",
+      "__v": 0,
+      "updated_at": "2020-12-09T13:16:25.225Z"
+    },
+    {
+      "_id": "5c88f93ccd9ba504dcf73898",
+      "stationId": 593,
+      "stationName": "M-Ferma Fanate V",
+      "stationLat": 46.848916,
+      "stationLng": 23.606583,
+      "stationComments": "M-Ferma Fanate V",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f93ccd9ba504dcf738a1",
+      "stationId": 594,
+      "stationName": "M-Dealu Fanatelor V",
+      "stationLat": 46.840791,
+      "stationLng": 23.607945,
+      "stationComments": "M-Dealu Fanatelor V",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f93ccd9ba504dcf738a6",
+      "stationId": 595,
+      "stationName": "M-Garden E",
+      "stationLat": 46.848356,
+      "stationLng": 23.554387,
+      "stationComments": "M-Garden E",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f93dcd9ba504dcf738b8",
+      "stationId": 596,
+      "stationName": "M-Xamus E",
+      "stationLat": 46.851273,
+      "stationLng": 23.548717,
+      "stationComments": "M-Xamus E",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f93dcd9ba504dcf738c5",
+      "stationId": 597,
+      "stationName": "M-Chinteni E",
+      "stationLat": 46.857322,
+      "stationLng": 23.544028,
+      "stationComments": "M-Chinteni E",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f93dcd9ba504dcf738cd",
+      "stationId": 598,
+      "stationName": "M-Primăria Chinteni",
+      "stationLat": 46.861343,
+      "stationLng": 23.539957,
+      "stationComments": "M-Primăria Chinteni",
+      "__v": 0,
+      "updated_at": "2020-12-09T13:17:02.870Z"
+    },
+    {
+      "_id": "5c88f93dcd9ba504dcf738d7",
+      "stationId": 599,
+      "stationName": "M-Habitat E",
+      "stationLat": 46.868418,
+      "stationLng": 23.52977,
+      "stationComments": "M-Habitat E",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f93dcd9ba504dcf738e2",
+      "stationId": 600,
+      "stationName": "M-Chinteni Lac Sosire",
+      "stationLat": 46.87543,
+      "stationLng": 23.52569,
+      "stationComments": "M-Chinteni Lac Sosire",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:52:47.004Z"
+    },
+    {
+      "_id": "5c88f93dcd9ba504dcf73900",
+      "stationId": 601,
+      "stationName": "M-Vechea N",
+      "stationLat": 46.898272,
+      "stationLng": 23.520149,
+      "stationComments": "M-Vechea N",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f93dcd9ba504dcf73910",
+      "stationId": 602,
+      "stationName": "M-Deusu S",
+      "stationLat": 46.894966,
+      "stationLng": 23.530059,
+      "stationComments": "M-Deusu S",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f93dcd9ba504dcf73911",
+      "stationId": 603,
+      "stationName": "M-Sânmărtin Sosire",
+      "stationLat": 46.895708,
+      "stationLng": 23.563651,
+      "stationComments": "M-Sânmărtin Sosire",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:53:00.159Z"
+    },
+    {
+      "_id": "5c88f93dcd9ba504dcf73912",
+      "stationId": 604,
+      "stationName": "M-Sânmărtin Plecare",
+      "stationLat": 46.895826,
+      "stationLng": 23.56371,
+      "stationComments": "M-Sânmărtin Plecare",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:46:25.860Z"
+    },
+    {
+      "_id": "5c88f93dcd9ba504dcf73913",
+      "stationId": 605,
+      "stationName": "M-Deusu N",
+      "stationLat": 46.895039,
+      "stationLng": 23.529952,
+      "stationComments": "M-Deusu N",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f93dcd9ba504dcf73918",
+      "stationId": 606,
+      "stationName": "M-Vechea S",
+      "stationLat": 46.898197,
+      "stationLng": 23.520323,
+      "stationComments": "M-Vechea S",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f93dcd9ba504dcf73924",
+      "stationId": 607,
+      "stationName": "M-Chinteni Lac Plecare",
+      "stationLat": 46.87532,
+      "stationLng": 23.52572,
+      "stationComments": "M-Chinteni Lac Plecare",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:45:45.080Z"
+    },
+    {
+      "_id": "5c88f93dcd9ba504dcf7392e",
+      "stationId": 608,
+      "stationName": "M-Habitat V",
+      "stationLat": 46.868304,
+      "stationLng": 23.529711,
+      "stationComments": "M-Habitat V",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f93dcd9ba504dcf73941",
+      "stationId": 609,
+      "stationName": "M-Primăria Chinteni V",
+      "stationLat": 46.861141,
+      "stationLng": 23.539892,
+      "stationComments": "M-Primăria Chinteni V",
+      "__v": 0,
+      "updated_at": "2020-12-09T13:17:32.186Z"
+    },
+    {
+      "_id": "5c88f93dcd9ba504dcf73946",
+      "stationId": 610,
+      "stationName": "M-Chinteni V",
+      "stationLat": 46.856923,
+      "stationLng": 23.544028,
+      "stationComments": "M-Chinteni V",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f93dcd9ba504dcf73947",
+      "stationId": 611,
+      "stationName": "M-Xamus V",
+      "stationLat": 46.851181,
+      "stationLng": 23.548599,
+      "stationComments": "M-Xamus V",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f93dcd9ba504dcf73949",
+      "stationId": 612,
+      "stationName": "M-Garden V",
+      "stationLat": 46.848243,
+      "stationLng": 23.554462,
+      "stationComments": "M-Garden V",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f93dcd9ba504dcf73959",
+      "stationId": 613,
+      "stationName": "M-Agro Transilvania",
+      "stationLat": 46.782324,
+      "stationLng": 23.707218,
+      "stationComments": "M-Agro Transilvania",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f93dcd9ba504dcf7396e",
+      "stationId": 614,
+      "stationName": "M-Rondocarton",
+      "stationLat": 46.783732,
+      "stationLng": 23.7151,
+      "stationComments": "M-Rondocarton",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f93dcd9ba504dcf73977",
+      "stationId": 615,
+      "stationName": "M-Halta Sânnicoară S",
+      "stationLat": 46.784473,
+      "stationLng": 23.718963,
+      "stationComments": "M-Halta Sânnicoară S",
+      "__v": 0,
+      "updated_at": "2020-12-09T13:18:49.187Z"
+    },
+    {
+      "_id": "5c88f93dcd9ba504dcf7398a",
+      "stationId": 616,
+      "stationName": "M-Triaj Sânnicoară S",
+      "stationLat": 46.787461,
+      "stationLng": 23.728407,
+      "stationComments": "M-Triaj Sânnicoară S",
+      "__v": 0,
+      "updated_at": "2020-12-09T13:19:12.495Z"
+    },
+    {
+      "_id": "5c88f93dcd9ba504dcf7398d",
+      "stationId": 617,
+      "stationName": "M-Gara Apahida S",
+      "stationLat": 46.792007,
+      "stationLng": 23.742607,
+      "stationComments": "M-Gara Apahida S",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f93ecd9ba504dcf7398e",
+      "stationId": 618,
+      "stationName": "M-Ramificație Cojocna",
+      "stationLat": 46.79744,
+      "stationLng": 23.751806,
+      "stationComments": "M-Ramificație Cojocna",
+      "__v": 0,
+      "updated_at": "2020-12-09T13:18:04.223Z"
+    },
+    {
+      "_id": "5c88f93ecd9ba504dcf73996",
+      "stationId": 619,
+      "stationName": "M-Blocuri Apahida E",
+      "stationLat": 46.800777,
+      "stationLng": 23.754104,
+      "stationComments": "M-Blocuri Apahida E",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f93ecd9ba504dcf7399a",
+      "stationId": 620,
+      "stationName": "M-Poliția Apahida",
+      "stationLat": 46.804479,
+      "stationLng": 23.75225,
+      "stationComments": "M-Poliția Apahida",
+      "__v": 0,
+      "updated_at": "2020-12-09T13:19:33.924Z"
+    },
+    {
+      "_id": "5c88f93ecd9ba504dcf7399d",
+      "stationId": 621,
+      "stationName": "M-Tudor Vladimirescu Ap.",
+      "stationLat": 46.811481,
+      "stationLng": 23.751276,
+      "stationComments": "M-Tudor Vladimirescu Ap.",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f93ecd9ba504dcf7399e",
+      "stationId": 622,
+      "stationName": "M-Pod Apahida E",
+      "stationLat": 46.81377,
+      "stationLng": 23.750756,
+      "stationComments": "M-Pod Apahida E",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f93ecd9ba504dcf739af",
+      "stationId": 623,
+      "stationName": "M-Ferma Câmpenești",
+      "stationLat": 46.815773,
+      "stationLng": 23.744677,
+      "stationComments": "M-Ferma Câmpenești",
+      "__v": 0,
+      "updated_at": "2020-12-09T13:22:30.286Z"
+    },
+    {
+      "_id": "5c88f93ecd9ba504dcf739c1",
+      "stationId": 624,
+      "stationName": "M-Pod Apahida V",
+      "stationLat": 46.813855,
+      "stationLng": 23.750567,
+      "stationComments": "M-Pod Apahida V",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f93ecd9ba504dcf739d0",
+      "stationId": 625,
+      "stationName": "M-Eroii Pascu",
+      "stationLat": 46.810797,
+      "stationLng": 23.750803,
+      "stationComments": "M-Eroii Pascu",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f93ecd9ba504dcf739d1",
+      "stationId": 626,
+      "stationName": "M-Primăria Apahida",
+      "stationLat": 46.805544,
+      "stationLng": 23.751599,
+      "stationComments": "M-Primăria Apahida",
+      "__v": 0,
+      "updated_at": "2020-12-09T13:40:21.684Z"
+    },
+    {
+      "_id": "5c88f93ecd9ba504dcf739d4",
+      "stationId": 627,
+      "stationName": "M-Blocuri Apahida V",
+      "stationLat": 46.801356,
+      "stationLng": 23.753699,
+      "stationComments": "M-Blocuri Apahida V",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f93ecd9ba504dcf739e1",
+      "stationId": 628,
+      "stationName": "M-Pietroasa Apahida",
+      "stationLat": 46.796566,
+      "stationLng": 23.750495,
+      "stationComments": "M-Pietroasa Apahida",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f93ecd9ba504dcf739f4",
+      "stationId": 629,
+      "stationName": "M-Gara Apahida N",
+      "stationLat": 46.792445,
+      "stationLng": 23.743649,
+      "stationComments": "M-Gara Apahida N",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f93ecd9ba504dcf739fd",
+      "stationId": 630,
+      "stationName": "M-Triaj Sânnicoară N",
+      "stationLat": 46.787635,
+      "stationLng": 23.728647,
+      "stationComments": "M-Triaj Sânnicoară N",
+      "__v": 0,
+      "updated_at": "2020-12-09T13:40:54.043Z"
+    },
+    {
+      "_id": "5c88f93ecd9ba504dcf73a04",
+      "stationId": 631,
+      "stationName": "M-Halta Sânnicoară N",
+      "stationLat": 46.784664,
+      "stationLng": 23.719139,
+      "stationComments": "M-Halta Sânnicoară N",
+      "__v": 0,
+      "updated_at": "2020-12-09T13:41:24.648Z"
+    },
+    {
+      "_id": "5c88f93ecd9ba504dcf73a05",
+      "stationId": 632,
+      "stationName": "M-RMB Inter Auto",
+      "stationLat": 46.784092,
+      "stationLng": 23.71647,
+      "stationComments": "M-RMB Inter Auto",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f93ecd9ba504dcf73a17",
+      "stationId": 633,
+      "stationName": "M-EVW Holding",
+      "stationLat": 46.782551,
+      "stationLng": 23.707337,
+      "stationComments": "M-EVW Holding",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f93ecd9ba504dcf73a2b",
+      "stationId": 634,
+      "stationName": "M-Grădinița Câmpenești S",
+      "stationLat": 46.83087,
+      "stationLng": 23.738373,
+      "stationComments": "M-Grădinița Câmpenești S",
+      "__v": 0,
+      "updated_at": "2020-12-09T13:42:18.367Z"
+    },
+    {
+      "_id": "5c88f93ecd9ba504dcf73a39",
+      "stationId": 635,
+      "stationName": "M-Grădinița Câmpenești Plecare",
+      "stationLat": 46.830618,
+      "stationLng": 23.738358,
+      "stationComments": "M-Grădinița Câmpenești Plecare",
+      "__v": 0,
+      "updated_at": "2020-12-09T13:43:19.828Z"
+    },
+    {
+      "_id": "5c88f93ecd9ba504dcf73a49",
+      "stationId": 636,
+      "stationName": "M-Cămin Sânnicoară",
+      "stationLat": 46.788298,
+      "stationLng": 23.726944,
+      "stationComments": "M-Cămin Sânnicoară",
+      "__v": 0,
+      "updated_at": "2020-12-09T13:44:09.482Z"
+    },
+    {
+      "_id": "5c88f93ecd9ba504dcf73a59",
+      "stationId": 637,
+      "stationName": "M-1 Mai Sosire",
+      "stationLat": 46.791818,
+      "stationLng": 23.723892,
+      "stationComments": "M-1 Mai Sosire",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:53:16.457Z"
+    },
+    {
+      "_id": "5c88f93ecd9ba504dcf73a61",
+      "stationId": 638,
+      "stationName": "M-1 Mai Plecare",
+      "stationLat": 46.791903,
+      "stationLng": 23.723825,
+      "stationComments": "M-1 Mai Plecare",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:45:21.192Z"
+    },
+    {
+      "_id": "5c88f93ecd9ba504dcf73a6b",
+      "stationId": 639,
+      "stationName": "M-Școlii Sânnicoară",
+      "stationLat": 46.788311,
+      "stationLng": 23.718479,
+      "stationComments": "M-Școlii Sânnicoară",
+      "__v": 0,
+      "updated_at": "2020-12-09T13:44:40.192Z"
+    },
+    {
+      "_id": "5c88f93fcd9ba504dcf73a75",
+      "stationId": 640,
+      "stationName": "M-Sub Coastă Sosire",
+      "stationLat": 46.798282,
+      "stationLng": 23.716304,
+      "stationComments": "M-Sub Coastă Sosire",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:53:46.913Z"
+    },
+    {
+      "_id": "5c88f93fcd9ba504dcf73a77",
+      "stationId": 641,
+      "stationName": "M-Sub Coastă",
+      "stationLat": 46.79855,
+      "stationLng": 23.716028,
+      "stationComments": "M-Sub Coastă",
+      "__v": 0,
+      "updated_at": "2020-12-10T14:36:03.962Z"
+    },
+    {
+      "_id": "5c88f93fcd9ba504dcf73a79",
+      "stationId": 642,
+      "stationName": "M-Pepiniera",
+      "stationLat": 46.775278,
+      "stationLng": 23.706086,
+      "stationComments": "M-Pepiniera",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f93fcd9ba504dcf73a7c",
+      "stationId": 643,
+      "stationName": "M-Trandafirilor V",
+      "stationLat": 46.771301,
+      "stationLng": 23.706678,
+      "stationComments": "M-Trandafirilor V",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f93fcd9ba504dcf73a7d",
+      "stationId": 644,
+      "stationName": "M-Crișeni V",
+      "stationLat": 46.767628,
+      "stationLng": 23.709515,
+      "stationComments": "M-Crișeni V",
+      "__v": 0,
+      "updated_at": "2020-12-09T13:46:11.896Z"
+    },
+    {
+      "_id": "5c88f93fcd9ba504dcf73a7e",
+      "stationId": 645,
+      "stationName": "M-Tăușor V",
+      "stationLat": 46.764917,
+      "stationLng": 23.71105,
+      "stationComments": "M-Tăușor V",
+      "__v": 0,
+      "updated_at": "2020-12-09T13:46:31.686Z"
+    },
+    {
+      "_id": "5c88f93fcd9ba504dcf73a96",
+      "stationId": 646,
+      "stationName": "M-Complex Dezmir S",
+      "stationLat": 46.762912,
+      "stationLng": 23.714998,
+      "stationComments": "M-Complex Dezmir S",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f93fcd9ba504dcf73aaa",
+      "stationId": 647,
+      "stationName": "M-Școala Dezmir S",
+      "stationLat": 46.764369,
+      "stationLng": 23.71842,
+      "stationComments": "M-Școala Dezmir S",
+      "__v": 0,
+      "updated_at": "2020-12-09T13:46:48.704Z"
+    },
+    {
+      "_id": "5c88f93fcd9ba504dcf73ac7",
+      "stationId": 648,
+      "stationName": "M-Primăria Dezmir Sosire",
+      "stationLat": 46.766408,
+      "stationLng": 23.721003,
+      "stationComments": "M-Primăria Dezmir Sosire",
+      "__v": 0,
+      "updated_at": "2020-12-09T13:47:36.583Z"
+    },
+    {
+      "_id": "5c88f93fcd9ba504dcf73aeb",
+      "stationId": 649,
+      "stationName": "M-Primăria Dezmir Plecare",
+      "stationLat": 46.766373,
+      "stationLng": 23.720832,
+      "stationComments": "M-Primăria Dezmir Plecare",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:46:39.457Z"
+    },
+    {
+      "_id": "5c88f93fcd9ba504dcf73aec",
+      "stationId": 650,
+      "stationName": "M-Școala Dezmir N",
+      "stationLat": 46.764334,
+      "stationLng": 23.718337,
+      "stationComments": "M-Școala Dezmir N",
+      "__v": 0,
+      "updated_at": "2020-12-09T13:48:25.288Z"
+    },
+    {
+      "_id": "5c88f93fcd9ba504dcf73b10",
+      "stationId": 651,
+      "stationName": "M-Complex Dezmir N",
+      "stationLat": 46.762974,
+      "stationLng": 23.714974,
+      "stationComments": "M-Complex Dezmir N",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f93fcd9ba504dcf73b11",
+      "stationId": 652,
+      "stationName": "M-Tăușor E",
+      "stationLat": 46.764778,
+      "stationLng": 23.711175,
+      "stationComments": "M-Tăușor E",
+      "__v": 0,
+      "updated_at": "2020-12-09T13:50:15.032Z"
+    },
+    {
+      "_id": "5c88f93fcd9ba504dcf73b1d",
+      "stationId": 653,
+      "stationName": "M-Crișeni E",
+      "stationLat": 46.767743,
+      "stationLng": 23.709542,
+      "stationComments": "M-Crișeni E",
+      "__v": 0,
+      "updated_at": "2020-12-09T13:51:06.136Z"
+    },
+    {
+      "_id": "5c88f93fcd9ba504dcf73b40",
+      "stationId": 654,
+      "stationName": "M-Trandafirilor E",
+      "stationLat": 46.771428,
+      "stationLng": 23.706737,
+      "stationComments": "M-Trandafirilor E",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f93fcd9ba504dcf73b4a",
+      "stationId": 655,
+      "stationName": "M-Bonas",
+      "stationLat": 46.775615,
+      "stationLng": 23.706146,
+      "stationComments": "M-Bonas",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f93fcd9ba504dcf73b53",
+      "stationId": 656,
+      "stationName": "M-Octavian Paler E",
+      "stationLat": 46.801354,
+      "stationLng": 23.765514,
+      "stationComments": "M-Octavian Paler E",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f93fcd9ba504dcf73b5b",
+      "stationId": 657,
+      "stationName": "M-Ramificație Corpadea N",
+      "stationLat": 46.804683,
+      "stationLng": 23.840866,
+      "stationComments": "M-Ramificație Corpadea N",
+      "__v": 0,
+      "updated_at": "2020-12-09T13:52:04.485Z"
+    },
+    {
+      "_id": "5c88f93fcd9ba504dcf73b67",
+      "stationId": 658,
+      "stationName": "M-Moara V",
+      "stationLat": 46.797347,
+      "stationLng": 23.833393,
+      "stationComments": "M-Moara V",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f93fcd9ba504dcf73b6c",
+      "stationId": 659,
+      "stationName": "M-Stadion V",
+      "stationLat": 46.792632,
+      "stationLng": 23.827857,
+      "stationComments": "M-Stadion V",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f93fcd9ba504dcf73b70",
+      "stationId": 660,
+      "stationName": "M-Biserica Corpadea Sosire",
+      "stationLat": 46.788575,
+      "stationLng": 23.823946,
+      "stationComments": "M-Biserica Corpadea Sosire",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:53:59.757Z"
+    },
+    {
+      "_id": "5c88f940cd9ba504dcf73b7b",
+      "stationId": 661,
+      "stationName": "M-Biserica Corpadea Plecare",
+      "stationLat": 46.788515,
+      "stationLng": 23.824059,
+      "stationComments": "M-Biserica Corpadea Plecare",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:48:31.669Z"
+    },
+    {
+      "_id": "5c88f940cd9ba504dcf73b7c",
+      "stationId": 662,
+      "stationName": "M-Stadion E",
+      "stationLat": 46.792737,
+      "stationLng": 23.828053,
+      "stationComments": "M-Stadion E",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f940cd9ba504dcf73b90",
+      "stationId": 663,
+      "stationName": "M-Moara E",
+      "stationLat": 46.797195,
+      "stationLng": 23.833401,
+      "stationComments": "M-Moara E",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f940cd9ba504dcf73b91",
+      "stationId": 664,
+      "stationName": "M-Ramificație Corpadea S",
+      "stationLat": 46.804582,
+      "stationLng": 23.84086,
+      "stationComments": "M-Ramificație Corpadea S",
+      "__v": 0,
+      "updated_at": "2020-12-09T13:52:35.911Z"
+    },
+    {
+      "_id": "5c88f940cd9ba504dcf73ba0",
+      "stationId": 665,
+      "stationName": "M-Octavian Paler V",
+      "stationLat": 46.801323,
+      "stationLng": 23.765359,
+      "stationComments": "M-Octavian Paler V",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f940cd9ba504dcf73ba4",
+      "stationId": 666,
+      "stationName": "M-Platanilor S",
+      "stationLat": 46.733386,
+      "stationLng": 23.738194,
+      "stationComments": "M-Platanilor S",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f940cd9ba504dcf73ba8",
+      "stationId": 667,
+      "stationName": "M-Școala Pata S",
+      "stationLat": 46.727461,
+      "stationLng": 23.745642,
+      "stationComments": "M-Școala Pata S",
+      "__v": 0,
+      "updated_at": "2020-12-09T13:53:06.883Z"
+    },
+    {
+      "_id": "5c88f940cd9ba504dcf73bb5",
+      "stationId": 668,
+      "stationName": "M-Primărie Pata Sosire",
+      "stationLat": 46.725348,
+      "stationLng": 23.749236,
+      "stationComments": "M-Primărie Pata Sosire",
+      "__v": 0,
+      "updated_at": "2020-12-09T13:53:46.110Z"
+    },
+    {
+      "_id": "5c88f940cd9ba504dcf73bbe",
+      "stationId": 669,
+      "stationName": "M-Primărie Pata Plecare",
+      "stationLat": 46.725409,
+      "stationLng": 23.74936,
+      "stationComments": "M-Primărie Pata Plecare",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:42:59.247Z"
+    },
+    {
+      "_id": "5c88f940cd9ba504dcf73bd6",
+      "stationId": 670,
+      "stationName": "M-Școala Pata N",
+      "stationLat": 46.727533,
+      "stationLng": 23.745768,
+      "stationComments": "M-Școala Pata N",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:03:49.768Z"
+    },
+    {
+      "_id": "5c88f940cd9ba504dcf73c03",
+      "stationId": 671,
+      "stationName": "M-Platanilor N",
+      "stationLat": 46.733383,
+      "stationLng": 23.738794,
+      "stationComments": "M-Platanilor N",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f940cd9ba504dcf73c0f",
+      "stationId": 672,
+      "stationName": "M - DN1F Est",
+      "stationLat": 46.80271,
+      "stationLng": 23.45565,
+      "stationComments": "",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f940cd9ba504dcf73c10",
+      "stationId": 673,
+      "stationName": "M - DN1F Est",
+      "stationLat": 46.80271,
+      "stationLng": 23.45565,
+      "stationComments": "",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f940cd9ba504dcf73c18",
+      "stationId": 674,
+      "stationName": "I.P. Voitești",
+      "stationLat": 46.774859,
+      "stationLng": 23.59145,
+      "stationComments": "",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:00:40.747Z"
+    },
+    {
+      "_id": "5c88f940cd9ba504dcf73c1b",
+      "stationId": 675,
+      "stationName": "Poliția Est",
+      "stationLat": 46.77994,
+      "stationLng": 23.590009,
+      "stationComments": "Poliția Est",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:01:07.490Z"
+    },
+    {
+      "_id": "5c88f940cd9ba504dcf73c23",
+      "stationId": 676,
+      "stationName": "Grupul Școlar CFR Est",
+      "stationLat": 46.783541,
+      "stationLng": 23.591299,
+      "stationComments": "Grupul Școlar CFR Est",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:04:27.301Z"
+    },
+    {
+      "_id": "5c88f940cd9ba504dcf73c36",
+      "stationId": 677,
+      "stationName": "Mag. CORA",
+      "stationLat": 46.75984,
+      "stationLng": 23.54251,
+      "stationComments": "Mag. CORA",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f940cd9ba504dcf73c45",
+      "stationId": 678,
+      "stationName": "Teatru",
+      "stationLat": 46.77015,
+      "stationLng": 23.59677,
+      "stationComments": "Teatru",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f940cd9ba504dcf73c6a",
+      "stationId": 679,
+      "stationName": "Nordului",
+      "stationLat": 46.7522,
+      "stationLng": 23.62339,
+      "stationComments": "Nordului",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f940cd9ba504dcf73c7d",
+      "stationId": 680,
+      "stationName": "Uranus",
+      "stationLat": 46.748308,
+      "stationLng": 23.63053,
+      "stationComments": "Uranus",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f940cd9ba504dcf73c86",
+      "stationId": 681,
+      "stationName": "Voievodul Glad",
+      "stationLat": 46.74496,
+      "stationLng": 23.63666,
+      "stationComments": "Voievodul Glad",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f940cd9ba504dcf73c8a",
+      "stationId": 682,
+      "stationName": "Posada",
+      "stationLat": 46.7685,
+      "stationLng": 23.59848,
+      "stationComments": "Posada",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f941cd9ba504dcf73c8b",
+      "stationId": 683,
+      "stationName": "Facultatea de Construcții",
+      "stationLat": 46.772181,
+      "stationLng": 23.585676,
+      "stationComments": "",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:05:15.275Z"
+    },
+    {
+      "_id": "5c88f941cd9ba504dcf73c8c",
+      "stationId": 684,
+      "stationName": "Facultatea de Electronica",
+      "stationLat": 46.77203,
+      "stationLng": 23.585031,
+      "stationComments": "",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f941cd9ba504dcf73c99",
+      "stationId": 685,
+      "stationName": "Liceul N. Bălcescu",
+      "stationLat": 46.77459,
+      "stationLng": 23.59677,
+      "stationComments": "",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:05:32.589Z"
+    },
+    {
+      "_id": "5c88f941cd9ba504dcf73cc5",
+      "stationId": 686,
+      "stationName": "Liceul Avram Iancu",
+      "stationLat": 46.77769,
+      "stationLng": 23.60202,
+      "stationComments": "",
+      "__v": 0
+    },
+    {
+      "_id": "5c88f941cd9ba504dcf73cca",
+      "stationId": 687,
+      "stationName": "Henri Barbusse Sosire",
+      "stationLat": 46.782915,
+      "stationLng": 23.607737,
+      "stationComments": "Henri Barbusse Sosire",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:18:22.473Z"
+    },
+    {
+      "_id": "5c88f941cd9ba504dcf73ccb",
+      "stationId": 688,
+      "stationName": "Roata Faget Plecare",
+      "stationLat": 46.74182,
+      "stationLng": 23.535654,
+      "stationComments": "Roata Faget Plecare",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:47:46.570Z"
+    },
+    {
+      "_id": "5c88f941cd9ba504dcf73cd8",
+      "stationId": 689,
+      "stationName": "Roata Faget Sosire",
+      "stationLat": 46.742028,
+      "stationLng": 23.535463,
+      "stationComments": "Roata Faget Sosire",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:12:03.499Z"
+    },
+    {
+      "_id": "5c88f941cd9ba504dcf73cf1",
+      "stationId": 690,
+      "stationName": "Henri Barbusse Plecare",
+      "stationLat": 46.782976,
+      "stationLng": 23.607888,
+      "stationComments": "Henri Barbusse Plecare",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:47:55.939Z"
+    },
+    {
+      "_id": "5c88f941cd9ba504dcf73cfa",
+      "stationId": 691,
+      "stationName": "M-Pasaj Luna",
+      "stationLat": 46.73952,
+      "stationLng": 23.42772,
+      "stationComments": "",
+      "__v": 0
+    },
+    {
+      "_id": "5cf4a90e6fe04f0556abde0a",
+      "stationId": 692,
+      "stationName": "Str. Kogălniceanu",
+      "stationLat": 46.76754,
+      "stationLng": 23.59263,
+      "stationComments": "",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:06:19.474Z"
+    },
+    {
+      "_id": "5cf4b1556fe04f0556b3e6de",
+      "stationId": 693,
+      "stationName": "Str. Kogălniceanu Plecare",
+      "stationLat": 46.7676,
+      "stationLng": 23.59015,
+      "stationComments": "",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:49:14.741Z"
+    },
+    {
+      "_id": "5d661cd91752b00afd9d6df4",
+      "stationId": 694,
+      "stationName": "Ploiești",
+      "stationLat": 46.77745,
+      "stationLng": 23.59784,
+      "stationComments": "",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:07:10.771Z"
+    },
+    {
+      "_id": "5d75dc871752b00afdc8ee49",
+      "stationId": 695,
+      "stationName": "P-ța Agroalimentară IRA",
+      "stationLat": 46.7833,
+      "stationLng": 23.63692,
+      "stationComments": "",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:07:27.582Z"
+    },
+    {
+      "_id": "5d75dcd21752b00afdc8f99b",
+      "stationId": 696,
+      "stationName": "Expo Transilvania Nord",
+      "stationLat": 46.78214,
+      "stationLng": 23.629,
+      "stationComments": "",
+      "__v": 0
+    },
+    {
+      "_id": "5d75dcf81752b00afdc8fc7e",
+      "stationId": 697,
+      "stationName": "Expo Transilvania Sud",
+      "stationLat": 46.782078,
+      "stationLng": 23.628957,
+      "stationComments": "",
+      "__v": 0
+    },
+    {
+      "_id": "5d75dd221752b00afdc8fe1f",
+      "stationId": 698,
+      "stationName": "Campus UTCN Nord",
+      "stationLat": 46.781016,
+      "stationLng": 23.622997,
+      "stationComments": "",
+      "__v": 0
+    },
+    {
+      "_id": "5d75dd481752b00afdc8feed",
+      "stationId": 699,
+      "stationName": "Campus UTCN Sud",
+      "stationLat": 46.780671,
+      "stationLng": 23.621785,
+      "stationComments": "",
+      "__v": 0
+    },
+    {
+      "_id": "5d75de321752b00afdc919d1",
+      "stationId": 700,
+      "stationName": "B. St. Delavrancea",
+      "stationLat": 46.764659,
+      "stationLng": 23.606567,
+      "stationComments": "",
+      "__v": 0
+    },
+    {
+      "_id": "5d94994f0dd375053039754a",
+      "stationId": 701,
+      "stationName": "Simion Bărnuțiu",
+      "stationLat": 46.773409,
+      "stationLng": 23.607221,
+      "stationComments": "",
+      "__v": 0,
+      "updated_at": "2020-12-09T14:07:55.420Z"
+    },
+    {
+      "_id": "5f9a5976e481f9692f8a3db2",
+      "updated_at": "2020-12-10T14:37:30.993Z",
+      "created_at": "2020-10-29T05:56:06.529Z",
+      "stationId": 702,
+      "stationName": "Vama",
+      "stationLat": 46.78219,
+      "stationLng": 23.69998,
+      "stationComments": "Vama",
+      "__v": 0
+    },
+    {
+      "_id": "5fe1901f9a75738fa07547e8",
+      "updated_at": "2020-12-22T06:22:31.462Z",
+      "created_at": "2020-12-22T06:20:15.417Z",
+      "stationId": 703,
+      "stationName": "M Primaria Gilau Nord",
+      "stationLat": 46.75585,
+      "stationLng": 23.3867,
+      "stationComments": "M Primaria Gilau Nord",
+      "__v": 0
+    },
+    {
+      "_id": "5fe190609a75738fa0758a53",
+      "updated_at": "2021-01-05T12:33:00.269Z",
+      "created_at": "2020-12-22T06:21:21.000Z",
+      "stationId": 704,
+      "stationName": "M Primaria Gilau Sud",
+      "stationLat": 46.75562,
+      "stationLng": 23.38665,
+      "stationComments": "M Primaria Gilau Sud",
+      "__v": 0
+    },
+    {
+      "_id": "5fe191509a75738fa0767477",
+      "updated_at": "2021-01-05T12:32:40.982Z",
+      "created_at": "2020-12-22T06:25:20.676Z",
+      "stationId": 705,
+      "stationName": "M RAR Nord",
+      "stationLat": 46.75129,
+      "stationLng": 23.4082,
+      "stationComments": "M RAR Nord",
+      "__v": 0
+    },
+    {
+      "_id": "5fe191839a75738fa076a444",
+      "updated_at": "2021-01-05T12:32:23.547Z",
+      "created_at": "2020-12-22T06:26:11.501Z",
+      "stationId": 706,
+      "stationName": "M RAR Sud",
+      "stationLat": 46.75108,
+      "stationLng": 23.40837,
+      "stationComments": "M RAR Sud",
+      "__v": 0
+    },
+    {
+      "_id": "5fe191f69a75738fa0770eed",
+      "updated_at": "2020-12-22T06:28:06.784Z",
+      "created_at": "2020-12-22T06:28:06.784Z",
+      "stationId": 707,
+      "stationName": "M La Fantana Nord",
+      "stationLat": 46.7515,
+      "stationLng": 23.39654,
+      "stationComments": "M La Fantana Nord",
+      "__v": 0
+    },
+    {
+      "_id": "5fe192179a75738fa0772c44",
+      "updated_at": "2020-12-22T06:28:39.354Z",
+      "created_at": "2020-12-22T06:28:39.354Z",
+      "stationId": 708,
+      "stationName": "M La Fantana Sud",
+      "stationLat": 46.75134,
+      "stationLng": 23.39731,
+      "stationComments": "M La Fantana Sud",
+      "__v": 0
+    },
+    {
+      "_id": "5fe193f29a75738fa078dd8e",
+      "updated_at": "2020-12-22T06:36:34.524Z",
+      "created_at": "2020-12-22T06:36:34.524Z",
+      "stationId": 709,
+      "stationName": "M Statia de Tratare Est ",
+      "stationLat": 46.74501,
+      "stationLng": 23.37684,
+      "stationComments": "M Statia de Tratare Est ",
+      "__v": 0
+    },
+    {
+      "_id": "5fe194249a75738fa0790d9d",
+      "updated_at": "2020-12-22T06:37:24.341Z",
+      "created_at": "2020-12-22T06:37:24.341Z",
+      "stationId": 710,
+      "stationName": "M Statia de Tratare Vest",
+      "stationLat": 46.74489,
+      "stationLng": 23.37677,
+      "stationComments": "M Statia de Tratare Vest",
+      "__v": 0
+    },
+    {
+      "_id": "5fe194a59a75738fa0797e97",
+      "updated_at": "2020-12-22T06:39:33.115Z",
+      "created_at": "2020-12-22T06:39:33.115Z",
+      "stationId": 711,
+      "stationName": "M Complex Somesul Rece Nord",
+      "stationLat": 46.73233,
+      "stationLng": 23.36147,
+      "stationComments": "M Complex Somesul Rece Nord",
+      "__v": 0
+    },
+    {
+      "_id": "5fe194ce9a75738fa079a25c",
+      "updated_at": "2020-12-22T06:40:14.883Z",
+      "created_at": "2020-12-22T06:40:14.883Z",
+      "stationId": 712,
+      "stationName": "M Complex Somesul Rece Sud",
+      "stationLat": 46.73232,
+      "stationLng": 23.36168,
+      "stationComments": "M Complex Somesul Rece Sud",
+      "__v": 0
+    },
+    {
+      "_id": "5fe195b69a75738fa07a8bff",
+      "updated_at": "2020-12-22T06:44:06.956Z",
+      "created_at": "2020-12-22T06:44:06.956Z",
+      "stationId": 713,
+      "stationName": "M Camin Somesul Rece",
+      "stationLat": 46.72839,
+      "stationLng": 23.36336,
+      "stationComments": "M Camin Somesul Rece",
+      "__v": 0
+    },
+    {
+      "_id": "5fe195f09a75738fa07ac302",
+      "updated_at": "2020-12-22T06:45:04.714Z",
+      "created_at": "2020-12-22T06:45:04.714Z",
+      "stationId": 714,
+      "stationName": "M Biserica Somesul Rece",
+      "stationLat": 46.72828,
+      "stationLng": 23.36358,
+      "stationComments": "M Biserica Somesul Rece",
+      "__v": 0
+    },
+    {
+      "_id": "5fe1966e9a75738fa07b40e3",
+      "updated_at": "2020-12-22T06:47:10.126Z",
+      "created_at": "2020-12-22T06:47:10.126Z",
+      "stationId": 715,
+      "stationName": "M Gura Rastii Nord",
+      "stationLat": 46.691788,
+      "stationLng": 23.307974,
+      "stationComments": "M Gura Rastii Nord",
+      "__v": 0
+    },
+    {
+      "_id": "5fe196e59a75738fa07bb487",
+      "updated_at": "2020-12-22T06:49:09.636Z",
+      "created_at": "2020-12-22T06:49:09.636Z",
+      "stationId": 716,
+      "stationName": "M Gura Rastii Sud",
+      "stationLat": 46.69154,
+      "stationLng": 23.30772,
+      "stationComments": "M Gura Rastii Sud",
+      "__v": 0
+    },
+    {
+      "_id": "5fe197359a75738fa07c058d",
+      "updated_at": "2020-12-22T06:50:29.818Z",
+      "created_at": "2020-12-22T06:50:29.818Z",
+      "stationId": 717,
+      "stationName": "M Uzina Electrica Nord",
+      "stationLat": 46.68615,
+      "stationLng": 23.28878,
+      "stationComments": "M Uzina Electrica Nord",
+      "__v": 0
+    },
+    {
+      "_id": "5fe197589a75738fa07c2773",
+      "updated_at": "2020-12-22T06:51:04.078Z",
+      "created_at": "2020-12-22T06:51:04.078Z",
+      "stationId": 718,
+      "stationName": "M Uzina Electrica Sud",
+      "stationLat": 46.685983,
+      "stationLng": 23.288483,
+      "stationComments": "M Uzina Electrica Sud",
+      "__v": 0
+    },
+    {
+      "_id": "5fe197ef9a75738fa07cbda4",
+      "updated_at": "2020-12-22T10:05:49.737Z",
+      "created_at": "2020-12-22T06:53:35.927Z",
+      "stationId": 719,
+      "stationName": "M Nurcariei",
+      "stationLat": 46.76094,
+      "stationLng": 23.37377,
+      "stationComments": "M Nurcariei",
+      "__v": 0
+    },
+    {
+      "_id": "5fe1981f9a75738fa07ce9f0",
+      "updated_at": "2020-12-22T06:54:23.962Z",
+      "created_at": "2020-12-22T06:54:23.962Z",
+      "stationId": 720,
+      "stationName": "M Gradinii Nord",
+      "stationLat": 46.761365,
+      "stationLng": 23.372803,
+      "stationComments": "M Gradinii Nord",
+      "__v": 0
+    },
+    {
+      "_id": "5fe1986b9a75738fa07d31ec",
+      "updated_at": "2021-01-05T11:05:03.453Z",
+      "created_at": "2020-12-22T06:55:39.602Z",
+      "stationId": 721,
+      "stationName": "M Peco Sud",
+      "stationLat": 46.76421,
+      "stationLng": 23.36099,
+      "stationComments": "M Peco Sud",
+      "__v": 0
+    },
+    {
+      "_id": "5fe1988c9a75738fa07d5002",
+      "updated_at": "2021-01-05T11:04:24.234Z",
+      "created_at": "2020-12-22T06:56:12.855Z",
+      "stationId": 722,
+      "stationName": "M Peco Nord",
+      "stationLat": 46.7646,
+      "stationLng": 23.36061,
+      "stationComments": "M Peco Nord",
+      "__v": 0
+    },
+    {
+      "_id": "5fe19c0e9a75738fa0804f54",
+      "updated_at": "2020-12-22T07:11:10.486Z",
+      "created_at": "2020-12-22T07:11:10.486Z",
+      "stationId": 723,
+      "stationName": "M Ferma 9 Sud",
+      "stationLat": 46.74419,
+      "stationLng": 23.45559,
+      "stationComments": "M Ferma 9 Sud",
+      "__v": 0
+    },
+    {
+      "_id": "603cb61daa1155b72bf7b2a6",
+      "updated_at": "2021-03-01T09:38:37.219Z",
+      "created_at": "2021-03-01T09:38:37.219Z",
+      "stationId": 724,
+      "stationName": "M Gradinii Nord",
+      "stationLat": 46.761268264642,
+      "stationLng": 23.373073026894,
+      "stationComments": "M Gradinii Nord",
+      "__v": 0
+    },
+    {
+      "_id": "60add3cb3cf0c58a5f86a2b7",
+      "updated_at": "2021-05-26T04:51:23.094Z",
+      "created_at": "2021-05-26T04:51:23.094Z",
+      "stationId": 725,
+      "stationName": " M-Muncitorilor",
+      "stationLat": 46.743,
+      "stationLng": 23.49848,
+      "stationComments": "M-Muncitorilor",
+      "__v": 0
+    }
+  ]
+}
