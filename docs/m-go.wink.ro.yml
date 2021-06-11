@@ -1,0 +1,123 @@
+openapi: '3.0.2'
+info:
+  version: '1.0'
+  title: m-go.wink.ro BUS API
+  description: Reverse engineering the public APIs available for the transport network of Cluj.
+  contact:
+    name: Pricope Stefan-Cristian
+    email: scpricope@gmail.com
+    url: https://scpricope.com  
+servers:
+  - url: https://virtserver.swaggerhub.com/pricope.stefan/test-api/1.0.0
+    description: SwaggerHub testing and mocking server.
+  - url: https://m-go.wink.ro/
+    description: Official API, please do not DDOS their website.
+tags:
+  - name: authenticated
+    description: Only authenticated calls available
+paths:
+  /api/station/all:
+    get:
+      tags:
+      - authenticated
+      parameters:
+        - in: header
+          name: azza
+          required: true
+          schema:
+            type: string
+            example: "eyJhbGciOiJIUzI1NiJ9.Ykk2MTdQQU51b2lVWWhFTzgzMkJNdmVodUFrbk9MaWY.IX1_yu8Al_OUcWivOBQRnX46Cd2Bh_ybzZqqo_eueYA"
+          description: JWT meant for authenticating to the API. Found hardcoded in the `Bus Cluj-Napoca` Android application.
+      responses:
+        '200':
+          description: Successful request that returns all the bus stations in Cluj-Napoca.
+          content:
+            application/json:
+              schema:
+                $ref:  "#/components/schemas/StationResponse"
+        '403':
+          description: No token header was found or an incorrect token was provided.
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/TokenHeaderError"
+              examples:
+                No Token Header:
+                  value:
+                    type: false
+                    data: "No token was found."
+                Invalid Token Provided:
+                  value:
+                    type: false
+                    data: "We didn't manage to authenticate the token."
+        
+components:
+  schemas:
+    TokenHeaderError:
+      type: object
+      properties:
+        type:
+          type: boolean
+        data:
+          type: string
+    StationResponse:
+      type: object
+      properties:
+        type:
+          type: boolean
+          example: true
+        data:
+          type: array
+          items:
+            $ref: "#/components/schemas/StationItem"
+    StationItem:
+      type: object
+      properties:
+        _id:
+          type: string
+          format: uuid
+          example: 5c88f922cd9ba504dcf71e3a
+        stationId:
+          type: integer
+          format: uuid
+          example: 1
+        stationName:
+          type: string
+          example: "Disp. Clăbucet"
+          description: "General name for the station."
+        stationLat:
+          type: number
+          example: 46.75144
+          description: "The latitude of the station, usually to a 5 digit precision."
+        stationLong:
+          type: number
+          example: 23.54292
+          description: "The longitutde of the station, usually to a 5 digit precision." 
+        stationComments:
+          type: string
+          example: "Disp. Clăbucet"
+        __v:
+          type: integer
+          example: 0
+          description: "Absolutely no clue."
+        updated_at:
+          type: string
+          format: date-time
+          example: "2020-12-02T14:46:09.689Z"
+    RouteResponse:
+      type: object
+      properties:
+        type:
+          type: boolean
+          example: true
+        data:
+          type: array
+          items:
+            $ref: "#/components/schemas/RouteItem"
+    RouteItem:
+      type: object
+      properties:
+        _id:
+          type: string
+          format: uuid
+          example: lalalala
