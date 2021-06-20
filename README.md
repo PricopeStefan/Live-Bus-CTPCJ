@@ -16,16 +16,17 @@
   - `roclj.tranzy.wink.ro` - base domain 2
     - `/stations` - return all information about stations/bus stops (similar to the `m-go.wink.ro/api/station/all` endpoint, but also includes basic information about all routes that pass through the station).
     - `/stations/<station id>` - returns information only about the station with the specified id. Also returns live arrival data (how many minutes left until the bus arrives).
-    - `/stations/next-on-routes/<station id>/<latitude>/<longitude>` - returns only live arrival data for the specified station id. Also requires a latitude and longitude for an unknown reason, can be set to any integer value.
+    - `/stations/next-on-routes/<station id>/<latitude>/<longitude>` - returns only live arrival data for the specified station id. Also requires a latitude and longitude for an unknown reason, can be set to any positive float value.
     - `/route/<route id>?startStationId=<station id>&nextVehicleIdOnRoute=` - needs further analysis
     - `/api/autocomplete/<station name>` - not hard
     - `/routesnearme/<latitude>/<longitude>/<max results>` - not hard
-
-
+  - `osm.tranzy.wink.ro` - base domain 3, used for OpenStreetMaps integration. Running [Open Source Routing Machine](https://github.com/Project-OSRM/osrm-backend) as the backend. API endpoints used from this framework:
+    - `/reverse?format=jsonv2&lat=<latitude>&lon=<longitude>` - reverse map a pair of lat, long coordinates (give lat, long coordinates, returns street address and other general information)
+    - `/route/v1/foot/<longitudeStart>,<latitudeStart>;<longitudeEnd>,<latitudeEnd>` - returns a route between the given start and end coordinates, the length of the route in feet, estimated duration (unknown time unit, doesn't seem like seconds).
 
 
 ### Analyzed using `HTTP Toolkit`
 Useful query for filtering out uninteresting requests:
 ```
-hostname!=clients4.google.com hostname!=app-measurement.com hostname!=chromefeedcontentsuggestions-pa.googleapis.com hostname!=googleads.g.doubleclick.net hostname!=clientservices.googleapis.com hostname!=safebrowsing.googleapis.com hostname!=graph.facebook.com hostname!=a.tile.openstreetmap.org hostname!=b.tile.openstreetmap.org hostname!=c.tile.openstreetmap.org 
+hostname!=clients4.google.com hostname!=app-measurement.com hostname!=chromefeedcontentsuggestions-pa.googleapis.com hostname!=googleads.g.doubleclick.net hostname!=clientservices.googleapis.com hostname!=safebrowsing.googleapis.com hostname!=graph.facebook.com hostname!=a.tile.openstreetmap.org hostname!=b.tile.openstreetmap.org hostname!=c.tile.openstreetmap.org hostname!=www.googleapis.com 
 ```
